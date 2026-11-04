@@ -22,6 +22,9 @@ dependencies = [
     "en-core-web-md",
     "de-core-news-md",
     "tabulate>=0.10.0",
+    "smartnoise-synth>=1.0.8",
+    "anonymeter>=1.1.0",
+    "gliner>=0.2.30",
 ]
 
 [project.scripts]
