@@ -199,11 +199,23 @@ def _fill(template: str, values: dict[str, str]) -> tuple[str, list[Span]]:
     return "".join(out), spans
 
 
-def generate_tickets(students: pd.DataFrame, n: int, seed: int) -> pd.DataFrame:
+def _ticket_streams(seed: int) -> tuple[list[str], np.random.Generator, Faker]:
+    """Random streams for the tickets, with the 25 staff names drawn first. staff_roster and
+    generate_tickets share this, so the staff register is exactly the set of names in the tickets."""
     rng = np.random.default_rng([seed, 1])
     fk = Faker("de_DE")
     fk.seed_instance(seed + 1)
     staff = [f"{rng.choice(['Prof. Dr.', 'Dr.', 'Frau', 'Herr'])} {fk.last_name()}" for _ in range(25)]
+    return staff, rng, fk
+
+
+def staff_roster(seed: int) -> list[str]:
+    """Staff names (title + surname) that generate_tickets(..., seed) mentions: the staff register."""
+    return _ticket_streams(seed)[0]
+
+
+def generate_tickets(students: pd.DataFrame, n: int, seed: int) -> pd.DataFrame:
+    staff, rng, fk = _ticket_streams(seed)
     nat_counts = students.groupby(["nationality", "programme"]).size()
     rows = []
     for i in range(n):

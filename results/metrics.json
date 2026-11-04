@@ -7,8 +7,14 @@
     "l": 2,
     "max_suppression": 0.05,
     "ctgan_epochs": 300,
+    "epsilons": [
+      1.0,
+      5.0
+    ],
     "train_rows": 720,
-    "holdout_rows": 193
+    "holdout_rows": 193,
+    "quick": false,
+    "n_attacks": 500
   },
   "uniqueness_by_qi_set": {
     "nationality + programme": 0.043055555555555555,
@@ -16,34 +22,45 @@
     "+ age": 0.5416666666666666,
     "all 6 QIs": 0.8333333333333334
   },
-  "k_anonymity": {
-    "node": {
-      "age": 3,
-      "gender": 0,
-      "nationality": 3,
-      "programme": 0,
-      "enrolment_year": 0,
-      "postcode": 2
-    },
-    "suppressed": 34,
-    "loss": 0.4444444444444444,
-    "classes": 27,
-    "nodes_checked": 1152,
-    "nodes_feasible": 166
-  },
   "text": {
     "spans": 1407,
-    "recall_direct_identifiers": 0.9335394126738794,
-    "leak_rate_direct_identifiers": 0.06646058732612056,
-    "fully_masked_direct_identifiers": 0.8948995363214838,
+    "recall_direct_identifiers": 0.999227202472952,
+    "leak_rate_direct_identifiers": 0.0007727975270479134,
+    "fully_masked_direct_identifiers": 0.9984544049459042,
     "indirect_identifiers_mean_coverage": 0.2648818894160349,
-    "precision": 0.8841041998936736,
-    "tickets_without_direct_leak": 0.8410351201478743,
-    "recall_de": 0.9669260700389105,
-    "recall_en": 0.921612541993281,
-    "leak_rate_de": 0.033073929961089495,
-    "leak_rate_en": 0.07838745800671892
+    "precision": 0.8933463796477495,
+    "tickets_without_direct_leak": 0.9981515711645101,
+    "recall_de": 0.9980544747081712,
+    "recall_en": 0.9988801791713325,
+    "leak_rate_de": 0.0019455252918287938,
+    "leak_rate_en": 0.0011198208286674132
   },
+  "text_variants": [
+    {
+      "pipeline": "spaCy",
+      "recall_direct_identifiers": 0.9335394126738794,
+      "leak_rate_direct_identifiers": 0.06646058732612056,
+      "indirect_identifiers_mean_coverage": 0.2648818894160349,
+      "precision": 0.8841041998936736,
+      "person_leak_rate": 0.15140845070422534
+    },
+    {
+      "pipeline": "spaCy + register",
+      "recall_direct_identifiers": 0.999227202472952,
+      "leak_rate_direct_identifiers": 0.0007727975270479134,
+      "indirect_identifiers_mean_coverage": 0.2648818894160349,
+      "precision": 0.8933463796477495,
+      "person_leak_rate": 0.0017605633802816902
+    },
+    {
+      "pipeline": "GLiNER + register",
+      "recall_direct_identifiers": 1.0,
+      "leak_rate_direct_identifiers": 0.0,
+      "indirect_identifiers_mean_coverage": 0.024605528651888548,
+      "precision": 0.9985580389329488,
+      "person_leak_rate": 0.0
+    }
+  ],
   "text_by_label": [
     {
       "label": "DATE_OF_BIRTH",
@@ -90,9 +107,9 @@
     {
       "label": "PERSON",
       "n": 568,
-      "recall": 0.8485915492957746,
-      "coverage": 0.8046512921687343,
-      "leak_rate": 0.15140845070422534
+      "recall": 0.9982394366197183,
+      "coverage": 0.9975792253521126,
+      "leak_rate": 0.0017605633802816902
     },
     {
       "label": "PHONE_NUMBER",
@@ -102,40 +119,127 @@
       "leak_rate": 0.0
     }
   ],
+  "indirect": {
+    "texts": 113,
+    "unique_before": 0.008849557522123894,
+    "unique_after": 0.0,
+    "median_before": 54.0,
+    "median_after": 913.0,
+    "min_before": 1,
+    "min_after": 6
+  },
+  "k_anonymity": {
+    "node": {
+      "age": 3,
+      "gender": 0,
+      "nationality": 3,
+      "programme": 0,
+      "enrolment_year": 0,
+      "postcode": 2
+    },
+    "suppressed": 34,
+    "loss": 0.4444444444444444,
+    "classes": 27,
+    "nodes_checked": 1152,
+    "nodes_feasible": 166
+  },
+  "kanon_comparison": [
+    {
+      "method": "full-domain (one level per attribute)",
+      "loss_ncp": 0.510378086419753,
+      "groups": 27,
+      "suppressed": 34,
+      "nationality_kept": 0.0
+    },
+    {
+      "method": "Mondrian (per-group recoding)",
+      "loss_ncp": 0.2709129050925926,
+      "groups": 83,
+      "suppressed": 0,
+      "nationality_kept": 0.8083333333333333
+    },
+    {
+      "method": "Mondrian, grades/credits/semester too",
+      "loss_ncp": 0.2784092996766608,
+      "groups": 92,
+      "suppressed": 0,
+      "nationality_kept": 0.7944444444444444
+    }
+  ],
   "releases": [
     {
       "release": "minimised raw",
       "rows": 720,
       "unique_share": 0.8333333333333334,
       "avg_reid_risk": 0.9083333333333333,
-      "max_reid_risk": 1.0,
-      "linkage_matched": 1.0,
       "belief_if_true": 1.0,
       "prior": 0.18194444444444444,
       "certain_disclosures": 103,
-      "marginal_similarity": 1.0,
-      "association_gap": 0.0,
+      "singling_out": 0.995673260374891,
+      "linkability": 0.3391349346115173,
+      "inference": 0.8125516607911999,
+      "mia_auc": 1.0,
+      "marginal_similarity": NaN,
+      "association_gap": NaN,
       "ml_auc_at_risk": 0.8909090909090909,
       "exact_copies": NaN,
-      "exact_copies_holdout": NaN,
       "dcr_median": NaN,
       "dcr_holdout_median": NaN
     },
     {
-      "release": "k-anonymised (k=5, l=2)",
+      "release": "k-anon full-domain (k=5, l=2)",
       "rows": 686,
       "unique_share": 0.0,
       "avg_reid_risk": 0.03935860058309038,
-      "max_reid_risk": 0.16666666666666666,
-      "linkage_matched": 0.9466666666666667,
       "belief_if_true": 0.2168591035721148,
       "prior": 0.18194444444444444,
       "certain_disclosures": 0,
-      "marginal_similarity": 0.9867115027829314,
-      "association_gap": 0.008915410166482092,
+      "singling_out": 0.9860736713142486,
+      "linkability": 0.0,
+      "inference": 0.0,
+      "mia_auc": 0.8609204087507195,
+      "marginal_similarity": NaN,
+      "association_gap": NaN,
       "ml_auc_at_risk": 0.9036890645586297,
       "exact_copies": NaN,
-      "exact_copies_holdout": NaN,
+      "dcr_median": NaN,
+      "dcr_holdout_median": NaN
+    },
+    {
+      "release": "k-anon Mondrian (k=5, l=2)",
+      "rows": 720,
+      "unique_share": 0.0,
+      "avg_reid_risk": 0.11527777777777778,
+      "belief_if_true": 0.2300074515109532,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "singling_out": 0.9954368381594375,
+      "linkability": 0.08074840279844138,
+      "inference": 0.0,
+      "mia_auc": 0.9455958549222798,
+      "marginal_similarity": NaN,
+      "association_gap": NaN,
+      "ml_auc_at_risk": 0.9009222661396574,
+      "exact_copies": NaN,
+      "dcr_median": NaN,
+      "dcr_holdout_median": NaN
+    },
+    {
+      "release": "k-anon Mondrian, all attributes",
+      "rows": 720,
+      "unique_share": 0.0,
+      "avg_reid_risk": 0.12638888888888888,
+      "belief_if_true": 0.23899182390044751,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "singling_out": 0.9936801631988922,
+      "linkability": 0.0,
+      "inference": 0.0,
+      "mia_auc": 0.5466321243523315,
+      "marginal_similarity": NaN,
+      "association_gap": NaN,
+      "ml_auc_at_risk": 0.7242424242424242,
+      "exact_copies": NaN,
       "dcr_median": NaN,
       "dcr_holdout_median": NaN
     },
@@ -144,64 +248,676 @@
       "rows": 720,
       "unique_share": NaN,
       "avg_reid_risk": NaN,
-      "max_reid_risk": NaN,
-      "linkage_matched": 0.97,
       "belief_if_true": 0.2396639574620592,
       "prior": 0.18194444444444444,
       "certain_disclosures": 0,
+      "singling_out": 0.0,
+      "linkability": 0.0,
+      "inference": 0.0,
+      "mia_auc": 0.5043141911341393,
       "marginal_similarity": 0.9277777777777778,
       "association_gap": 0.05218734308910899,
       "ml_auc_at_risk": 0.686429512516469,
       "exact_copies": 0.0,
-      "exact_copies_holdout": 0.19689119170984457,
       "dcr_median": 0.0238997113997114,
       "dcr_holdout_median": 0.0059523809523809555
     },
     {
-      "release": "twin of raw (GaussianCopula)",
+      "release": "twin (GaussianCopula)",
       "rows": 720,
       "unique_share": NaN,
       "avg_reid_risk": NaN,
-      "max_reid_risk": NaN,
-      "linkage_matched": 0.045,
       "belief_if_true": 0.2,
       "prior": 0.18194444444444444,
       "certain_disclosures": 1,
+      "singling_out": 0.05455528324879958,
+      "linkability": 0.0,
+      "inference": 0.0,
+      "mia_auc": 0.5195128094415659,
       "marginal_similarity": 0.8875,
       "association_gap": 0.09015064476560464,
       "ml_auc_at_risk": 0.7000000000000001,
       "exact_copies": 0.0,
-      "exact_copies_holdout": 0.0,
       "dcr_median": 0.130537518037518,
       "dcr_holdout_median": 0.09848484848484848
     },
     {
-      "release": "twin of raw (CTGAN)",
+      "release": "twin (CTGAN)",
       "rows": 720,
       "unique_share": NaN,
       "avg_reid_risk": NaN,
-      "max_reid_risk": NaN,
-      "linkage_matched": 0.05333333333333334,
       "belief_if_true": 0.041666666666666664,
       "prior": 0.18194444444444444,
       "certain_disclosures": 0,
+      "singling_out": 0.0759062882505089,
+      "linkability": 0.0,
+      "inference": 0.0,
+      "mia_auc": 0.5025870754173863,
       "marginal_similarity": 0.9172979797979799,
       "association_gap": 0.10508535123577575,
       "ml_auc_at_risk": 0.5193675889328064,
       "exact_copies": 0.0,
-      "exact_copies_holdout": 0.0,
       "dcr_median": 0.12018398268398268,
+      "dcr_holdout_median": 0.09848484848484848
+    },
+    {
+      "release": "DP twin (AIM, ε=1)",
+      "rows": 720,
+      "unique_share": NaN,
+      "avg_reid_risk": NaN,
+      "belief_if_true": 0.08333333333333333,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "singling_out": 0.06445968764542306,
+      "linkability": 0.0,
+      "inference": 0.0,
+      "mia_auc": 0.5179080310880828,
+      "marginal_similarity": 0.8999999999999999,
+      "association_gap": 0.12257916103029025,
+      "ml_auc_at_risk": 0.6101449275362318,
+      "exact_copies": 0.0,
+      "dcr_median": 0.14132395382395385,
+      "dcr_holdout_median": 0.09848484848484848
+    },
+    {
+      "release": "DP twin (AIM, ε=5)",
+      "rows": 720,
+      "unique_share": NaN,
+      "avg_reid_risk": NaN,
+      "belief_if_true": 0.19047619047619047,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 1,
+      "singling_out": 0.006697613669162553,
+      "linkability": 0.01579606401741503,
+      "inference": 0.0,
+      "mia_auc": 0.5341753022452504,
+      "marginal_similarity": 0.9630050505050506,
+      "association_gap": 0.04820368334033998,
+      "ml_auc_at_risk": 0.8088274044795785,
+      "exact_copies": 0.0,
+      "dcr_median": 0.10984848484848485,
       "dcr_holdout_median": 0.09848484848484848
     }
   ],
+  "attacks": {
+    "minimised raw": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.7224672001371107,
+          "ci_low": 0.42564193673050355,
+          "ci_high": 1.0,
+          "attack_rate": 0.8048328560489173,
+          "baseline_rate": 0.19516714395108267,
+          "control_rate": 0.29677809596738847
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.995673260374891,
+          "ci_low": 0.9913443186079892,
+          "ci_high": 1.0,
+          "attack_rate": 0.9961878297692239,
+          "baseline_rate": 0.0593852071649292,
+          "control_rate": 0.11892774673723606
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.3391349346115173,
+          "ci_low": 0.25698822800012594,
+          "ci_high": 0.4212816412229086,
+          "attack_rate": 0.4060157341302173,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.10120189887686801
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.8125516607911999,
+          "ci_low": 0.6733966790968191,
+          "ci_high": 0.9517066424855807,
+          "attack_rate": 0.9648410987613577,
+          "baseline_rate": 0.6498668023328967,
+          "control_rate": 0.812434181134683
+        }
+      ],
+      "mia": {
+        "auc": 1.0,
+        "tpr_at_1pct_fpr": 1.0,
+        "tpr_at_10pct_fpr": 1.0
+      }
+    },
+    "k-anon full-domain (k=5, l=2)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.7224672001371109,
+          "ci_low": 0.41951111288585874,
+          "ci_high": 1.0,
+          "attack_rate": 0.8228347824666563,
+          "baseline_rate": 0.17716521753334372,
+          "control_rate": 0.3616422360857187
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.9860736713142486,
+          "ci_low": 0.9720969665610352,
+          "ci_high": 1.0,
+          "attack_rate": 0.9897200042085396,
+          "baseline_rate": 0.01563212698499638,
+          "control_rate": 0.2618301618876502
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.016462756288378316,
+          "attack_rate": 0.035158901238642314,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.06056005417642142
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.36977028697944936,
+          "attack_rate": 0.8022737199595714,
+          "baseline_rate": 0.6244656493951176,
+          "control_rate": 0.812434181134683
+        }
+      ],
+      "mia": {
+        "auc": 0.8609204087507195,
+        "tpr_at_1pct_fpr": 0.04839108187134502,
+        "tpr_at_10pct_fpr": 0.4839108187134502
+      }
+    },
+    "k-anon Mondrian (k=5, l=2)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.6096657120978346,
+          "ci_low": 0.16954799516685354,
+          "ci_high": 1.0,
+          "attack_rate": 0.7550545817727013,
+          "baseline_rate": 0.24494541822729865,
+          "control_rate": 0.3724727091136493
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.9954368381594375,
+          "ci_low": 0.990870272236862,
+          "ci_high": 1.0,
+          "attack_rate": 0.9961878297692239,
+          "baseline_rate": 0.04350719661231403,
+          "control_rate": 0.16457702707600466
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.08074840279844138,
+          "ci_low": 0.0,
+          "ci_high": 0.3567593608611017,
+          "attack_rate": 0.7108295693835666,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.6854284164457874
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.09062825669686325,
+          "attack_rate": 0.6854284164457874,
+          "baseline_rate": 0.6498668023328967,
+          "control_rate": 0.7667121058466806
+        }
+      ],
+      "mia": {
+        "auc": 0.9455958549222798,
+        "tpr_at_1pct_fpr": 0.0919047619047619,
+        "tpr_at_10pct_fpr": 0.919047619047619
+      }
+    },
+    "k-anon Mondrian, all attributes": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "attack_rate": 0.0,
+          "baseline_rate": NaN,
+          "control_rate": NaN
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.9936801631988922,
+          "ci_low": 0.9873445035805448,
+          "ci_high": 1.0,
+          "attack_rate": 0.9961878297692239,
+          "baseline_rate": 0.04946145056954472,
+          "control_rate": 0.3967929314080014
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.3499459090276496,
+          "attack_rate": 0.7717923364342365,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.7768725670217923
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.28801818684245717,
+          "attack_rate": 0.6955888776208992,
+          "baseline_rate": 0.6498668023328967,
+          "control_rate": 0.700669108208455
+        }
+      ],
+      "mia": {
+        "auc": 0.5466321243523315,
+        "tpr_at_1pct_fpr": 0.011028571428571428,
+        "tpr_at_10pct_fpr": 0.11028571428571428
+      }
+    },
+    "twin of k-anon (GaussianCopula)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.06965356296518936,
+          "attack_rate": 0.07519618209579047,
+          "baseline_rate": 0.04945049616220202,
+          "control_rate": 0.15243323989655583
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.030295620924860527,
+          "attack_rate": 0.0963310408523019,
+          "baseline_rate": 0.01352715179636382,
+          "control_rate": 0.12048217516028384
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.031846482331152635,
+          "attack_rate": 0.07072051535153306,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.09612166828931218
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.23255321909384874,
+          "attack_rate": 0.6346261105702292,
+          "baseline_rate": 0.6651074940955642,
+          "control_rate": 0.6498668023328967
+        }
+      ],
+      "mia": {
+        "auc": 0.5043141911341393,
+        "tpr_at_1pct_fpr": 0.023416666666666665,
+        "tpr_at_10pct_fpr": 0.10416666666666667
+      }
+    },
+    "twin (GaussianCopula)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.033137954149835266,
+          "attack_rate": 0.03853678154279019,
+          "baseline_rate": 0.03853678154279019,
+          "control_rate": 0.09872763612416538
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.05455528324879958,
+          "ci_low": 0.005431161770517265,
+          "ci_high": 0.1036794047270819,
+          "attack_rate": 0.17450078367138913,
+          "baseline_rate": 0.04549194793139093,
+          "control_rate": 0.12686675201354364
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.03069920281874588,
+          "attack_rate": 0.040239131826198135,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.05039959300130978
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.15241687038892907,
+          "attack_rate": 0.6498668023328967,
+          "baseline_rate": 0.6651074940955642,
+          "control_rate": 0.7057493387960108
+        }
+      ],
+      "mia": {
+        "auc": 0.5195128094415659,
+        "tpr_at_1pct_fpr": 0.011111111111111112,
+        "tpr_at_10pct_fpr": 0.11472222222222223
+      }
+    },
+    "twin (CTGAN)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.1267906163688292,
+          "attack_rate": 0.09599876017064435,
+          "baseline_rate": 0.04702891291860124,
+          "control_rate": 0.09599876017064435
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.0759062882505089,
+          "ci_low": 0.028895471532292015,
+          "ci_high": 0.12291710496872577,
+          "attack_rate": 0.17847028630954292,
+          "baseline_rate": 0.055415704526775404,
+          "control_rate": 0.11098874146092848
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.03624782314904099,
+          "attack_rate": 0.06056005417642142,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.07580074593908889
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.15577637034932,
+          "attack_rate": 0.6600272635080083,
+          "baseline_rate": 0.6752679552706758,
+          "control_rate": 0.7159097999711225
+        }
+      ],
+      "mia": {
+        "auc": 0.5025870754173863,
+        "tpr_at_1pct_fpr": 0.004166666666666667,
+        "tpr_at_10pct_fpr": 0.14166666666666666
+      }
+    },
+    "DP twin (AIM, ε=1)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.20158989292430793,
+          "attack_rate": 0.12941648348401585,
+          "baseline_rate": 0.12941648348401585,
+          "control_rate": 0.2641741258534646
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.06445968764542306,
+          "ci_low": 0.03135042357726767,
+          "ci_high": 0.09756895171357846,
+          "attack_rate": 0.10701923882277468,
+          "baseline_rate": 0.05144620188862162,
+          "control_rate": 0.04549194793139093
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.03968408139232069,
+          "attack_rate": 0.05039959300130978,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.0554798235888656
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.16278441070731342,
+          "attack_rate": 0.6803481858582316,
+          "baseline_rate": 0.700669108208455,
+          "control_rate": 0.7362307223213457
+        }
+      ],
+      "mia": {
+        "auc": 0.5179080310880828,
+        "tpr_at_1pct_fpr": 0.004166666666666667,
+        "tpr_at_10pct_fpr": 0.13194444444444445
+      }
+    },
+    "DP twin (AIM, ε=5)": {
+      "criteria": [
+        {
+          "criterion": "singling_out_univariate",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.22832585387881493,
+          "attack_rate": 0.1387663999314446,
+          "baseline_rate": 0.21101311994515567,
+          "control_rate": 0.21101311994515567
+        },
+        {
+          "criterion": "singling_out_multivariate",
+          "risk": 0.006697613669162553,
+          "ci_low": 0.0,
+          "ci_high": 0.05044029557811125,
+          "attack_rate": 0.11694299541815917,
+          "baseline_rate": 0.047476699250467824,
+          "control_rate": 0.11098874146092848
+        },
+        {
+          "criterion": "linkability",
+          "risk": 0.01579606401741503,
+          "ci_low": 0.0,
+          "ci_high": 0.054789518119916,
+          "attack_rate": 0.05039959300130978,
+          "baseline_rate": 0.030078670651086492,
+          "control_rate": 0.035158901238642314
+        },
+        {
+          "criterion": "inference",
+          "risk": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.29899497302747924,
+          "attack_rate": 0.7260702611462341,
+          "baseline_rate": 0.6803481858582316,
+          "control_rate": 0.7362307223213457
+        }
+      ],
+      "mia": {
+        "auc": 0.5341753022452504,
+        "tpr_at_1pct_fpr": 0.02490277777777778,
+        "tpr_at_10pct_fpr": 0.15694444444444444
+      }
+    }
+  },
+  "attack_notes": {
+    "k-anon full-domain (k=5, l=2)": [
+      "anonymeter singling out (multivariate): Reached maximum number of attempts 50000 when generating singling out queries. Returning 183 instead of the requested 500."
+    ],
+    "k-anon Mondrian, all attributes": [
+      "anonymeter singling out (univariate): no univariate query isolates a single release record; reporting risk 0"
+    ],
+    "twin of k-anon (GaussianCopula)": [
+      "anonymeter inference: Attack is as good or worse as baseline model. Estimated rates: attack = 0.6346261105702292, baseline = 0.6651074940955642. Analysis results cannot be trusted.",
+      "anonymeter singling out (multivariate): Reached maximum number of attempts 50000 when generating singling out queries. Returning 286 instead of the requested 500."
+    ],
+    "twin (GaussianCopula)": [
+      "anonymeter inference: Attack is as good or worse as baseline model. Estimated rates: attack = 0.6498668023328967, baseline = 0.6651074940955642. Analysis results cannot be trusted.",
+      "anonymeter singling out (univariate): Attack is as good or worse as baseline model. Estimated rates: attack = 0.03853678154279019, baseline = 0.03853678154279019. Analysis results cannot be trusted."
+    ],
+    "twin (CTGAN)": [
+      "anonymeter inference: Attack is as good or worse as baseline model. Estimated rates: attack = 0.6600272635080083, baseline = 0.6752679552706758. Analysis results cannot be trusted."
+    ],
+    "DP twin (AIM, ε=1)": [
+      "anonymeter inference: Attack is as good or worse as baseline model. Estimated rates: attack = 0.6803481858582316, baseline = 0.700669108208455. Analysis results cannot be trusted.",
+      "anonymeter singling out (univariate): Attack is as good or worse as baseline model. Estimated rates: attack = 0.12941648348401585, baseline = 0.12941648348401585. Analysis results cannot be trusted."
+    ],
+    "DP twin (AIM, ε=5)": [
+      "anonymeter singling out (univariate): Attack is as good or worse as baseline model. Estimated rates: attack = 0.1387663999314446, baseline = 0.21101311994515567. Analysis results cannot be trusted."
+    ]
+  },
+  "epsilon_sweep": [
+    {
+      "epsilon": 0.5,
+      "model": "mst",
+      "marginal_similarity": 0.8311868686868685,
+      "association_gap": 0.19524387633140253,
+      "ml_auc_at_risk": 0.49169960474308305,
+      "linkage_matched": 0.018333333333333333,
+      "belief_if_true": 0.0,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "runtime_s": 17.8
+    },
+    {
+      "epsilon": 1.0,
+      "model": "mst",
+      "marginal_similarity": 0.8876262626262627,
+      "association_gap": 0.16178496614268248,
+      "ml_auc_at_risk": 0.48985507246376814,
+      "linkage_matched": 0.03333333333333333,
+      "belief_if_true": 0.0,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "runtime_s": 21.0
+    },
+    {
+      "epsilon": 2.0,
+      "model": "mst",
+      "marginal_similarity": 0.9409090909090907,
+      "association_gap": 0.07402816871666117,
+      "ml_auc_at_risk": 0.5060606060606061,
+      "linkage_matched": 0.06666666666666667,
+      "belief_if_true": 0.15555555555555556,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 1,
+      "runtime_s": 17.51
+    },
+    {
+      "epsilon": 5.0,
+      "model": "mst",
+      "marginal_similarity": 0.9577020202020201,
+      "association_gap": 0.07098061765475713,
+      "ml_auc_at_risk": 0.5399209486166007,
+      "linkage_matched": 0.08,
+      "belief_if_true": 0.36363636363636365,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 3,
+      "runtime_s": 32.36
+    },
+    {
+      "epsilon": 10.0,
+      "model": "mst",
+      "marginal_similarity": 0.9626262626262626,
+      "association_gap": 0.058775593944947704,
+      "ml_auc_at_risk": 0.779183135704875,
+      "linkage_matched": 0.07333333333333333,
+      "belief_if_true": 0.1,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 1,
+      "runtime_s": 35.7
+    },
+    {
+      "epsilon": 0.5,
+      "model": "aim",
+      "marginal_similarity": 0.7987373737373737,
+      "association_gap": 0.1369843088674614,
+      "ml_auc_at_risk": 0.4517786561264822,
+      "linkage_matched": 0.016666666666666666,
+      "belief_if_true": 0.0,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "runtime_s": 13.15
+    },
+    {
+      "epsilon": 1.0,
+      "model": "aim",
+      "marginal_similarity": 0.8999999999999999,
+      "association_gap": 0.12257916103029025,
+      "ml_auc_at_risk": 0.6101449275362318,
+      "linkage_matched": 0.05,
+      "belief_if_true": 0.08333333333333333,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "runtime_s": 23.18
+    },
+    {
+      "epsilon": 2.0,
+      "model": "aim",
+      "marginal_similarity": 0.9387626262626263,
+      "association_gap": 0.09781883869272413,
+      "ml_auc_at_risk": 0.7735177865612649,
+      "linkage_matched": 0.04833333333333333,
+      "belief_if_true": 0.2,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 1,
+      "runtime_s": 22.85
+    },
+    {
+      "epsilon": 5.0,
+      "model": "aim",
+      "marginal_similarity": 0.9630050505050506,
+      "association_gap": 0.04820368334033998,
+      "ml_auc_at_risk": 0.8088274044795785,
+      "linkage_matched": 0.07666666666666666,
+      "belief_if_true": 0.19047619047619047,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 1,
+      "runtime_s": 39.63
+    },
+    {
+      "epsilon": 10.0,
+      "model": "aim",
+      "marginal_similarity": 0.9702020202020202,
+      "association_gap": 0.035719112989164685,
+      "ml_auc_at_risk": 0.8534914361001317,
+      "linkage_matched": 0.11333333333333333,
+      "belief_if_true": 0.22727272727272727,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 2,
+      "runtime_s": 114.18
+    }
+  ],
   "timings_s": {
-    "generate_students": 2.1,
-    "generate_tickets": 0.73,
-    "presidio_mask": 28.41,
-    "presidio_pseudonymise": 0.18,
-    "k_anonymity": 5.03,
-    "twin_k_anon_gaussian_copula": 1.64,
-    "twin_raw_gaussian_copula": 1.46,
-    "twin_raw_ctgan": 185.85
+    "generate students": 0.37,
+    "generate tickets": 0.14,
+    "text: spaCy": 6.8,
+    "text: spaCy + register": 7.04,
+    "text: GLiNER + register": 185.52,
+    "full-domain k-anonymity": 1.74,
+    "Mondrian k-anonymity": 0.14,
+    "Mondrian k-anonymity, all attributes": 0.24,
+    "twin: GaussianCopula of k-anon": 0.75,
+    "twin: GaussianCopula": 0.69,
+    "twin: CTGAN": 24.38,
+    "twin: DP AIM eps=1": 57.04,
+    "twin: DP AIM eps=5": 68.29,
+    "attack: minimised raw": 14.79,
+    "attack: k-anon full-domain (k=5, l=2)": 9.8,
+    "attack: k-anon Mondrian (k=5, l=2)": 4.23,
+    "attack: k-anon Mondrian, all attributes": 2.67,
+    "attack: twin of k-anon (GaussianCopula)": 8.78,
+    "attack: twin (GaussianCopula)": 2.27,
+    "attack: twin (CTGAN)": 2.21,
+    "attack: DP twin (AIM, ε=1)": 4.01,
+    "attack: DP twin (AIM, ε=5)": 3.61,
+    "epsilon sweep mst": 130.05,
+    "epsilon sweep aim": 217.96
   }
 }
