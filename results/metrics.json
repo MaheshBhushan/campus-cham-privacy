@@ -1,0 +1,207 @@
+{
+  "config": {
+    "n_students": 913,
+    "n_tickets": 600,
+    "seed": 42,
+    "k": 5,
+    "l": 2,
+    "max_suppression": 0.05,
+    "ctgan_epochs": 300,
+    "train_rows": 720,
+    "holdout_rows": 193
+  },
+  "uniqueness_by_qi_set": {
+    "nationality + programme": 0.043055555555555555,
+    "+ gender": 0.10138888888888889,
+    "+ age": 0.5416666666666666,
+    "all 6 QIs": 0.8333333333333334
+  },
+  "k_anonymity": {
+    "node": {
+      "age": 3,
+      "gender": 0,
+      "nationality": 3,
+      "programme": 0,
+      "enrolment_year": 0,
+      "postcode": 2
+    },
+    "suppressed": 34,
+    "loss": 0.4444444444444444,
+    "classes": 27,
+    "nodes_checked": 1152,
+    "nodes_feasible": 166
+  },
+  "text": {
+    "spans": 1407,
+    "recall_direct_identifiers": 0.9335394126738794,
+    "leak_rate_direct_identifiers": 0.06646058732612056,
+    "fully_masked_direct_identifiers": 0.8948995363214838,
+    "indirect_identifiers_mean_coverage": 0.2648818894160349,
+    "precision": 0.8841041998936736,
+    "tickets_without_direct_leak": 0.8410351201478743,
+    "recall_de": 0.9669260700389105,
+    "recall_en": 0.921612541993281,
+    "leak_rate_de": 0.033073929961089495,
+    "leak_rate_en": 0.07838745800671892
+  },
+  "text_by_label": [
+    {
+      "label": "DATE_OF_BIRTH",
+      "n": 73,
+      "recall": 1.0,
+      "coverage": 1.0,
+      "leak_rate": 0.0
+    },
+    {
+      "label": "EMAIL_ADDRESS",
+      "n": 135,
+      "recall": 1.0,
+      "coverage": 1.0,
+      "leak_rate": 0.0
+    },
+    {
+      "label": "IBAN_CODE",
+      "n": 63,
+      "recall": 1.0,
+      "coverage": 1.0,
+      "leak_rate": 0.0
+    },
+    {
+      "label": "INDIRECT_IDENTIFIER",
+      "n": 113,
+      "recall": 0.9911504424778761,
+      "coverage": 0.2648818894160349,
+      "leak_rate": 0.008849557522123894
+    },
+    {
+      "label": "LOCATION",
+      "n": 80,
+      "recall": 1.0,
+      "coverage": 1.0,
+      "leak_rate": 0.0
+    },
+    {
+      "label": "MATRICULATION_NO",
+      "n": 237,
+      "recall": 1.0,
+      "coverage": 1.0,
+      "leak_rate": 0.0
+    },
+    {
+      "label": "PERSON",
+      "n": 568,
+      "recall": 0.8485915492957746,
+      "coverage": 0.8046512921687343,
+      "leak_rate": 0.15140845070422534
+    },
+    {
+      "label": "PHONE_NUMBER",
+      "n": 138,
+      "recall": 1.0,
+      "coverage": 1.0,
+      "leak_rate": 0.0
+    }
+  ],
+  "releases": [
+    {
+      "release": "minimised raw",
+      "rows": 720,
+      "unique_share": 0.8333333333333334,
+      "avg_reid_risk": 0.9083333333333333,
+      "max_reid_risk": 1.0,
+      "linkage_matched": 1.0,
+      "belief_if_true": 1.0,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 103,
+      "marginal_similarity": 1.0,
+      "association_gap": 0.0,
+      "ml_auc_at_risk": 0.8909090909090909,
+      "exact_copies": NaN,
+      "exact_copies_holdout": NaN,
+      "dcr_median": NaN,
+      "dcr_holdout_median": NaN
+    },
+    {
+      "release": "k-anonymised (k=5, l=2)",
+      "rows": 686,
+      "unique_share": 0.0,
+      "avg_reid_risk": 0.03935860058309038,
+      "max_reid_risk": 0.16666666666666666,
+      "linkage_matched": 0.9466666666666667,
+      "belief_if_true": 0.2168591035721148,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "marginal_similarity": 0.9867115027829314,
+      "association_gap": 0.008915410166482092,
+      "ml_auc_at_risk": 0.9036890645586297,
+      "exact_copies": NaN,
+      "exact_copies_holdout": NaN,
+      "dcr_median": NaN,
+      "dcr_holdout_median": NaN
+    },
+    {
+      "release": "twin of k-anon (GaussianCopula)",
+      "rows": 720,
+      "unique_share": NaN,
+      "avg_reid_risk": NaN,
+      "max_reid_risk": NaN,
+      "linkage_matched": 0.97,
+      "belief_if_true": 0.2396639574620592,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "marginal_similarity": 0.9277777777777778,
+      "association_gap": 0.05218734308910899,
+      "ml_auc_at_risk": 0.686429512516469,
+      "exact_copies": 0.0,
+      "exact_copies_holdout": 0.19689119170984457,
+      "dcr_median": 0.0238997113997114,
+      "dcr_holdout_median": 0.0059523809523809555
+    },
+    {
+      "release": "twin of raw (GaussianCopula)",
+      "rows": 720,
+      "unique_share": NaN,
+      "avg_reid_risk": NaN,
+      "max_reid_risk": NaN,
+      "linkage_matched": 0.045,
+      "belief_if_true": 0.2,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 1,
+      "marginal_similarity": 0.8875,
+      "association_gap": 0.09015064476560464,
+      "ml_auc_at_risk": 0.7000000000000001,
+      "exact_copies": 0.0,
+      "exact_copies_holdout": 0.0,
+      "dcr_median": 0.130537518037518,
+      "dcr_holdout_median": 0.09848484848484848
+    },
+    {
+      "release": "twin of raw (CTGAN)",
+      "rows": 720,
+      "unique_share": NaN,
+      "avg_reid_risk": NaN,
+      "max_reid_risk": NaN,
+      "linkage_matched": 0.05333333333333334,
+      "belief_if_true": 0.041666666666666664,
+      "prior": 0.18194444444444444,
+      "certain_disclosures": 0,
+      "marginal_similarity": 0.9172979797979799,
+      "association_gap": 0.10508535123577575,
+      "ml_auc_at_risk": 0.5193675889328064,
+      "exact_copies": 0.0,
+      "exact_copies_holdout": 0.0,
+      "dcr_median": 0.12018398268398268,
+      "dcr_holdout_median": 0.09848484848484848
+    }
+  ],
+  "timings_s": {
+    "generate_students": 2.1,
+    "generate_tickets": 0.73,
+    "presidio_mask": 28.41,
+    "presidio_pseudonymise": 0.18,
+    "k_anonymity": 5.03,
+    "twin_k_anon_gaussian_copula": 1.64,
+    "twin_raw_gaussian_copula": 1.46,
+    "twin_raw_ctgan": 185.85
+  }
+}

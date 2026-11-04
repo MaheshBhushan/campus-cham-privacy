@@ -1,0 +1,914 @@
+matriculation_no,first_name,last_name,email,phone,birth_date,street,postcode,city,age,gender,nationality,programme,degree,enrolment_year,semester,ects,avg_grade,disability_support,at_risk
+29915519,Ali,Karimi,ali.karimi@stud.th-deg.de,0157 5801 2088,2000-06-18,Junckenstr. 72,93413,Cham,25,male,Iran,MDM,Master,2026,2,15,2.3,False,True
+25953158,Li,Sun,li.sun@stud.th-deg.de,+49 151 2785997,1996-04-13,Dörrplatz 63,93413,Cham,29,female,China,MMC,Master,2025,3,55,1.7,True,False
+29477378,Mohammad,Jafari,mohammad.jafari@stud.th-deg.de,0178/55753671,2000-08-03,Rustplatz 53,93413,Cham,26,male,Iran,MRO,Master,2025,3,50,2.2,False,False
+23676263,Qabil,Thakkar,qabil.thakkar@stud.th-deg.de,0152/19645615,1999-08-19,Schmiedtallee 61,93413,Cham,27,male,India,MDM,Master,2024,5,90,1.7,False,False
+10793626,Nikolaus,Scheibe,nikolaus.scheibe@stud.th-deg.de,+49 157 3195336,2001-08-28,Birnbaumgasse 55,94469,Deggendorf,25,male,Germany,MDP,Bachelor,2022,9,100,3.2,True,True
+10823086,Omar,Darwish,omar.darwish@stud.th-deg.de,0170/8771043,2000-11-03,Rörrichtgasse 26,93413,Cham,25,male,Syria,MRO,Master,2025,3,55,1.5,False,False
+20936537,Manuelita,Samper,manuelita.samper@stud.th-deg.de,0172/1352320,1990-04-25,Gerhild-Stroh-Gasse 11,93413,Cham,35,female,Spain,MDM,Master,2026,1,0,2.9,False,True
+27109929,Zehaan,Balakrishnan,zehaan.balakrishnan@stud.th-deg.de,0178/96702799,1991-08-24,Hamannstr. 67,93413,Cham,35,male,India,MDM,Master,2024,5,90,1.5,False,False
+28776950,Oswin,Kuhl,oswin.kuhl@stud.th-deg.de,+49 151 30713699,2001-11-16,Louise-Rosemann-Gasse 44,92224,Amberg,24,male,Germany,MDP,Bachelor,2023,7,140,2.7,True,False
+11492940,Adriana,Escobedo,adriana.escobedo@stud.th-deg.de,+4915230569475,1998-03-26,Ronald-Dussen van-Weg 77,93437,Furth im Wald,27,female,Mexico,MSS,Master,2025,3,35,1.8,False,True
+22304886,Felix,Jiménez,felix.jimenez@stud.th-deg.de,+49 162 98455127,2000-04-09,Vittorio-Thies-Ring 54,93413,Cham,25,male,Colombia,MMC,Master,2025,3,55,2.4,True,False
+29172859,Abena,Boateng,abena.boateng@stud.th-deg.de,0170/4827798,1997-01-21,Leander-Hörle-Platz 38,93413,Cham,29,female,Ghana,MRO,Master,2026,1,0,2.4,False,False
+17273830,Tao,Yang,tao.yang@stud.th-deg.de,0160 9234 1317,2001-05-20,Wilmsenweg 52,93413,Cham,24,male,China,MSS,Master,2026,1,0,2.3,False,False
+13194499,Hasan,Saleh,hasan.saleh@stud.th-deg.de,+491705767154,1996-01-17,Bolanderplatz 52,93426,Roding,29,male,Syria,MDM,Master,2026,1,0,1.2,False,False
+13554472,Hao,Zhang,hao.zhang@stud.th-deg.de,0172 0470 6206,2002-09-24,Häringweg 78,93413,Cham,24,male,China,MMC,Master,2026,1,0,2.3,True,True
+26411245,Winfried,Lorch,winfried.lorch@stud.th-deg.de,+491606667601,2006-02-25,Clara-Bauer-Ring 29,93413,Cham,20,male,Germany,MDP,Bachelor,2026,2,15,3.0,True,True
+18131653,Zainab,Shah,zainab.shah@stud.th-deg.de,+491573984656,1995-09-23,Pärtzeltstraße 31,93413,Cham,31,female,Pakistan,MSS,Master,2025,3,55,1.6,False,False
+29680911,Doris,Ladeck,doris.ladeck@stud.th-deg.de,0172/5803271,2005-07-17,Johan-Kramer-Ring 28,93426,Roding,20,female,Germany,MDP,Bachelor,2026,2,30,3.2,False,False
+23217422,Dora,Kaltenbrunner,dora.kaltenbrunner@stud.th-deg.de,+49 151 34731914,1999-12-28,Dusan-Sorgatz-Straße 9,93413,Cham,26,female,Austria,MDM,Master,2025,3,50,1.9,False,False
+22467350,Youssef,Ibrahim,youssef.ibrahim@stud.th-deg.de,+491729260128,2002-05-16,Knappeallee 38,93413,Cham,23,male,Egypt,MSS,Master,2026,2,25,1.6,False,False
+10814501,Parisa,Ahmadi,parisa.ahmadi@stud.th-deg.de,0170/3234620,2001-05-18,Corinna-Müller-Weg 36,93413,Cham,24,female,Iran,MDM,Master,2026,2,25,1.5,False,False
+16721253,Cristiano,Ostermann,cristiano.ostermann@stud.th-deg.de,+49 157 7859279,2000-03-06,Burghard-Kusch-Allee 16,93413,Cham,26,male,Austria,MMC,Master,2026,1,0,1.7,True,False
+24815000,Erna,Nette,erna.nette@stud.th-deg.de,0172/8397700,1998-07-09,Claus-Dieter-Renner-Platz 65,92224,Amberg,27,female,Germany,MRO,Master,2026,1,0,1.8,False,False
+18334326,Duilio,Mariscal,duilio.mariscal@stud.th-deg.de,0162/8443932,1997-03-26,Rustplatz 55,93413,Cham,28,male,Spain,MRO,Master,2026,2,30,2.0,False,False
+25857484,Sara,Ghasemi,sara.ghasemi@stud.th-deg.de,+49 151 52709814,2001-02-14,Constantin-Stumpf-Platz 20,93413,Cham,24,female,Iran,MDM,Master,2024,5,80,1.5,False,False
+27571212,Prakash,Adhikari,prakash.adhikari@stud.th-deg.de,+49 170 4968640,2004-12-15,Säuberlichstraße 14,93413,Cham,21,male,Nepal,MDP,Bachelor,2024,5,120,2.4,False,False
+19413519,Rene,Spieß,rene.spiess@stud.th-deg.de,+49 162 58067624,2001-09-23,Leander-Hörle-Platz 49,93413,Cham,25,male,Germany,MSS,Master,2024,5,45,2.1,False,True
+26161476,Adolf,Röhricht,adolf.roehricht@stud.th-deg.de,+4915268628610,2005-02-10,Hedy-Junk-Gasse 1,93047,Regensburg,20,male,Germany,MDP,Bachelor,2026,1,0,2.1,False,False
+16087733,Marcus,Henk,marcus.henk@stud.th-deg.de,0172/4978313,2003-08-08,Gülay-Weihmann-Weg 12,92421,Schwandorf,22,male,Germany,MDP,Bachelor,2024,6,150,2.2,True,False
+17083299,Yang,Zhou,yang.zhou@stud.th-deg.de,+49 176 05164556,2002-04-01,Hans-Walter-Mies-Ring 35,93426,Roding,23,male,China,MDM,Master,2026,2,30,1.3,False,False
+29373128,Verena,Hartung,verena.hartung@stud.th-deg.de,+49 178 53163964,1997-03-07,Harloffgasse 79,93444,Bad Kötzting,28,female,Germany,MDM,Master,2026,1,0,2.0,False,False
+20748972,Uche,Okafor,uche.okafor@stud.th-deg.de,+4916246147484,2000-06-15,Gereon-Fischer-Weg 7,93413,Cham,25,male,Nigeria,MRO,Master,2025,3,55,1.8,False,False
+26246368,Jie,Yang,jie.yang@stud.th-deg.de,+4917054369199,1995-10-21,Heringallee 42,93413,Cham,31,male,China,MMC,Master,2026,1,0,1.7,False,False
+28929086,Bernd,Rogge,bernd.rogge@stud.th-deg.de,+4917026885396,1997-01-10,Constantin-Stumpf-Platz 45,93047,Regensburg,28,male,Germany,MMC,Master,2025,3,30,2.0,False,True
+28660463,Carl,Hofbauer,carl.hofbauer@stud.th-deg.de,0170 4585 2731,1999-05-13,Henkallee 20,93413,Cham,26,male,Austria,MSS,Master,2025,3,50,1.9,False,False
+17180003,Ralf-Dieter,Reichmann,ralf-dieter.reichmann@stud.th-deg.de,0151 9297 9109,2003-12-07,Lene-Preiß-Straße 42,93047,Regensburg,22,male,Germany,MDP,Bachelor,2023,7,165,1.7,False,False
+10749131,Ivonne,Jacobi Jäckel,ivonne.jacobi-jaeckel@stud.th-deg.de,+49 170 30740358,2002-05-23,Röhrichtgasse 51,93413,Cham,23,female,Germany,MDP,Bachelor,2023,7,180,2.4,False,False
+22375394,Iqra,Chaudhry,iqra.chaudhry@stud.th-deg.de,0162 2256 107,1997-02-15,Gerhardt-Köster-Platz 11,93413,Cham,28,female,Pakistan,MSS,Master,2026,1,0,2.2,False,False
+19972157,Mark,Stroh,mark.stroh@stud.th-deg.de,0170 6945 220,2002-06-05,Burghard-Kusch-Allee 76,92224,Amberg,23,male,Germany,MDP,Bachelor,2024,6,75,2.4,False,True
+26911303,Ahmed,Kamel,ahmed.kamel@stud.th-deg.de,0178/4847369,1996-09-18,Detlev-Wagenknecht-Straße 20,93413,Cham,29,male,Egypt,MDM,Master,2026,1,0,1.9,False,False
+22254243,Onkar,Tank,onkar.tank@stud.th-deg.de,+4917601634479,2002-12-10,Dowergring 30,93413,Cham,23,male,India,MMC,Master,2026,2,20,2.6,True,True
+20847135,Farzana,Islam,farzana.islam@stud.th-deg.de,+49 151 78454326,2003-08-25,Dusan-Sorgatz-Straße 2,93413,Cham,23,female,Bangladesh,MDM,Master,2026,1,0,1.6,True,False
+11151801,Mitra,Sitorus,mitra.sitorus@stud.th-deg.de,+4917222581428,2002-01-08,Kamil-Bien-Gasse 47,93047,Regensburg,24,male,Indonesia,MDM,Master,2026,2,30,1.4,False,False
+27976072,Samer,Khoury,samer.khoury@stud.th-deg.de,+491511893168,2000-10-25,Stiebitzallee 47,93413,Cham,25,male,Syria,MMC,Master,2025,3,60,1.3,False,False
+21143526,Leila,Jafari,leila.jafari@stud.th-deg.de,+4916298423397,1998-10-20,Hofmanngasse 10,93047,Regensburg,27,female,Iran,MDM,Master,2026,2,25,2.1,False,False
+22998912,Triveni,Saxena,triveni.saxena@stud.th-deg.de,+491727673212,2000-08-04,Fernando-Sorgatz-Straße 24,93426,Roding,25,female,India,MDM,Master,2026,1,0,1.8,True,True
+23603327,Samar,Zachariah,samar.zachariah@stud.th-deg.de,+49 178 5976539,1997-11-22,Detlev-Wagenknecht-Straße 61,93426,Roding,28,male,India,MMC,Master,2026,1,0,1.8,False,False
+16323898,Hasan,Hamdan,hasan.hamdan@stud.th-deg.de,+4917625843042,1994-10-21,Irmela-Textor-Straße 57,93413,Cham,31,male,Syria,MMC,Master,2025,3,30,2.3,False,True
+10719694,Josué,Carrillo,josue.carrillo@stud.th-deg.de,+49 176 2246197,2002-03-13,Gierschnerweg 25,93413,Cham,23,male,Spain,MDM,Master,2026,2,20,1.9,False,False
+29784144,Fredo,Kensy,fredo.kensy@stud.th-deg.de,+49 157 55046745,2003-06-05,Kuhlplatz 50,93426,Roding,22,male,Germany,MDP,Bachelor,2023,8,155,2.9,False,False
+17023986,Dietmar,Holzapfel,dietmar.holzapfel@stud.th-deg.de,+4917676988300,2002-07-14,Eckbauerstr. 60,92224,Amberg,24,male,Germany,MDP,Bachelor,2023,8,190,1.7,True,False
+19272832,Miroslaw,Mitschke,miroslaw.mitschke@stud.th-deg.de,0178/70561731,2005-06-18,Sigfried-Gnatz-Ring 30,93047,Regensburg,21,male,Germany,MDP,Bachelor,2025,3,50,2.0,False,False
+28436090,Advaith,Samra,advaith.samra@stud.th-deg.de,+4916056488412,2001-08-04,Strohring 14,93413,Cham,24,male,India,MDM,Master,2026,2,30,2.2,False,False
+23654296,Yang,Chen,yang.chen@stud.th-deg.de,0157 6415 6181,2002-09-10,Kitzmannweg 2,93413,Cham,23,male,China,MDM,Master,2026,2,25,1.5,False,False
+12081266,Celal,Gieß,celal.giess@stud.th-deg.de,0162 2383 6305,1997-02-20,Gereon-Fischer-Weg 76,93449,Waldmünchen,28,male,Germany,MDM,Master,2025,3,35,1.7,False,True
+14422686,Vlastimil,Urban,vlastimil.urban@stud.th-deg.de,+4915772570059,1997-07-16,Nuray-Misicher-Platz 26,93413,Cham,28,male,Czech Republic,MDM,Master,2026,2,20,2.3,False,False
+12474745,Folake,Okafor,folake.okafor@stud.th-deg.de,+49 162 49583977,2001-01-28,Ulla-Hentschel-Platz 64,93413,Cham,24,female,Nigeria,MSS,Master,2025,3,50,1.6,False,False
+27487032,Karim,El Amrani,karim.el-amrani@stud.th-deg.de,+49 176 9186383,2001-07-07,Fröhlichring 26,93413,Cham,24,male,Morocco,MSS,Master,2025,3,45,1.9,False,False
+16839256,Hülya,Ruppersberger,huelya.ruppersberger@stud.th-deg.de,0151/38009163,2002-06-22,Ottoallee 57,94469,Deggendorf,23,female,Germany,MDP,Bachelor,2022,9,185,2.4,False,False
+16917114,Claas,Ullmann,claas.ullmann@stud.th-deg.de,0152 7559 487,1998-03-12,Natascha-Dörschner-Platz 27,92421,Schwandorf,27,male,Germany,MDP,Bachelor,2022,10,140,1.7,False,True
+21657719,Vasileios,Vlachos,vasileios.vlachos@stud.th-deg.de,+491578361395,2000-12-07,Beyerweg 48,93413,Cham,25,male,Greece,MDM,Master,2026,2,25,2.0,False,False
+21360018,Nadia,Werner,nadia.werner@stud.th-deg.de,0157/99468890,1998-04-27,Judith-Mülichen-Straße 76,93426,Roding,27,female,Germany,MSS,Master,2026,1,0,1.3,False,False
+29628881,Ivan,Kovalenko,ivan.kovalenko@stud.th-deg.de,0176 1510 1924,1999-01-18,Weinholdstr. 60,93413,Cham,26,male,Ukraine,MSS,Master,2026,1,0,1.5,False,False
+21709075,Bilel,Jaziri,bilel.jaziri@stud.th-deg.de,+49 178 68194418,2001-05-15,Gierschnerweg 14,93413,Cham,24,male,Tunisia,MDM,Master,2025,3,55,1.6,False,False
+13782894,Ayoub,Alaoui,ayoub.alaoui@stud.th-deg.de,0176/70793414,1996-10-09,Willibald-Schmidt-Gasse 42,93413,Cham,29,male,Morocco,MSS,Master,2026,2,15,2.9,True,True
+14888878,Kasun,Fernando,kasun.fernando@stud.th-deg.de,0157/06523266,1997-01-25,Wilmsallee 22,93426,Roding,28,male,Sri Lanka,MSS,Master,2026,1,0,1.7,True,False
+10076217,Samuel,Girma,samuel.girma@stud.th-deg.de,+491528443927,2000-06-01,Kevin-Trapp-Ring 18,93426,Roding,25,male,Ethiopia,MSS,Master,2026,1,0,2.1,True,False
+25101170,Segun,Ogunleye,segun.ogunleye@stud.th-deg.de,+491572275449,1997-06-04,Roggestraße 66,93413,Cham,28,male,Nigeria,MMC,Master,2026,1,0,1.8,False,False
+25508161,Janos,Koch II,janos.koch-ii@stud.th-deg.de,0151 3795 6400,2003-11-06,Hellmuth-Etzold-Allee 78,93444,Bad Kötzting,22,male,Germany,MDP,Bachelor,2026,2,10,2.9,True,True
+19706421,Sakib,Miah,sakib.miah@stud.th-deg.de,+491764534687,2002-01-19,Henkallee 74,93413,Cham,23,male,Bangladesh,MMC,Master,2026,1,0,1.7,False,False
+10957376,Christof,Henck,christof.henck@stud.th-deg.de,0162 1196 1490,2000-01-03,Rolf-Noack-Gasse 67,93047,Regensburg,26,male,Germany,MDP,Bachelor,2024,6,65,3.0,False,True
+27111465,Mohammad,Haddad,mohammad.haddad@stud.th-deg.de,+4917639747820,1999-07-23,Gottlieb-Misicher-Straße 37,93413,Cham,26,male,Syria,MMC,Master,2025,3,55,1.6,False,False
+22830488,Ralf,Kühnert,ralf.kuehnert@stud.th-deg.de,+4915137600650,1996-03-06,Davidsallee 42,93449,Waldmünchen,29,male,Germany,MRO,Master,2026,2,15,2.5,False,True
+16300028,Mijo,Caspar,mijo.caspar@stud.th-deg.de,0157 1255 6122,2004-09-19,Bendergasse 43,80331,München,21,male,Germany,MDP,Bachelor,2024,5,75,2.0,False,True
+27229240,Buenaventura,Olivera,buenaventura.olivera@stud.th-deg.de,0178/9221233,2001-04-23,Dowergring 59,93413,Cham,24,male,Ecuador,MDP,Bachelor,2023,8,205,2.5,False,False
+19798695,Canal,Fırat,canal.frat@stud.th-deg.de,+4916209104621,2000-07-25,Susan-Weller-Platz 5,93413,Cham,25,male,Türkiye,MMC,Master,2025,3,45,1.8,False,False
+29852016,Jean,Essomba,jean.essomba@stud.th-deg.de,0176/25641891,2002-01-09,Thanelplatz 66,93426,Roding,23,male,Cameroon,MMC,Master,2026,1,0,1.5,False,False
+22119551,Omar,Oktaviani,omar.oktaviani@stud.th-deg.de,+49 176 06921285,2000-09-03,Rohlederweg 64,93413,Cham,26,male,Indonesia,MDM,Master,2025,3,50,1.7,False,False
+21591942,Mulugeta,Bekele,mulugeta.bekele@stud.th-deg.de,+49 170 15204761,2001-07-22,Davidsallee 79,93413,Cham,24,male,Ethiopia,MSS,Master,2026,1,0,1.9,False,False
+18627398,Guillermo,Bustamante,guillermo.bustamante@stud.th-deg.de,0162/3475814,1999-01-13,Junkplatz 47,93413,Cham,26,male,Mexico,MDM,Master,2026,1,0,2.4,True,False
+22950858,Valerie,Ritter,valerie.ritter@stud.th-deg.de,+49 172 98633540,1998-04-27,Holstenallee 37,92637,Weiden in der Oberpfalz,27,female,Germany,MDM,Master,2026,2,30,1.7,False,False
+15712012,Rojina,Adhikari,rojina.adhikari@stud.th-deg.de,0176/9298369,2002-01-06,Margrafring 38,93437,Furth im Wald,23,female,Nepal,MMC,Master,2025,3,60,1.8,True,False
+27381353,Ming,Li,ming.li@stud.th-deg.de,+491781037954,2002-01-17,Stahrstraße 49,93047,Regensburg,24,male,China,MDM,Master,2026,1,0,1.0,False,False
+12043284,Kacper,Świerkot,kacper.swierkot@stud.th-deg.de,+4917002664760,2003-09-04,Langering 24,93413,Cham,22,male,Poland,MDP,Bachelor,2025,3,55,1.6,True,False
+12358403,Sedat,Kitzmann,sedat.kitzmann@stud.th-deg.de,0172 2920 026,2002-06-14,Wilmsenweg 62,93413,Cham,23,male,Germany,MDP,Bachelor,2022,9,80,2.5,True,True
+15345858,Sibylla,Dobes,sibylla.dobes@stud.th-deg.de,0172 2475 704,2002-10-01,Lene-Preiß-Straße 36,93047,Regensburg,23,female,Germany,MDP,Bachelor,2025,3,45,2.2,False,False
+12723381,Sachini,Bandara,sachini.bandara@stud.th-deg.de,0151/2412918,2001-04-22,Fechnerring 23,93413,Cham,24,female,Sri Lanka,MDM,Master,2025,3,35,2.1,False,True
+13504039,Tunde,Ogunleye,tunde.ogunleye@stud.th-deg.de,0151 5227 093,1998-09-17,Spießstr. 59,93047,Regensburg,27,male,Nigeria,MSS,Master,2024,6,90,1.6,False,False
+12522942,Ronny,Meyer,ronny.meyer@stud.th-deg.de,0152/28304549,2004-08-03,Senta-Kreusel-Weg 27,93437,Furth im Wald,21,male,Germany,MDP,Bachelor,2026,2,30,1.7,False,False
+27088931,Yang,Chen,yang.chen1@stud.th-deg.de,+49 176 1454790,1999-08-14,Kuhlplatz 7,93413,Cham,26,male,China,MSS,Master,2025,4,35,2.4,False,True
+13677778,Klothilde,Sager,klothilde.sager@stud.th-deg.de,0157 0143 8587,2006-10-12,Casparplatz 42,93426,Roding,19,female,Germany,MDP,Bachelor,2026,2,10,3.4,False,True
+13534764,Jannat,Chowdhury,jannat.chowdhury@stud.th-deg.de,0178/48227727,2001-09-19,Lindnerstr. 41,93413,Cham,25,female,Bangladesh,MDM,Master,2026,1,0,1.8,False,False
+22300632,Zayan,Chana,zayan.chana@stud.th-deg.de,0170 1425 1160,1998-09-14,Ulla-Hentschel-Platz 24,93426,Roding,27,male,India,MMC,Master,2026,2,15,3.0,False,True
+22703076,Herve,Tchoumi,herve.tchoumi@stud.th-deg.de,+49 178 19315434,2001-09-13,Schmiedtallee 3,93413,Cham,24,male,Cameroon,MMC,Master,2026,2,30,1.7,False,False
+19015974,Abdurrahman,Çamurcuoğlu,abdurrahman.camurcuoglu@stud.th-deg.de,0157 9454 876,1997-06-24,Ditschlerinallee 38,93413,Cham,28,male,Türkiye,MMC,Master,2026,2,30,1.7,False,False
+10336333,Dionisio,Larrañaga,dionisio.larranaga@stud.th-deg.de,0157 9233 7988,1998-09-15,Isabel-Rudolph-Weg 62,93047,Regensburg,27,male,Spain,MSS,Master,2025,3,35,1.9,False,True
+14483346,Maryam,Ahmadi,maryam.ahmadi@stud.th-deg.de,0157/32840823,1997-11-23,Knut-Heidrich-Ring 64,93413,Cham,28,female,Iran,MMC,Master,2026,2,20,1.8,False,True
+29336237,Luigi,Hahn,luigi.hahn@stud.th-deg.de,0157/65242971,2005-09-25,Judith-Mülichen-Straße 17,93449,Waldmünchen,20,male,Germany,MDP,Bachelor,2026,2,10,2.6,True,True
+21062770,Hans-Albert,Kabus,hans-albert.kabus@stud.th-deg.de,0176/11755224,2004-08-24,Försterplatz 34,93449,Waldmünchen,21,male,Germany,MDP,Bachelor,2025,3,55,2.0,True,False
+29874336,Imtiaz,Sarkar,imtiaz.sarkar@stud.th-deg.de,0162 1420 4036,1999-01-27,Kevin-Trapp-Ring 72,93413,Cham,26,male,Bangladesh,MRO,Master,2026,1,0,1.6,True,False
+24468954,Uche,Adeyemi,uche.adeyemi@stud.th-deg.de,0172/4825733,1996-06-20,Roskothstr. 28,93413,Cham,29,male,Nigeria,MRO,Master,2025,3,60,1.7,False,False
+26805939,Cornelia,Usada,cornelia.usada@stud.th-deg.de,0151/4256965,1998-01-16,Margrafring 38,93413,Cham,27,female,Indonesia,MDM,Master,2026,1,0,2.1,False,False
+13079182,Chukwuemeka,Eze,chukwuemeka.eze@stud.th-deg.de,+491528122933,2001-02-15,Roskothstr. 54,93413,Cham,25,male,Nigeria,MMC,Master,2026,1,0,2.6,False,True
+25013319,Aurelia,Hörl,aurelia.hoerl@stud.th-deg.de,0178 8780 038,1998-05-06,Eigenwilligring 37,93413,Cham,27,female,Austria,MRO,Master,2025,3,60,1.7,True,False
+23333973,Ersel,İhsanoğlu,ersel.ihsanoglu@stud.th-deg.de,+491723847619,2001-06-24,Rabea-Henschel-Ring 67,93413,Cham,24,male,Türkiye,MDM,Master,2026,2,30,1.0,False,False
+10042356,Bekbay,Çetin,bekbay.cetin@stud.th-deg.de,+491764263104,1992-07-20,Susan-Weller-Platz 29,93413,Cham,34,male,Türkiye,MDM,Master,2024,5,90,1.4,False,False
+20214131,Otieno,Wafula,otieno.wafula@stud.th-deg.de,0176/68785038,1997-11-25,Knappeallee 39,93413,Cham,28,male,Kenya,MMC,Master,2025,3,40,3.0,False,True
+14585207,Lei,Zhao,lei.zhao@stud.th-deg.de,+491516979081,2002-10-20,Dobesgasse 41,93413,Cham,23,male,China,MMC,Master,2026,1,0,2.3,False,False
+29052033,Vasileios,Papadopoulos,vasileios.papadopoulos@stud.th-deg.de,0178/54582298,2003-06-14,Klotzweg 59,93413,Cham,23,male,Greece,MDP,Bachelor,2023,7,145,2.5,True,False
+19887915,Mohammad,Rahimi,mohammad.rahimi@stud.th-deg.de,0152/83548649,1999-05-09,Gierschnerweg 27,93413,Cham,26,male,Iran,MRO,Master,2025,3,25,2.3,False,True
+10631927,Samuel,Dugal,samuel.dugal@stud.th-deg.de,+4916244322075,1996-09-28,Langering 22,93413,Cham,29,male,India,MSS,Master,2026,2,15,2.4,False,True
+23895488,Ehrhard,Tschentscher,ehrhard.tschentscher@stud.th-deg.de,0170 6106 048,2005-04-21,Liebeltweg 29,93444,Bad Kötzting,21,male,Germany,MDP,Bachelor,2025,4,70,2.0,False,False
+17065324,Mohammed,Agate,mohammed.agate@stud.th-deg.de,0172 1101 188,1995-11-25,Steckelgasse 19,93413,Cham,30,male,India,MMC,Master,2026,2,25,1.9,False,False
+22077458,Kasun,Silva,kasun.silva@stud.th-deg.de,+49 172 6263883,1998-10-17,Dussen vanplatz 16,93413,Cham,27,male,Sri Lanka,MSS,Master,2026,2,30,1.6,False,False
+15195245,Undine,Röhricht,undine.roehricht@stud.th-deg.de,0157/4590515,2005-09-15,Mälzerstr. 65,93413,Cham,20,female,Germany,MDP,Bachelor,2026,1,0,1.9,False,False
+24036353,Roya,Kazemi,roya.kazemi@stud.th-deg.de,+49 176 19446290,1999-03-01,Hahnring 28,93413,Cham,26,female,Iran,MRO,Master,2026,1,0,1.3,True,False
+29697340,Franz Josef,Siering,franz-josef.siering@stud.th-deg.de,0178 8997 666,1993-08-02,Röhrichtgasse 22,93449,Waldmünchen,32,male,Germany,MDM,Master,2026,1,0,1.1,False,False
+10210417,Linh,Phạm,linh.pham@stud.th-deg.de,0176/4372284,2000-10-20,Kallertgasse 65,93437,Furth im Wald,25,female,Vietnam,MDM,Master,2025,3,60,1.2,False,False
+25135321,Samuel,Haile,samuel.haile@stud.th-deg.de,0176 3193 7741,2002-01-07,Gießstr. 63,93413,Cham,24,male,Ethiopia,MMC,Master,2026,1,0,2.6,False,False
+12198703,Mamen,Real,mamen.real@stud.th-deg.de,0152 3518 093,2000-03-03,Fröhlichring 20,93413,Cham,25,female,Ecuador,MSS,Master,2026,2,25,1.0,False,False
+22370652,Kofi,Mensah,kofi.mensah@stud.th-deg.de,0176/06595951,1999-07-22,Mansring 25,93413,Cham,26,male,Ghana,MSS,Master,2025,3,45,2.7,False,False
+28236631,Yazan,Khalil,yazan.khalil@stud.th-deg.de,0178 3085 798,1996-05-18,Hofmanngasse 65,93413,Cham,30,male,Jordan,MSS,Master,2025,3,60,2.0,False,False
+24634314,Falko,Kohl,falko.kohl@stud.th-deg.de,0178/9927671,2004-09-04,Neureuthergasse 22,93437,Furth im Wald,22,male,Germany,MDP,Bachelor,2025,3,20,2.8,False,True
+10705464,Funmilayo,Okonkwo,funmilayo.okonkwo@stud.th-deg.de,0152 8516 4704,2000-05-14,Natascha-Dörschner-Platz 69,93413,Cham,25,female,Nigeria,MMC,Master,2026,1,0,1.6,False,False
+13055769,Arnaud,Kamga,arnaud.kamga@stud.th-deg.de,0178/9951207,2004-12-14,Claas-Bonbach-Platz 49,93413,Cham,21,male,Cameroon,MDP,Bachelor,2024,6,150,1.9,False,False
+17930433,Manbir,Om,manbir.om@stud.th-deg.de,+49 157 58018398,1992-04-01,Hans-Hermann-Reising-Straße 53,93426,Roding,33,male,India,MSS,Master,2026,1,0,2.1,True,False
+28105265,Liman,Napitupulu,liman.napitupulu@stud.th-deg.de,0160 1801 5263,1996-05-17,Wesackstr. 43,93413,Cham,30,male,Indonesia,MMC,Master,2024,6,65,2.4,False,False
+13167807,Ottokar,Liebelt,ottokar.liebelt@stud.th-deg.de,+49 176 4112244,2001-01-12,Clara-Bauer-Ring 3,93413,Cham,24,male,Germany,MDP,Bachelor,2022,9,195,1.5,False,False
+25122753,Emine,Lindner,emine.lindner@stud.th-deg.de,+49 151 6900777,2003-03-25,Eigenwilligweg 66,93444,Bad Kötzting,22,female,Germany,MDP,Bachelor,2023,7,150,1.5,False,False
+29749657,Hans-Josef,Kohl,hans-josef.kohl@stud.th-deg.de,+49 176 11677556,1998-03-04,Jörgen-Holzapfel-Weg 45,92421,Schwandorf,27,male,Germany,MSS,Master,2025,3,55,1.5,False,False
+23935288,Biruk,Haile,biruk.haile@stud.th-deg.de,+491608674996,2002-10-24,Schusterallee 14,93413,Cham,23,male,Ethiopia,MDP,Bachelor,2024,6,140,1.8,False,False
+12129523,Ming,Zhao,ming.zhao@stud.th-deg.de,0170/29166070,1999-05-01,Wilmsallee 66,93413,Cham,26,male,China,MRO,Master,2024,6,65,1.9,False,True
+29275679,Shuvo,Hossain,shuvo.hossain@stud.th-deg.de,+491763593111,1998-03-22,Lidwina-Siering-Gasse 24,93413,Cham,28,male,Bangladesh,MSS,Master,2026,1,0,2.1,False,False
+23696437,Omondi,Wafula,omondi.wafula@stud.th-deg.de,+49 172 8980073,2000-04-22,Frederik-Flantz-Platz 29,93413,Cham,25,male,Kenya,MMC,Master,2026,1,0,1.7,False,False
+29017083,Manuelita,Crespo,manuelita.crespo@stud.th-deg.de,0170/9529621,2000-07-12,Ladeckplatz 51,93413,Cham,25,female,Ecuador,MSS,Master,2026,1,0,1.7,True,False
+23641090,Ladli,Konda,ladli.konda@stud.th-deg.de,+4917214960964,2003-10-08,Natascha-Dörschner-Platz 23,93413,Cham,22,female,India,MDP,Bachelor,2023,7,100,2.8,False,True
+18075235,Sebastian,Hirschmann,sebastian.hirschmann@stud.th-deg.de,0170/7225065,1997-12-04,Andrei-Weihmann-Ring 1,93413,Cham,28,male,Austria,MRO,Master,2026,1,0,1.9,True,False
+24130790,Kojo,Owusu,kojo.owusu@stud.th-deg.de,+49 152 41498185,2000-01-10,Stefano-Eckbauer-Gasse 26,93413,Cham,25,male,Ghana,MSS,Master,2026,2,30,1.7,False,False
+29823565,Chen,Chen,chen.chen@stud.th-deg.de,0178 9019 2569,1997-11-19,Wenzel-Bähr-Allee 54,93413,Cham,28,male,China,MDM,Master,2025,4,90,1.0,True,False
+14541916,Nikolaus,Eberth,nikolaus.eberth@stud.th-deg.de,0172 7502 5416,2003-05-21,Karen-Johann-Gasse 34,93413,Cham,22,male,Germany,MDP,Bachelor,2024,6,145,2.4,False,False
+23412003,Henry,Mahajan,henry.mahajan@stud.th-deg.de,+4917631153762,1996-10-06,Cengiz-Beckmann-Ring 57,93047,Regensburg,29,male,India,MSS,Master,2025,4,75,2.1,False,False
+17511231,Hao,Zhao,hao.zhao@stud.th-deg.de,0170/99150872,2003-01-01,Fritschweg 6,93413,Cham,22,male,China,MSS,Master,2026,2,30,1.9,False,False
+25151097,Roshan,Magar,roshan.magar@stud.th-deg.de,+4917059747121,1999-08-16,Isabel-Rudolph-Weg 21,93437,Furth im Wald,26,male,Nepal,MRO,Master,2026,2,30,2.3,False,False
+26376630,Erik,Bureš,erik.bures@stud.th-deg.de,+4915189748987,1997-12-17,Ralph-Bender-Straße 19,93413,Cham,28,male,Czech Republic,MSS,Master,2025,3,50,1.7,False,False
+18332675,Klement,Čech,klement.cech@stud.th-deg.de,+4917045827150,1998-01-28,Liebeltweg 6,93413,Cham,27,male,Czech Republic,MSS,Master,2026,2,30,2.1,False,False
+17210846,Ana Julia,Campos,ana-julia.campos@stud.th-deg.de,0176 1693 944,2001-10-22,Gaby-Reuter-Gasse 52,93413,Cham,24,female,Brazil,MMC,Master,2026,1,0,2.2,False,True
+10317511,Khaled,Khoury,khaled.khoury@stud.th-deg.de,0157/1320301,1996-02-16,Försterplatz 17,93413,Cham,29,male,Syria,MMC,Master,2025,3,60,2.2,False,False
+15971035,Eşref,Yüksel,esref.yueksel@stud.th-deg.de,+49 151 6070018,1994-12-17,Sigrid-Rosenow-Allee 38,93413,Cham,31,male,Türkiye,MSS,Master,2025,3,55,1.8,True,False
+25758621,Renata,Benthin,renata.benthin@stud.th-deg.de,+4915165035551,2003-09-19,Gitte-Dobes-Ring 79,92421,Schwandorf,23,female,Germany,MMC,Master,2026,2,25,1.5,False,False
+27450998,Bo,Zhou,bo.zhou@stud.th-deg.de,0172 9318 106,2007-11-13,Engin-Klotz-Ring 20,93413,Cham,19,male,China,MDP,Bachelor,2026,1,0,2.4,False,False
+23197060,Hossein,Rezaei,hossein.rezaei@stud.th-deg.de,+491521968652,1998-11-19,Helene-Mülichen-Allee 16,93413,Cham,27,male,Iran,MDM,Master,2026,2,25,2.0,False,False
+25312365,Tao,Sun,tao.sun@stud.th-deg.de,0176/17327860,1996-04-06,Ana-Döring-Allee 74,93413,Cham,29,male,China,MRO,Master,2025,3,40,3.0,False,False
+14774381,Torsten,Striebitz,torsten.striebitz@stud.th-deg.de,+49 178 26288514,2003-05-24,Hilda-Löchel-Ring 29,92637,Weiden in der Oberpfalz,22,male,Germany,MDP,Bachelor,2023,7,175,2.5,False,False
+22097293,Jie,Huang,jie.huang@stud.th-deg.de,0172/28792142,2003-09-25,Carlo-Liebelt-Straße 24,93437,Furth im Wald,22,male,China,MSS,Master,2026,2,30,1.0,False,False
+26338646,Frank-Michael,Mende,frank-michael.mende@stud.th-deg.de,0160 1094 1819,2006-03-13,Bolanderplatz 57,93413,Cham,20,male,Germany,MDP,Bachelor,2026,2,15,2.8,False,True
+29048558,Emil,Meister,emil.meister@stud.th-deg.de,0162 0434 460,1997-04-13,Johan-Kramer-Ring 11,80331,München,28,male,Germany,MDM,Master,2025,4,50,1.8,False,True
+24178160,Mulugeta,Gebre,mulugeta.gebre@stud.th-deg.de,0176/53473906,1999-02-14,Ute-Ullmann-Allee 30,93413,Cham,26,male,Ethiopia,MMC,Master,2025,3,25,2.6,False,True
+15991685,Ada,Neureuther,ada.neureuther@stud.th-deg.de,0162/1336545,1995-11-23,Herrmannallee 16,93047,Regensburg,30,male,Germany,MDM,Master,2025,3,50,2.5,False,False
+23650267,Sujan,Adhikari,sujan.adhikari@stud.th-deg.de,0151/83730823,1999-03-05,Christiana-Hölzenbecher-Straße 71,93413,Cham,26,male,Nepal,MDM,Master,2026,1,0,2.0,False,False
+16825254,Arjun,Reddy,arjun.reddy@stud.th-deg.de,+491608356944,2001-05-10,Heinzring 24,93413,Cham,24,male,India,MDM,Master,2026,1,0,2.4,False,False
+17367070,Christian,Karge,christian.karge@stud.th-deg.de,0162 0313 551,2004-06-18,Rohlederweg 45,93413,Cham,21,male,Germany,MDP,Bachelor,2025,4,90,1.7,False,False
+19498289,Avni,Saxena,avni.saxena@stud.th-deg.de,0162/2703416,2000-05-20,Beyerweg 42,93413,Cham,25,female,India,MRO,Master,2026,1,0,1.9,False,False
+15394326,Korbinian,Tschentscher,korbinian.tschentscher@stud.th-deg.de,0160/7210089,2002-10-09,Spießstr. 39,93426,Roding,23,male,Germany,MDP,Bachelor,2023,7,155,2.3,True,False
+22994363,Ahmed,Iqbal,ahmed.iqbal@stud.th-deg.de,+49 178 47498855,2005-11-04,Rädelring 6,93413,Cham,20,male,Pakistan,MDP,Bachelor,2026,1,0,2.1,True,False
+21873086,Reginald,Kruschwitz,reginald.kruschwitz@stud.th-deg.de,0170 5147 362,2000-07-15,Edgar-Textor-Ring 21,93437,Furth im Wald,26,male,Germany,MSS,Master,2026,2,25,2.2,False,False
+21346161,Altınkaya,Seven,altnkaya.seven@stud.th-deg.de,0152/3187283,2000-11-18,Thorsten-Rogner-Gasse 68,93413,Cham,25,male,Türkiye,MMC,Master,2025,3,55,2.4,False,False
+12428767,Akosua,Mensah,akosua.mensah@stud.th-deg.de,0172/02358440,2000-02-22,Gereon-Fischer-Weg 44,93413,Cham,25,female,Ghana,MDM,Master,2025,3,40,2.3,False,False
+23126665,Klemens,Linke,klemens.linke@stud.th-deg.de,+4916285084485,2001-12-01,Raymond-Kranz-Weg 70,92637,Weiden in der Oberpfalz,24,male,Germany,MDM,Master,2025,3,50,1.8,False,False
+19902203,Nicolas,Costa,nicolas.costa@stud.th-deg.de,0176 9188 010,1993-02-01,Leander-Hörle-Platz 45,93413,Cham,32,male,Brazil,MMC,Master,2026,1,0,1.3,False,False
+11061122,Dagmar,Matthäi,dagmar.matthaei@stud.th-deg.de,0178 0436 684,1997-01-11,Martha-Koch II-Weg 26,93047,Regensburg,28,female,Germany,MRO,Master,2025,3,60,1.5,False,False
+14019242,Sakib,Haque,sakib.haque@stud.th-deg.de,0151/25866171,1991-01-16,Ackermannstr. 28,93426,Roding,34,male,Bangladesh,MMC,Master,2026,2,25,2.2,False,False
+23672142,Liam,Bath,liam.bath@stud.th-deg.de,+49 170 7723413,2000-03-01,Hofmanngasse 62,93413,Cham,25,male,India,MSS,Master,2026,1,0,1.5,False,False
+29079671,Ayoub,Alaoui,ayoub.alaoui1@stud.th-deg.de,+491602811308,1997-11-05,Dietzring 19,93413,Cham,28,male,Morocco,MMC,Master,2026,2,25,1.6,False,False
+14921524,Sakib,Miah,sakib.miah1@stud.th-deg.de,+4917615034622,1998-04-12,Dobesallee 48,93413,Cham,27,male,Bangladesh,MRO,Master,2026,2,30,2.1,False,False
+25063918,Lukas,Etzler,lukas.etzler@stud.th-deg.de,+491572851199,2001-10-08,Karlheinz-Pieper-Allee 74,93444,Bad Kötzting,24,male,Germany,MDP,Bachelor,2025,4,75,1.7,False,False
+10686193,Steffen,Freudenberger,steffen.freudenberger@stud.th-deg.de,+49 151 69446174,2005-06-20,Mansgasse 67,93449,Waldmünchen,20,male,Germany,MDP,Bachelor,2026,2,25,1.7,True,False
+23996545,Mulugeta,Wolde,mulugeta.wolde@stud.th-deg.de,+49 176 8244712,1998-02-01,Zimmerstr. 31,93413,Cham,28,male,Ethiopia,MMC,Master,2026,2,25,2.6,False,False
+25885528,Vân,Vũ,van.vu@stud.th-deg.de,0157/5844107,2001-06-25,Steuerplatz 22,93413,Cham,24,female,Vietnam,MRO,Master,2026,2,30,1.7,False,False
+27091099,Ernst,Fröhlich,ernst.froehlich@stud.th-deg.de,0162/5814216,1996-03-05,Heinzring 50,94032,Passau,29,male,Germany,MRO,Master,2026,1,0,2.1,False,False
+18626893,Vũ,Hoàng,vu.hoang@stud.th-deg.de,0176 1589 798,1998-04-13,Schollweg 49,93413,Cham,27,male,Vietnam,MDM,Master,2025,3,50,2.3,False,False
+25150573,Ahmad,Darwish,ahmad.darwish@stud.th-deg.de,0170 3875 4722,1997-07-28,Natascha-Dörschner-Platz 58,93413,Cham,28,male,Syria,MRO,Master,2026,1,0,2.0,False,False
+22836931,Fredo,Hecker,fredo.hecker@stud.th-deg.de,0152 4548 247,1998-10-19,Hilda-Löchel-Ring 6,93449,Waldmünchen,27,male,Germany,MRO,Master,2025,3,55,1.0,True,False
+19911821,Oğuzman,Hayrioğlu,oguzman.hayrioglu@stud.th-deg.de,+4917032102829,2003-08-28,Davidsallee 43,93413,Cham,22,male,Türkiye,MSS,Master,2026,1,0,1.2,False,False
+25924259,Ngozi,Okafor,ngozi.okafor@stud.th-deg.de,+49 172 49508984,1999-03-01,Detlev-Wagenknecht-Straße 1,93413,Cham,26,female,Nigeria,MMC,Master,2025,3,30,3.1,False,True
+14980261,Fiifi,Mensah,fiifi.mensah@stud.th-deg.de,0170/86706170,1995-09-21,Segebahnstr. 79,93413,Cham,30,male,Ghana,MDM,Master,2026,2,15,3.0,False,True
+12486531,Fitan,Suri,fitan.suri@stud.th-deg.de,+49 178 4079057,2000-09-03,Heinzring 70,93413,Cham,26,male,India,MDM,Master,2026,1,0,2.2,False,True
+14178047,Isuru,Fernando,isuru.fernando@stud.th-deg.de,0162 9559 736,2000-03-18,Wilmsallee 59,93413,Cham,25,male,Sri Lanka,MMC,Master,2026,1,0,1.5,False,False
+17839908,Reimund,Etzler,reimund.etzler@stud.th-deg.de,0162/99488501,2001-11-10,Schwitalstr. 24,93413,Cham,25,male,Germany,MDP,Bachelor,2022,10,190,2.3,False,False
+13214948,Kojo,Osei,kojo.osei@stud.th-deg.de,+49 176 28843468,2002-11-22,Senta-Kreusel-Weg 59,93413,Cham,23,male,Ghana,MDM,Master,2025,3,60,1.8,False,False
+26732467,Ánh,Phạm,anh.pham@stud.th-deg.de,0160 9422 047,1995-08-04,Mangoldgasse 36,93413,Cham,30,female,Vietnam,MMC,Master,2026,1,0,1.6,False,False
+29888931,Ferdinand,Petrová,ferdinand.petrova@stud.th-deg.de,+4916037349853,2003-04-26,Tatjana-Eimer-Ring 52,93413,Cham,22,male,Czech Republic,MRO,Master,2026,2,30,1.5,False,False
+26289899,Martin,Haering,martin.haering@stud.th-deg.de,+49 162 5482049,2002-05-14,Weinholdstr. 19,93413,Cham,23,male,Germany,MDP,Bachelor,2023,8,155,2.6,False,False
+20519585,Raphaela,Weller,raphaela.weller@stud.th-deg.de,0176/5417145,2004-06-15,Röhrdanzplatz 38,93413,Cham,21,female,Germany,MDP,Bachelor,2026,1,0,2.6,True,False
+16260017,Rahim,Chowdhury,rahim.chowdhury@stud.th-deg.de,+491516577188,1996-03-16,Carlo-Liebelt-Straße 70,93426,Roding,29,male,Bangladesh,MDM,Master,2024,5,55,1.9,False,True
+13464002,Cathleen,Hübel,cathleen.huebel@stud.th-deg.de,0176/6498196,2005-04-01,Rörrichtgasse 15,93047,Regensburg,21,female,Germany,MDP,Bachelor,2024,5,105,2.0,False,False
+20896832,Paul,Seip,paul.seip@stud.th-deg.de,+49 162 7759245,2004-02-09,Schomberplatz 31,94469,Deggendorf,22,male,Germany,MDP,Bachelor,2023,7,90,2.5,False,True
+29070203,Wei,Zhang,wei.zhang@stud.th-deg.de,+4916267114305,1997-02-20,Marjan-Christoph-Ring 24,93047,Regensburg,28,male,China,MSS,Master,2025,3,60,1.4,False,False
+23034969,Edaviye,Akça,edaviye.akca@stud.th-deg.de,0172/7314267,1998-09-27,Luzie-Mitschke-Allee 15,93413,Cham,27,female,Türkiye,MRO,Master,2026,1,0,2.4,False,True
+12275729,Tarek,Haddad,tarek.haddad@stud.th-deg.de,+491524956327,2005-02-28,Niemeierstr. 32,93413,Cham,20,male,Syria,MDP,Bachelor,2026,2,25,2.4,True,False
+13573444,Durmuşali,Arsoy,durmusali.arsoy@stud.th-deg.de,+49 151 71645580,2002-06-15,Hanne-Ullmann-Gasse 49,93437,Furth im Wald,24,male,Türkiye,MMC,Master,2026,2,25,2.3,False,False
+19034832,Armin,Prohaska,armin.prohaska@stud.th-deg.de,0160 5109 1045,1999-06-08,Hörlestraße 5,93413,Cham,26,male,Austria,MDM,Master,2026,1,0,2.0,False,False
+29483139,Fedor,Junk,fedor.junk@stud.th-deg.de,+49 152 4915160,1995-01-14,Irmela-Textor-Straße 17,94315,Straubing,30,male,Germany,MRO,Master,2026,2,30,1.7,False,False
+28910823,Mohamed,Kamel,mohamed.kamel@stud.th-deg.de,0151/71420096,2000-10-13,Hans-Hermann-Reising-Straße 65,93413,Cham,25,male,Egypt,MSS,Master,2024,5,90,1.3,True,False
+26155691,Kurt,Stiebitz,kurt.stiebitz@stud.th-deg.de,+491577414555,2001-12-12,Hövelweg 21,93444,Bad Kötzting,24,male,Germany,MDP,Bachelor,2022,10,185,1.1,False,False
+21483842,Hans-Günter,Schmidt,hans-guenter.schmidt@stud.th-deg.de,0157 8997 1905,2004-08-11,Holstenallee 27,93444,Bad Kötzting,21,male,Germany,MDP,Bachelor,2026,1,0,2.0,False,False
+29503136,Hans-Theo,Stumpf,hans-theo.stumpf@stud.th-deg.de,+49 172 72770615,2005-09-25,Roswitha-Klemt-Platz 54,93413,Cham,20,male,Germany,MDP,Bachelor,2025,3,55,2.2,False,False
+17979131,Raphael,Hering,raphael.hering@stud.th-deg.de,0160 8977 315,2003-03-11,Kallertgasse 59,92421,Schwandorf,22,male,Germany,MDP,Bachelor,2024,6,80,2.6,False,True
+17992014,Ranbir,Kalla,ranbir.kalla@stud.th-deg.de,0157 1839 610,2001-11-01,Conradistraße 76,93413,Cham,24,male,India,MDM,Master,2026,1,0,1.1,False,False
+28340717,Maxim,Bähr,maxim.baehr@stud.th-deg.de,0151/96286382,2002-10-21,Daniela-Löchel-Gasse 13,94315,Straubing,23,male,Germany,MDP,Bachelor,2022,9,130,2.0,False,True
+24246253,Adalbert,Heuser,adalbert.heuser@stud.th-deg.de,0172 1284 7733,2000-06-19,Kuhlplatz 60,92637,Weiden in der Oberpfalz,25,male,Germany,MSS,Master,2026,1,0,2.5,False,False
+18683728,Karlfried,Rust,karlfried.rust@stud.th-deg.de,0151 1973 0741,1996-09-11,Jennifer-Kade-Straße 58,93426,Roding,30,male,Germany,MDM,Master,2026,1,0,1.7,False,False
+10006975,Leo,Bruckner,leo.bruckner@stud.th-deg.de,0178/65197573,1999-12-18,Schmiedtallee 10,93047,Regensburg,26,male,Austria,MSS,Master,2026,2,25,1.6,True,False
+28070879,Marian,Reising,marian.reising@stud.th-deg.de,+49 178 0788939,2003-08-27,Björn-Pechel-Gasse 70,93449,Waldmünchen,22,male,Germany,MDP,Bachelor,2024,6,60,3.1,False,True
+11329416,Babak,Jafari,babak.jafari@stud.th-deg.de,+4917096548821,1999-03-26,Heßplatz 25,93413,Cham,26,male,Iran,MDM,Master,2026,1,0,2.2,False,False
+12282343,Janusz,Rust,janusz.rust@stud.th-deg.de,+49 176 4506927,1995-04-23,Marjan-Christoph-Ring 34,80331,München,30,male,Germany,MDM,Master,2026,1,0,1.2,False,False
+14138863,Sancak,Ertaş,sancak.ertas@stud.th-deg.de,+49 152 98998318,2001-03-17,Margrafring 63,93413,Cham,25,male,Türkiye,MDM,Master,2025,3,30,2.6,False,True
+27094925,Francisco,Zänker,francisco.zaenker@stud.th-deg.de,+49 162 09323441,2004-04-01,Hanne-Ullmann-Gasse 42,94469,Deggendorf,21,diverse,Germany,MDP,Bachelor,2024,5,110,1.8,False,False
+29115286,Aurelia,Haering,aurelia.haering@stud.th-deg.de,0162 6800 606,2006-11-15,Täscheplatz 22,93047,Regensburg,20,female,Germany,MDP,Bachelor,2025,3,25,2.8,False,True
+10622198,Leander,Stückler,leander.stueckler@stud.th-deg.de,0162/81160443,1997-03-23,Junkplatz 26,93413,Cham,28,male,Austria,MRO,Master,2025,3,55,1.8,False,False
+19093938,Fang,Li,fang.li@stud.th-deg.de,+491520982029,2000-11-24,Ana-Döring-Allee 59,93413,Cham,25,female,China,MMC,Master,2025,4,85,1.9,True,False
+29343288,Melita,Koch,melita.koch@stud.th-deg.de,+4917015704312,1995-04-22,Senta-Kreusel-Weg 15,93413,Cham,30,female,Germany,MMC,Master,2026,2,20,2.1,False,True
+28054077,Siddharth,Sachdev,siddharth.sachdev@stud.th-deg.de,0162 6533 597,2000-06-28,Schusterallee 38,93413,Cham,25,male,India,MSS,Master,2026,2,30,2.0,False,False
+10971138,Uta,Liebelt,uta.liebelt@stud.th-deg.de,0157/1185091,2002-07-15,Ditschlerinallee 60,93413,Cham,23,female,Germany,MDM,Master,2026,1,0,1.7,False,False
+14491802,Omar,Hassan,omar.hassan@stud.th-deg.de,0151/59645647,1990-02-04,Joseph-Rädel-Weg 70,93413,Cham,36,male,Syria,MRO,Master,2026,1,0,2.2,False,True
+18720780,Krish,Narayan,krish.narayan@stud.th-deg.de,0178 7879 451,2002-03-14,Maurizio-Langern-Allee 66,93413,Cham,24,male,India,MMC,Master,2026,2,30,1.8,False,False
+25571421,Stephen,Coleman,stephen.coleman@stud.th-deg.de,+49 152 71837981,1999-04-09,Gloria-Röhrdanz-Ring 29,93413,Cham,26,male,Philippines,MRO,Master,2025,4,35,2.4,False,True
+24751619,Korbinian,Eckbauer,korbinian.eckbauer@stud.th-deg.de,0152/51555613,2004-01-24,Mälzerstr. 16,93426,Roding,22,male,Germany,MDP,Bachelor,2023,7,155,1.1,False,False
+10513332,Yousef,Aziz,yousef.aziz@stud.th-deg.de,0178/5962504,2001-10-22,Hörlestraße 74,93413,Cham,25,male,Syria,MSS,Master,2025,3,60,1.4,False,False
+23329210,Sandrine,Fotso,sandrine.fotso@stud.th-deg.de,+49 151 9642145,2002-07-12,Else-Fliegner-Platz 48,93413,Cham,23,female,Cameroon,MSS,Master,2026,1,0,2.3,False,True
+24981284,Thaddäus,Reuter,thaddaeus.reuter@stud.th-deg.de,+491760183318,2005-11-11,Hartmannplatz 33,93413,Cham,20,male,Germany,MDP,Bachelor,2025,3,50,2.1,False,False
+10255300,Hans-Henning,Bien,hans-henning.bien@stud.th-deg.de,+49 157 41708032,2005-11-05,Geiselstr. 72,92224,Amberg,20,male,Germany,MDP,Bachelor,2026,2,25,2.4,False,False
+19337068,Ibrahim,Balogun,ibrahim.balogun@stud.th-deg.de,+49 162 35947302,1997-05-02,Rustplatz 58,93413,Cham,28,male,Nigeria,MMC,Master,2026,2,20,2.2,False,False
+15391824,Damian,Tołoczko,damian.tooczko@stud.th-deg.de,+49 178 8115007,1997-10-09,Knut-Heidrich-Ring 38,93437,Furth im Wald,28,male,Poland,MRO,Master,2026,1,0,2.2,False,True
+24386381,Nimrat,Krishna,nimrat.krishna@stud.th-deg.de,0170 0630 695,1999-01-07,Heßplatz 16,93413,Cham,27,female,India,MSS,Master,2026,2,15,2.2,False,True
+16725585,Katerina,Ullmann,katerina.ullmann@stud.th-deg.de,0176 6475 442,1998-06-08,Leander-Hörle-Platz 7,90402,Nürnberg,27,female,Germany,MRO,Master,2026,2,15,2.2,False,True
+28954678,Dmytro,Savchenko,dmytro.savchenko@stud.th-deg.de,0151/0330269,2000-08-28,Hamannstr. 42,93413,Cham,25,male,Ukraine,MDM,Master,2026,2,15,2.5,False,True
+11780349,Brian,Kamau,brian.kamau@stud.th-deg.de,+49 172 99149854,1999-06-20,Krokerweg 10,93413,Cham,26,male,Kenya,MSS,Master,2026,2,15,2.1,True,True
+25234342,Baki,Tarhan,baki.tarhan@stud.th-deg.de,+49 162 65292352,2000-09-16,Hartmannstraße 25,93437,Furth im Wald,25,male,Türkiye,MDM,Master,2024,6,70,2.2,False,False
+18101812,Engelbert,Butte,engelbert.butte@stud.th-deg.de,+49 170 8744903,2003-11-06,Schusterallee 54,93047,Regensburg,22,male,Germany,MDP,Bachelor,2024,6,130,2.7,True,False
+10130954,Karin,Christoph,karin.christoph@stud.th-deg.de,+4915219767113,2002-06-24,Ljiljana-Stiffel-Straße 2,92421,Schwandorf,23,female,Germany,MDP,Bachelor,2022,10,80,3.0,False,True
+21919579,Hans-Detlef,Freudenberger,hans-detlef.freudenberger@stud.th-deg.de,+49 157 7654773,2001-04-19,Bartholomäus-Speer-Platz 79,92637,Weiden in der Oberpfalz,24,male,Germany,MDM,Master,2025,3,55,2.1,False,False
+28093039,Arif,Islam,arif.islam@stud.th-deg.de,0176 4848 475,1999-07-15,Roggeallee 35,93413,Cham,26,male,Bangladesh,MDM,Master,2026,2,30,2.0,False,False
+20714211,Pero,Tschentscher,pero.tschentscher@stud.th-deg.de,0178 4698 323,2001-11-14,Dirk-Hein-Allee 69,93047,Regensburg,24,male,Germany,MDP,Bachelor,2022,9,210,2.0,False,False
+10723392,Vũ,Hoàng,vu.hoang1@stud.th-deg.de,0157/0584033,1994-12-16,Eileen-Schuster-Platz 14,93413,Cham,31,male,Vietnam,MSS,Master,2024,6,90,2.4,True,False
+13420286,Babak,Rahimi,babak.rahimi@stud.th-deg.de,0157 7192 803,1998-10-24,Dörrplatz 37,93413,Cham,27,male,Iran,MSS,Master,2024,5,75,1.9,False,False
+22057265,Hamza,Malik,hamza.malik@stud.th-deg.de,+491622894129,2001-03-21,Irmela-Textor-Straße 76,93413,Cham,24,male,Pakistan,MRO,Master,2026,1,0,1.4,False,False
+20219887,Ekapad,Contractor,ekapad.contractor@stud.th-deg.de,0176 7676 3626,2000-03-14,Scholzring 50,93413,Cham,25,male,India,MSS,Master,2026,1,0,1.8,False,False
+24347991,Bo,Li,bo.li@stud.th-deg.de,+491629714487,1991-07-19,Hanne-Ullmann-Gasse 64,93413,Cham,34,male,China,MMC,Master,2024,6,90,1.0,True,False
+17814021,Omya,Chawla,omya.chawla@stud.th-deg.de,0162/7264318,1997-05-27,Mangoldgasse 55,93413,Cham,29,female,India,MMC,Master,2026,2,15,2.8,False,True
+24220242,Yazan,Haddad,yazan.haddad@stud.th-deg.de,0160/97943866,1997-08-10,Gloria-Röhrdanz-Ring 59,93413,Cham,28,male,Jordan,MMC,Master,2025,3,60,1.5,False,False
+29800810,Serge,Tagne,serge.tagne@stud.th-deg.de,0178 8073 1288,1997-12-26,Uli-Junken-Ring 29,93413,Cham,29,male,Cameroon,MDM,Master,2026,1,0,3.1,False,True
+28471135,Rahim,Haque,rahim.haque@stud.th-deg.de,+49 152 3473116,1997-07-17,Stiebitzallee 36,93413,Cham,29,male,Bangladesh,MRO,Master,2025,4,90,2.1,False,False
+11528222,Antonio,Meyer,antonio.meyer@stud.th-deg.de,+4915206097864,2002-05-06,Roggestraße 4,93413,Cham,23,male,Austria,MSS,Master,2026,1,0,1.7,False,False
+19700105,Daniel,Thies,daniel.thies@stud.th-deg.de,0176/5524909,2004-11-28,Gerwin-Henck-Platz 21,93413,Cham,21,male,Germany,MDP,Bachelor,2025,4,90,1.5,False,False
+15505343,Ekkehard,Weinhage,ekkehard.weinhage@stud.th-deg.de,+491528701916,2003-06-20,Heßplatz 6,93444,Bad Kötzting,22,male,Germany,MDP,Bachelor,2023,7,165,2.0,False,False
+25073364,Tito,Salas,tito.salas@stud.th-deg.de,+491528952097,1996-08-11,Mühlestr. 26,93413,Cham,30,male,Spain,MDM,Master,2026,2,10,2.5,False,True
+13283338,Tanvir,Miah,tanvir.miah@stud.th-deg.de,+49 176 4371093,2001-02-07,Hörlestraße 58,93413,Cham,24,male,Bangladesh,MDM,Master,2025,4,40,2.4,False,True
+26988754,Zenon,Striebitz,zenon.striebitz@stud.th-deg.de,0172 2446 988,2001-07-26,Clara-Scheibe-Gasse 17,93426,Roding,24,male,Germany,MDP,Bachelor,2023,7,135,2.1,False,False
+21336422,Zeljko,Weinhold,zeljko.weinhold@stud.th-deg.de,+491705680850,2003-06-24,Försterplatz 38,93426,Roding,22,male,Germany,MDP,Bachelor,2023,7,170,1.8,False,False
+21418639,Ehrhard,Kuhl,ehrhard.kuhl@stud.th-deg.de,+491621002246,2000-02-02,Rabea-Henschel-Ring 44,93413,Cham,25,male,Germany,MSS,Master,2026,2,30,1.7,False,False
+26586946,Ernesto,Interiano,ernesto.interiano@stud.th-deg.de,+491769542401,2003-03-18,Roggestraße 13,93413,Cham,22,male,Italy,MDP,Bachelor,2025,3,60,1.6,True,False
+23422372,Saad,Butt,saad.butt@stud.th-deg.de,0152 1694 1071,1999-09-04,Huhnallee 65,93413,Cham,26,male,Pakistan,MDM,Master,2026,1,0,1.9,False,False
+21426838,Hamza,Siddiqui,hamza.siddiqui@stud.th-deg.de,0176/88690229,1999-03-09,Jovan-Freudenberger-Allee 61,93413,Cham,26,male,Pakistan,MMC,Master,2026,2,10,2.6,False,True
+26116608,Liane,Albers,liane.albers@stud.th-deg.de,+491578803527,2001-02-16,Schmidtkeallee 15,93413,Cham,25,female,Germany,MDP,Bachelor,2023,7,180,2.4,False,False
+18994962,Sumaiya,Uddin,sumaiya.uddin@stud.th-deg.de,+49 176 83238637,2001-01-07,Anita-Hellwig-Ring 3,93413,Cham,24,female,Bangladesh,MRO,Master,2026,2,30,2.0,False,False
+29097695,Imtiaz,Islam,imtiaz.islam@stud.th-deg.de,+49 157 9271060,2004-01-15,Gerwin-Henck-Platz 1,93413,Cham,21,male,Bangladesh,MDP,Bachelor,2025,3,50,3.0,False,False
+11199882,Bohumír,Mašková,bohumir.maskova@stud.th-deg.de,0157 0137 0213,1995-06-13,Meinolf-Winkler-Platz 24,93047,Regensburg,30,male,Czech Republic,MMC,Master,2026,1,0,2.0,False,True
+29909434,Hans-Herbert,Klotz,hans-herbert.klotz@stud.th-deg.de,+491709297339,2006-06-17,Corinna-Müller-Weg 10,93413,Cham,20,male,Germany,MDP,Bachelor,2025,3,50,2.5,False,False
+23731164,Tao,Wang,tao.wang@stud.th-deg.de,0170 9408 030,2001-08-23,Mangoldgasse 2,93413,Cham,24,male,China,MDP,Bachelor,2022,10,125,3.2,False,True
+28974601,Achille,Foletti,achille.foletti@stud.th-deg.de,+49 176 1911529,2002-07-05,Huhnallee 37,93437,Furth im Wald,24,male,Italy,MDP,Bachelor,2022,9,135,2.8,True,True
+15408413,Solveig,Gute,solveig.gute@stud.th-deg.de,0170 7011 9203,2003-07-23,Lars-Austermühle-Allee 42,94469,Deggendorf,22,female,Germany,MDP,Bachelor,2025,4,85,1.4,False,False
+17255024,Carlo,Hartmann,carlo.hartmann@stud.th-deg.de,+49 152 9296363,2006-12-07,Fritschweg 2,93426,Roding,20,male,Germany,MDP,Bachelor,2026,1,0,1.3,True,False
+24220147,Anselm,Roskoth,anselm.roskoth@stud.th-deg.de,0157/6010090,2006-03-01,Jovan-Freudenberger-Allee 48,94032,Passau,19,male,Germany,MDP,Bachelor,2026,1,0,2.8,False,True
+27741261,Suman,Shrestha,suman.shrestha@stud.th-deg.de,+491572038686,1997-09-13,Louise-Rosemann-Gasse 32,93413,Cham,28,male,Nepal,MSS,Master,2025,3,25,2.7,False,True
+22237247,Nayeem,Akter,nayeem.akter@stud.th-deg.de,0151 4571 175,1997-01-09,Schusterallee 16,93047,Regensburg,28,male,Bangladesh,MDM,Master,2025,3,60,1.9,False,False
+28155317,Emna,Bouazizi,emna.bouazizi@stud.th-deg.de,+49 152 80078278,1999-11-06,Röhrichtgasse 9,93413,Cham,27,female,Tunisia,MMC,Master,2025,4,90,2.0,False,False
+14824259,Onveer,Ratti,onveer.ratti@stud.th-deg.de,+49 152 7711687,2001-05-12,Baumgasse 60,93437,Furth im Wald,25,male,India,MMC,Master,2026,1,0,1.6,False,False
+17088219,Lambert,Flantz,lambert.flantz@stud.th-deg.de,+49 160 2536256,1992-05-25,Schomberplatz 9,94032,Passau,33,male,Germany,MSS,Master,2026,1,0,1.7,False,False
+29937738,Shuvo,Ahmed,shuvo.ahmed@stud.th-deg.de,+491510123201,2000-02-17,Rabea-Henschel-Ring 16,93437,Furth im Wald,25,male,Bangladesh,MRO,Master,2026,1,0,1.6,False,False
+17331608,Ahmed,Kamel,ahmed.kamel1@stud.th-deg.de,+49 172 0398724,1996-07-21,Segebahnstr. 57,93413,Cham,29,male,Egypt,MRO,Master,2025,3,50,1.8,False,False
+26439430,Anatoli,Hiller,anatoli.hiller@stud.th-deg.de,0176/6258306,2002-05-05,Fritschweg 50,93047,Regensburg,23,male,Germany,MDP,Bachelor,2024,6,100,2.6,True,True
+13294616,Leif,Junk,leif.junk@stud.th-deg.de,0152/5615416,2003-12-03,Heusergasse 79,93413,Cham,22,male,Germany,MDP,Bachelor,2024,6,145,1.9,False,False
+19592766,Arnulf,Bloch,arnulf.bloch@stud.th-deg.de,0152 2589 2309,2006-03-10,Rolf-Noack-Gasse 4,93047,Regensburg,19,male,Germany,MDP,Bachelor,2026,1,0,2.0,False,False
+20370786,Carlo,Rust,carlo.rust@stud.th-deg.de,+4917646452816,2005-06-22,Raymond-Kranz-Weg 16,92421,Schwandorf,20,male,Germany,MDP,Bachelor,2026,2,25,2.3,False,False
+16582231,Iris,Hauer,iris.hauer@stud.th-deg.de,+49 176 69826428,1997-11-25,Thorsten-Rogner-Gasse 53,93413,Cham,28,female,Austria,MSS,Master,2025,3,50,1.7,False,False
+22064969,Miloš,Říha,milos.riha@stud.th-deg.de,+491522599974,2000-10-03,Burghard-Kusch-Allee 19,93426,Roding,26,male,Czech Republic,MMC,Master,2025,3,55,2.0,False,False
+14660650,Chukwuemeka,Adeyemi,chukwuemeka.adeyemi@stud.th-deg.de,0157/09971274,2004-10-14,Cengiz-Beckmann-Ring 31,93413,Cham,21,male,Nigeria,MDP,Bachelor,2024,6,130,2.2,False,False
+19942783,Vanya,Ghosh,vanya.ghosh@stud.th-deg.de,+49 160 14262218,2002-07-12,Stahrstraße 24,93413,Cham,23,female,India,MMC,Master,2026,1,0,1.0,True,False
+16426811,Abraham,Scholtz,abraham.scholtz@stud.th-deg.de,+49 176 93680029,2000-11-21,Dirk-Hein-Allee 64,93437,Furth im Wald,25,male,Germany,MSS,Master,2026,1,0,2.5,False,False
+29852761,Hans-Henning,Mitschke,hans-henning.mitschke@stud.th-deg.de,0172 9557 6739,2006-03-06,Henckring 63,93047,Regensburg,19,male,Germany,MDP,Bachelor,2026,1,0,2.4,False,False
+19063032,Hui,Huang,hui.huang@stud.th-deg.de,+4915760105831,1997-10-14,Bohnbachstr. 64,93413,Cham,28,female,China,MDM,Master,2025,3,50,1.9,False,False
+21888020,Friedrich-Wilhelm,Bauer,friedrich-wilhelm.bauer@stud.th-deg.de,+4917216322047,2000-07-24,Reichmannstraße 40,94469,Deggendorf,25,male,Germany,MDP,Bachelor,2022,10,85,2.9,False,True
+16527557,Lei,Zhang,lei.zhang@stud.th-deg.de,0172/92436880,2001-05-14,Marjan-Christoph-Ring 39,93413,Cham,24,male,China,MRO,Master,2025,4,65,2.2,False,True
+16830742,Gabriel,Seidel,gabriel.seidel@stud.th-deg.de,+49 152 4679350,2006-03-22,Riehlstraße 46,93413,Cham,19,male,Germany,MDP,Bachelor,2026,2,30,1.6,False,False
+27906829,Tao,Zhang,tao.zhang@stud.th-deg.de,0178/92626493,1998-07-18,Niemeiergasse 6,93413,Cham,27,male,China,MDM,Master,2025,3,60,1.9,False,False
+13570353,Frank-Michael,Koch II,frank-michael.koch-ii@stud.th-deg.de,+4917004428806,2003-01-17,Junitzallee 44,93413,Cham,22,male,Germany,MRO,Master,2026,1,0,1.2,False,False
+14088162,Encarnacion,Heras,encarnacion.heras@stud.th-deg.de,+49 157 60872378,1996-09-08,Herrmannallee 22,93413,Cham,29,female,Spain,MRO,Master,2025,3,30,2.4,False,True
+27871604,Arash,Ahmadi,arash.ahmadi@stud.th-deg.de,0160 1928 0806,1994-03-28,Kuhlplatz 75,93413,Cham,31,male,Iran,MDM,Master,2025,3,55,1.5,False,False
+27577770,Yara,Darwish,yara.darwish@stud.th-deg.de,+49 162 6634565,1996-05-07,Hedy-Junk-Gasse 15,93413,Cham,29,female,Syria,MDM,Master,2025,3,30,2.4,False,True
+27501177,Jeff,Bautista,jeff.bautista@stud.th-deg.de,+491624332372,1995-03-27,Siegmar-Stadelmann-Straße 3,93413,Cham,30,male,Philippines,MSS,Master,2025,3,60,1.0,False,False
+12871581,Abebe,Alemu,abebe.alemu@stud.th-deg.de,+49 160 12980981,2002-06-28,Schmiedtallee 77,93413,Cham,23,male,Ethiopia,MDM,Master,2026,2,30,1.7,False,False
+23940536,Urban,Heinz,urban.heinz@stud.th-deg.de,0152/87298837,2003-05-15,Claus-Dieter-Renner-Platz 13,93444,Bad Kötzting,22,male,Germany,MDP,Bachelor,2025,4,25,2.4,False,True
+29909394,Harm,Wesack,harm.wesack@stud.th-deg.de,0152 5536 8687,2003-03-25,Vollbrechtgasse 41,93444,Bad Kötzting,23,male,Germany,MSS,Master,2026,1,0,1.8,False,False
+19441551,Mahmoud,Farouk,mahmoud.farouk@stud.th-deg.de,+49 172 93166675,2002-11-21,Wilmsallee 31,93426,Roding,23,male,Egypt,MSS,Master,2025,3,40,2.1,False,True
+25218082,Konstantinos,Makris,konstantinos.makris@stud.th-deg.de,+49 176 2875602,2000-10-21,Natascha-Dörschner-Platz 22,93413,Cham,25,male,Greece,MRO,Master,2025,3,30,1.6,True,True
+26665868,Larry,Cruz,larry.cruz@stud.th-deg.de,+491600653831,1993-05-02,Kruschwitzweg 39,93437,Furth im Wald,32,male,Philippines,MSS,Master,2026,1,0,1.4,False,False
+16941999,Reginald,Thies,reginald.thies@stud.th-deg.de,+49 152 4528296,1990-01-04,Conradistraße 58,92224,Amberg,35,male,Germany,MMC,Master,2025,4,90,1.4,False,False
+18713382,Omar,Qureshi,omar.qureshi@stud.th-deg.de,0160 8646 653,2000-11-02,Ackermannstr. 10,93413,Cham,25,male,Pakistan,MSS,Master,2025,4,85,2.7,False,False
+17803469,Arash,Moradi,arash.moradi@stud.th-deg.de,0157/44759204,1999-09-01,Hilda-Löchel-Ring 53,93047,Regensburg,26,male,Iran,MMC,Master,2026,2,25,1.3,False,False
+10680487,Ekkehart,Klotz,ekkehart.klotz@stud.th-deg.de,0176 9058 5278,2005-07-24,Gaby-Reuter-Gasse 71,93426,Roding,20,male,Germany,MDP,Bachelor,2026,2,25,1.9,False,False
+23770129,Kojo,Darko,kojo.darko@stud.th-deg.de,+4916210771579,2000-08-05,Försterplatz 23,93413,Cham,25,male,Ghana,MSS,Master,2026,2,30,1.0,False,False
+17359124,Hugo,Koch,hugo.koch@stud.th-deg.de,+4915272147566,1994-01-01,Stiebitzallee 54,93444,Bad Kötzting,31,male,Germany,MMC,Master,2026,2,25,1.7,False,False
+23894853,Laurin,Schandl,laurin.schandl@stud.th-deg.de,+49 170 4179726,2000-06-27,Björn-Pechel-Gasse 73,93413,Cham,25,male,Austria,MDP,Bachelor,2025,4,60,2.7,False,False
+20148981,Hritik,Dass,hritik.dass@stud.th-deg.de,+49 157 4340838,2000-03-08,Roskothstr. 74,93413,Cham,25,male,India,MMC,Master,2025,3,45,1.6,False,False
+17726862,Uche,Adebayo,uche.adebayo@stud.th-deg.de,+49 176 27778912,2001-08-23,Knut-Heidrich-Ring 52,93413,Cham,24,male,Nigeria,MMC,Master,2025,3,60,1.1,False,False
+27691719,Chen,Wu,chen.wu@stud.th-deg.de,0151/6604110,2000-12-27,Ralph-Bender-Straße 75,93413,Cham,25,male,China,MMC,Master,2026,2,30,1.4,True,False
+21727734,Tarek,Saleh,tarek.saleh@stud.th-deg.de,0151 9887 9826,2001-07-15,Schusterallee 62,93413,Cham,24,male,Syria,MMC,Master,2024,5,80,2.1,False,False
+19732463,Hredhaan,Ahuja,hredhaan.ahuja@stud.th-deg.de,0176/4382846,2000-08-26,Holstenallee 41,93413,Cham,25,male,India,MDM,Master,2026,2,30,1.7,True,False
+29108936,Joshua,Mason,joshua.mason@stud.th-deg.de,+491602638120,2000-09-28,Weinholdstr. 10,93413,Cham,26,male,Philippines,MMC,Master,2026,1,0,1.1,False,False
+26934767,Mugdha,Sha,mugdha.sha@stud.th-deg.de,0160/0982628,2000-12-05,Gert-Adler-Straße 68,93413,Cham,26,female,India,MRO,Master,2026,1,0,1.7,False,False
+24220861,Tasnim,Akter,tasnim.akter@stud.th-deg.de,0160/29288517,2003-01-05,Rörrichtgasse 23,93413,Cham,23,female,Bangladesh,MRO,Master,2026,1,0,2.3,False,True
+14205098,Ming,Liu,ming.liu@stud.th-deg.de,+49 176 2330149,1998-04-11,Brita-Wieloch-Straße 59,93437,Furth im Wald,27,male,China,MSS,Master,2025,3,60,1.8,False,False
+21272001,Chatresh,Karan,chatresh.karan@stud.th-deg.de,+4915700823049,1998-04-16,Bohnbachstr. 51,93413,Cham,27,male,India,MMC,Master,2025,4,45,2.3,False,True
+12911540,Lei,Zhou,lei.zhou@stud.th-deg.de,+4917066528810,1999-09-23,Scheibeweg 29,93047,Regensburg,26,male,China,MSS,Master,2026,2,30,1.4,True,False
+29868591,Kristine,Warmer,kristine.warmer@stud.th-deg.de,+49 151 90712560,1996-06-06,Zoran-Hartmann-Ring 62,93437,Furth im Wald,29,diverse,Germany,MDM,Master,2026,2,30,1.8,False,False
+27045782,Samuel,Issac,samuel.issac@stud.th-deg.de,0157/42197948,2001-10-06,Weitzelplatz 52,93413,Cham,24,male,India,MDM,Master,2025,3,55,1.9,False,False
+12149873,Oluwaseun,Obi,oluwaseun.obi@stud.th-deg.de,0162 5464 984,1998-06-09,Henkallee 59,93413,Cham,27,male,Nigeria,MDM,Master,2024,5,90,1.9,False,False
+29165492,Boleslav,Kubíčková,boleslav.kubickova@stud.th-deg.de,+4917228667271,2004-12-08,Rudolf-Neureuther-Straße 76,93437,Furth im Wald,22,male,Czech Republic,MSS,Master,2026,1,0,2.0,False,True
+24886231,Henry,Kalita,henry.kalita@stud.th-deg.de,+4917073706706,1997-10-27,Henckring 22,93047,Regensburg,28,male,India,MSS,Master,2026,1,0,1.3,False,False
+26939933,Chinedu,Eze,chinedu.eze@stud.th-deg.de,+4916209970486,2001-01-12,Björn-Pechel-Gasse 61,93413,Cham,24,male,Nigeria,MMC,Master,2026,2,30,1.0,False,False
+12332542,Prakash,Tamang,prakash.tamang@stud.th-deg.de,0170/38582206,1993-12-25,Wilmsallee 4,93413,Cham,32,male,Nepal,MDM,Master,2024,6,45,2.6,False,True
+12357235,Tao,Li,tao.li@stud.th-deg.de,0157/5734188,2003-12-02,Drewesallee 57,93413,Cham,22,male,China,MDP,Bachelor,2024,6,120,2.4,False,False
+16030290,Erdogan,Gierschner,erdogan.gierschner@stud.th-deg.de,0176/84290477,2000-01-03,Dobesgasse 13,93413,Cham,25,male,Germany,MDM,Master,2026,2,30,1.5,True,False
+12432149,Widisha,Nigam,widisha.nigam@stud.th-deg.de,0162 2163 4429,1999-05-23,Carlo-Liebelt-Straße 18,93413,Cham,26,female,India,MRO,Master,2025,3,60,2.0,False,False
+25857664,Sandra,Kallert,sandra.kallert@stud.th-deg.de,+491729906517,2002-12-07,Mohauptstraße 16,94469,Deggendorf,23,female,Germany,MDP,Bachelor,2024,5,90,2.3,False,False
+19765965,Alberto,Mälzer,alberto.maelzer@stud.th-deg.de,0176 7775 7062,1999-11-03,Heidrichplatz 66,93047,Regensburg,26,male,Germany,MSS,Master,2026,2,30,1.8,False,False
+29596040,Daniel,Huhn,daniel.huhn@stud.th-deg.de,0172 7277 028,2002-06-17,Susan-Weller-Platz 30,93426,Roding,23,male,Germany,MDP,Bachelor,2024,5,120,1.5,False,False
+26450934,Athanasios,Georgiou,athanasios.georgiou@stud.th-deg.de,0160/6024749,1997-07-05,Jovan-Freudenberger-Allee 31,93413,Cham,28,male,Greece,MDM,Master,2024,5,75,2.3,True,False
+24334708,Cynthia,Heß,cynthia.hess@stud.th-deg.de,+491577463252,2002-01-02,Heinrichgasse 29,93413,Cham,23,female,Germany,MDP,Bachelor,2022,10,200,1.4,False,False
+21369922,Khaled,Khoury,khaled.khoury1@stud.th-deg.de,+4917220088652,1998-07-12,Hornichgasse 50,93413,Cham,27,male,Syria,MRO,Master,2024,6,90,1.6,False,False
+23504386,Franz Josef,Christoph,franz-josef.christoph@stud.th-deg.de,0162 0567 1083,2004-08-16,Wenzel-Bähr-Allee 73,92421,Schwandorf,22,male,Germany,MDP,Bachelor,2024,5,95,2.5,False,False
+24367404,Sara,Moradi,sara.moradi@stud.th-deg.de,0170 9831 977,2000-05-15,Ackermannstr. 54,93413,Cham,25,female,Iran,MRO,Master,2025,4,85,1.7,False,False
+24300207,Hao,Chen,hao.chen@stud.th-deg.de,+49 162 4516680,1989-04-17,Zoran-Hartmann-Ring 8,93437,Furth im Wald,36,male,China,MDM,Master,2025,3,50,1.9,False,False
+25878068,Advaith,Majumdar,advaith.majumdar@stud.th-deg.de,0160 2990 3249,2002-10-01,Holstenallee 41,93413,Cham,24,male,India,MSS,Master,2025,3,60,2.0,True,False
+13248547,Devansh,Mukhopadhyay,devansh.mukhopadhyay@stud.th-deg.de,0170 5397 263,1997-06-09,Henkallee 9,93413,Cham,28,male,India,MDM,Master,2026,2,30,1.8,False,False
+14523226,Oluwaseun,Okonkwo,oluwaseun.okonkwo@stud.th-deg.de,+4916220182048,1997-04-10,Hanne-Ullmann-Gasse 14,93413,Cham,29,male,Nigeria,MDM,Master,2025,3,60,1.7,False,False
+18130500,Bernhard,Trauner,bernhard.trauner@stud.th-deg.de,0178/87045489,1996-05-09,Häringweg 16,93413,Cham,29,male,Austria,MRO,Master,2026,2,25,1.8,True,False
+18832589,Tao,Wang,tao.wang1@stud.th-deg.de,+49 151 1420141,2000-06-16,Eigenwilligring 56,93413,Cham,25,male,China,MMC,Master,2024,5,90,1.7,False,False
+26396437,Prisca,Mbarga,prisca.mbarga@stud.th-deg.de,0157 6361 7019,2000-04-07,Hans-Hermann-Reising-Straße 70,93437,Furth im Wald,25,female,Cameroon,MSS,Master,2026,2,30,2.0,False,False
+18814095,Oswin,Heinz,oswin.heinz@stud.th-deg.de,0170 6772 674,2004-07-18,Täscheplatz 20,93047,Regensburg,21,male,Germany,MDP,Bachelor,2024,6,150,2.1,False,False
+24440385,Annegret,Hörle,annegret.hoerle@stud.th-deg.de,0170/29552697,2001-11-27,Zimmerstr. 75,93413,Cham,24,female,Germany,MSS,Master,2026,1,0,2.6,False,True
+10294326,Henri,Stroh,henri.stroh@stud.th-deg.de,+491700610748,2006-09-19,Kevin-Trapp-Ring 21,93449,Waldmünchen,19,female,Germany,MDP,Bachelor,2026,1,0,2.8,True,True
+13175100,Guntram,Holzapfel,guntram.holzapfel@stud.th-deg.de,+49 152 37046450,2001-03-11,Junkplatz 25,94032,Passau,24,male,Germany,MSS,Master,2026,1,0,2.2,False,False
+20720970,Dagmar,Finke,dagmar.finke@stud.th-deg.de,+491705307170,1998-06-13,Wilmsenweg 11,93437,Furth im Wald,27,female,Germany,MSS,Master,2025,3,60,1.2,False,False
+24114639,Thoralf,Sölzer,thoralf.soelzer@stud.th-deg.de,+49 157 04414243,1999-07-17,Lars-Austermühle-Allee 4,92224,Amberg,26,male,Germany,MSS,Master,2026,2,30,1.5,False,False
+22812806,Tao,Huang,tao.huang@stud.th-deg.de,+4917688229305,1992-09-21,Roskothstr. 49,93413,Cham,33,male,China,MSS,Master,2025,3,55,1.5,False,False
+11662875,Jun,Li,jun.li@stud.th-deg.de,+4915733413282,1997-10-09,Hofmanngasse 33,93413,Cham,28,male,China,MDM,Master,2025,3,40,2.2,False,True
+27913306,Mohamed,Abdelrahman,mohamed.abdelrahman@stud.th-deg.de,+491512479755,2003-06-02,Bartholomäus-Speer-Platz 10,93413,Cham,23,male,Egypt,MDM,Master,2026,2,30,1.2,False,False
+20830661,Gökperi,Akar,goekperi.akar@stud.th-deg.de,0178/12229188,2001-04-20,Niemeierstr. 45,93413,Cham,24,female,Türkiye,MSS,Master,2025,3,55,1.0,False,False
+26611703,Wei,Zhang,wei.zhang1@stud.th-deg.de,0157 6655 877,1997-08-19,Fernando-Sorgatz-Straße 28,93437,Furth im Wald,28,male,China,MSS,Master,2026,1,0,2.6,False,True
+26381176,Kipchoge,Kiprop,kipchoge.kiprop@stud.th-deg.de,0151 3359 867,2000-02-03,Cengiz-Beckmann-Ring 32,93047,Regensburg,25,male,Kenya,MRO,Master,2026,1,0,2.3,True,True
+24273857,Henrik,Höfig,henrik.hoefig@stud.th-deg.de,0162/8947048,2002-09-18,Kaulweg 71,92224,Amberg,23,male,Germany,MDP,Bachelor,2022,9,200,2.0,True,False
+29998741,Eric,Weinhage,eric.weinhage@stud.th-deg.de,0162/8938533,2004-11-03,Eileen-Schuster-Platz 32,92224,Amberg,21,male,Germany,MDP,Bachelor,2024,5,115,2.1,False,False
+18050459,Elmar,Christoph,elmar.christoph@stud.th-deg.de,0160 1478 2637,2005-09-19,Constantin-Stumpf-Platz 36,93413,Cham,21,male,Germany,MDP,Bachelor,2026,2,25,2.0,False,False
+22690647,Koşukhan,Şafak,kosukhan.safak@stud.th-deg.de,0172 2566 768,1997-06-21,Löchelstraße 55,93413,Cham,28,male,Türkiye,MDM,Master,2025,4,50,1.8,False,True
+26725822,Temitope,Eze,temitope.eze@stud.th-deg.de,0162 5185 584,2002-10-01,Schottinstr. 71,93413,Cham,23,female,Nigeria,MMC,Master,2026,1,0,2.1,False,False
+11200385,Chandresh,Dhingra,chandresh.dhingra@stud.th-deg.de,+49 170 21170786,1997-07-21,Emmy-Hahn-Ring 59,93413,Cham,29,male,India,MDM,Master,2025,3,30,2.1,False,True
+29597134,Marie,Kamga,marie.kamga@stud.th-deg.de,+491700175475,1991-07-04,Sigfried-Gnatz-Ring 39,93426,Roding,34,female,Cameroon,MDM,Master,2025,3,40,1.8,False,True
+25583996,Ming,Wu,ming.wu@stud.th-deg.de,+49 151 1494303,1998-11-08,Gaetano-Barth-Gasse 25,93413,Cham,27,male,China,MMC,Master,2025,3,55,1.9,False,False
+27095849,Wei,Xu,wei.xu@stud.th-deg.de,+491526770955,2000-03-20,Löfflerweg 15,93413,Cham,25,male,China,MRO,Master,2026,2,30,1.2,True,False
+22630032,Claas,Bachmann,claas.bachmann@stud.th-deg.de,+49 157 04216192,1998-10-10,Beyerweg 10,93413,Cham,27,male,Germany,MDM,Master,2026,2,30,1.9,False,False
+17985365,Samuel,Miranda,samuel.miranda@stud.th-deg.de,0162 6655 761,1995-09-28,Hörlestraße 60,93413,Cham,30,male,Colombia,MMC,Master,2025,3,50,2.3,False,False
+23848573,Lahiru,Jayasinghe,lahiru.jayasinghe@stud.th-deg.de,+49 172 8433672,1997-07-27,Klotzweg 59,93413,Cham,29,male,Sri Lanka,MMC,Master,2026,2,25,2.1,False,False
+14279230,Jordan,Mata,jordan.mata@stud.th-deg.de,+491519955524,2001-01-28,Lidwina-Siering-Gasse 28,93426,Roding,24,male,Philippines,MMC,Master,2026,1,0,1.9,False,False
+11226831,Randolf,Weinhage,randolf.weinhage@stud.th-deg.de,+49 170 0791382,2005-10-03,Daniela-Löchel-Gasse 75,92421,Schwandorf,20,male,Germany,MDP,Bachelor,2025,3,45,1.8,False,False
+16722953,Magdalene,Bärer,magdalene.baerer@stud.th-deg.de,+49 160 4995021,2004-03-05,Löfflerweg 77,93437,Furth im Wald,21,female,Germany,MDP,Bachelor,2024,6,60,2.4,True,True
+17699922,Uche,Obi,uche.obi@stud.th-deg.de,+491605275941,2000-11-06,Weinholdstr. 50,93413,Cham,25,male,Nigeria,MRO,Master,2026,2,25,2.0,False,False
+11336376,José Luis,Montaño,jose-luis.montano@stud.th-deg.de,+49 157 79653475,1995-10-17,Aumannallee 21,93437,Furth im Wald,31,male,Mexico,MMC,Master,2025,3,25,2.3,False,True
+16560583,Lamia,Miah,lamia.miah@stud.th-deg.de,0160 2482 6738,1999-05-13,Heusergasse 41,93413,Cham,26,female,Bangladesh,MMC,Master,2025,3,50,2.0,True,False
+20054527,Bernhard,Buchegger,bernhard.buchegger@stud.th-deg.de,0157/2523786,2000-06-21,Nuran-Ditschlerin-Straße 65,93413,Cham,26,male,Austria,MDM,Master,2026,1,0,2.8,False,False
+10887288,Mai,Trần,mai.tran@stud.th-deg.de,0172 2719 480,1997-01-08,Säuberlichstraße 41,93413,Cham,28,female,Vietnam,MSS,Master,2025,3,60,1.7,False,False
+23177798,Mahmud,Chowdhury,mahmud.chowdhury@stud.th-deg.de,0160 5698 294,2002-06-06,Niemeiergasse 40,93413,Cham,23,male,Bangladesh,MRO,Master,2026,2,20,2.0,False,True
+25879009,Aashi,Dubey,aashi.dubey@stud.th-deg.de,+4915182809240,2000-01-19,Segebahnstr. 43,93413,Cham,25,female,India,MDM,Master,2026,2,30,2.1,False,False
+15407716,Hassan,Khan,hassan.khan@stud.th-deg.de,0162/30616016,1989-12-18,Mansgasse 67,93413,Cham,36,male,Pakistan,MSS,Master,2025,4,45,2.1,False,True
+25272460,Mehdi,Rezaei,mehdi.rezaei@stud.th-deg.de,0152 8029 508,1996-08-20,Nina-Kühnert-Gasse 33,93413,Cham,29,male,Iran,MMC,Master,2026,2,10,2.9,False,True
+12374974,Andrii,Melnyk,andrii.melnyk@stud.th-deg.de,0172/33531766,2002-03-09,Weinholdstr. 15,93413,Cham,24,male,Ukraine,MRO,Master,2026,1,0,1.7,False,False
+12942510,Hamza,Chaudhry,hamza.chaudhry@stud.th-deg.de,+49 162 89114621,1998-10-15,Kargering 41,93437,Furth im Wald,28,male,Pakistan,MDM,Master,2026,1,0,2.1,False,False
+27266883,Fares,Ben Salah,fares.ben-salah@stud.th-deg.de,+4916247026402,1994-01-26,Mahmut-Dussen van-Allee 51,93413,Cham,31,male,Tunisia,MRO,Master,2025,3,45,1.4,True,False
+10431559,Adaeze,Adeyemi,adaeze.adeyemi@stud.th-deg.de,+4917239932934,2005-07-18,Hofmannweg 74,93437,Furth im Wald,20,female,Nigeria,MDP,Bachelor,2026,2,15,3.0,False,True
+23649796,Raharja,Susanti,raharja.susanti@stud.th-deg.de,0157/12342866,1997-02-27,Nuran-Ditschlerin-Straße 9,93413,Cham,29,male,Indonesia,MRO,Master,2026,2,15,2.5,False,True
+11256324,Ernst,Atzler,ernst.atzler@stud.th-deg.de,0170 6791 5119,1998-01-13,Stefanie-Hettner-Allee 75,93413,Cham,28,male,Germany,MSS,Master,2026,1,0,2.0,False,False
+19239250,Siegrun,Radisch,siegrun.radisch@stud.th-deg.de,0172 0413 1614,2004-03-02,Gudula-Jessel-Platz 64,93444,Bad Kötzting,21,female,Germany,MDP,Bachelor,2026,2,30,2.0,True,False
+14398943,James,Heß,james.hess@stud.th-deg.de,0178 3276 5006,2000-04-22,Joseph-Rädel-Weg 57,93437,Furth im Wald,25,male,Germany,MSS,Master,2026,2,15,2.5,False,True
+29486668,Bayzettin,Şensoy,bayzettin.sensoy@stud.th-deg.de,0176 1797 008,1992-09-13,Hahnstr. 19,93413,Cham,34,male,Türkiye,MDM,Master,2025,3,55,1.7,False,False
+22668505,Yang,Huang,yang.huang@stud.th-deg.de,0162 2269 3100,2002-11-02,Kuschweg 17,93413,Cham,23,male,China,MDP,Bachelor,2023,7,115,2.7,False,True
+17598023,Yurttaş,Akça,yurttas.akca@stud.th-deg.de,+49 162 2682656,1995-10-04,Heinzring 34,93047,Regensburg,30,male,Türkiye,MSS,Master,2025,4,90,2.0,False,False
+25025991,Mike,Groß,mike.gross@stud.th-deg.de,0172/68796486,2001-09-09,Xenia-Kostolzin-Gasse 15,93426,Roding,24,male,Austria,MDM,Master,2026,2,30,1.6,False,False
+26724291,Yannick,Njoya,yannick.njoya@stud.th-deg.de,0170 6414 936,2002-07-06,Irmhild-Jacob-Weg 52,93413,Cham,23,male,Cameroon,MMC,Master,2025,3,50,2.2,False,False
+27584561,Norman,Chambers,norman.chambers@stud.th-deg.de,0157 9168 176,2002-05-20,Ladeckplatz 60,93413,Cham,24,male,Philippines,MSS,Master,2026,1,0,1.3,True,False
+20858260,Emil,Kříž,emil.kriz@stud.th-deg.de,0152/19682063,2001-04-18,Kevin-Trapp-Ring 38,93413,Cham,24,male,Czech Republic,MMC,Master,2025,3,50,1.7,True,False
+17746204,Rahim,Rahman,rahim.rahman@stud.th-deg.de,+49 162 7566637,1989-12-10,Täscheplatz 55,93413,Cham,36,male,Bangladesh,MMC,Master,2024,6,80,1.6,False,False
+23802830,Uche,Bello,uche.bello@stud.th-deg.de,+4917851958032,2001-07-03,Iris-Karz-Platz 62,93413,Cham,25,male,Nigeria,MRO,Master,2024,6,80,1.8,True,False
+17404520,Nidhal,Trabelsi,nidhal.trabelsi@stud.th-deg.de,0162 6149 440,2003-07-03,Stephanie-Hellwig-Platz 73,93413,Cham,23,male,Tunisia,MDM,Master,2026,2,15,2.1,False,True
+17240458,Andrei,Lachmann,andrei.lachmann@stud.th-deg.de,0178/93022075,2005-01-27,Hofmannweg 55,93413,Cham,21,male,Germany,MDP,Bachelor,2026,1,0,2.5,False,False
+13999007,Emirşan,Akçay,emirsan.akcay@stud.th-deg.de,+49 152 07823455,1998-06-10,Lidwina-Siering-Gasse 19,93413,Cham,28,male,Türkiye,MRO,Master,2024,6,75,1.8,False,False
+10746485,Kerry,Chavez,kerry.chavez@stud.th-deg.de,0160 6664 5323,1992-09-04,Fritschweg 11,93413,Cham,33,male,Philippines,MRO,Master,2025,3,45,2.1,False,False
+22908777,Saad,Chaudhry,saad.chaudhry@stud.th-deg.de,+491511441152,1998-06-20,Hofmannweg 75,93047,Regensburg,28,male,Pakistan,MMC,Master,2026,2,30,2.0,False,False
+27605145,Ruwan,Herath,ruwan.herath@stud.th-deg.de,0152 8144 585,2000-08-25,Riehlstraße 62,93413,Cham,26,male,Sri Lanka,MDM,Master,2025,3,20,3.0,False,True
+17139016,Rosalia,Kallert,rosalia.kallert@stud.th-deg.de,+49 160 26305233,2002-10-04,Bartholomäus-Speer-Platz 68,92224,Amberg,23,female,Germany,MDP,Bachelor,2024,6,80,2.6,False,True
+21659748,Raik,Herrmann,raik.herrmann@stud.th-deg.de,+4915737408921,1999-01-27,Nadin-Wieloch-Weg 34,94032,Passau,26,male,Germany,MRO,Master,2025,4,85,1.9,False,False
+13668137,Wei,Sun,wei.sun@stud.th-deg.de,0151/18922173,1991-11-21,Scheibeweg 13,93413,Cham,34,male,China,MDM,Master,2025,3,55,1.5,False,False
+28770068,Hany,Saad,hany.saad@stud.th-deg.de,+4917023504743,2001-10-08,Christiana-Hölzenbecher-Straße 48,93413,Cham,24,male,Egypt,MDM,Master,2026,2,10,2.4,False,True
+23348771,Jovan,Kühnert,jovan.kuehnert@stud.th-deg.de,0162 0978 6556,2005-06-22,Schleichring 51,92224,Amberg,20,male,Germany,MDP,Bachelor,2026,1,0,2.3,False,False
+21491766,Chathurika,Jayasinghe,chathurika.jayasinghe@stud.th-deg.de,+49 172 7340962,2002-10-12,Casparplatz 18,93426,Roding,23,female,Sri Lanka,MRO,Master,2025,3,60,1.1,False,False
+25142177,Nazi,Çetin,nazi.cetin@stud.th-deg.de,0176/4062453,2001-01-18,Conradistraße 38,93413,Cham,24,female,Türkiye,MDP,Bachelor,2024,5,95,2.2,False,False
+18303638,Nadin,Heidrich,nadin.heidrich@stud.th-deg.de,+491623435750,2002-04-04,Ottoallee 34,93413,Cham,23,female,Germany,MDP,Bachelor,2023,7,170,1.6,False,False
+26351863,Bayram,Haering,bayram.haering@stud.th-deg.de,0176/08487815,2003-02-07,Huhnallee 21,93437,Furth im Wald,22,male,Germany,MDP,Bachelor,2023,7,160,2.4,False,False
+26572232,Yang,Zhou,yang.zhou1@stud.th-deg.de,0170/70163390,2001-08-22,Schmiedtallee 65,93437,Furth im Wald,25,male,China,MDM,Master,2026,1,0,2.1,False,False
+21900299,Zain,Iqbal,zain.iqbal@stud.th-deg.de,0157/3441735,2005-11-23,Schleichring 39,93413,Cham,20,male,Pakistan,MDP,Bachelor,2025,3,30,1.9,False,True
+18760738,Wilhelm,Haering,wilhelm.haering@stud.th-deg.de,0170 3450 7420,1998-08-01,Heinrichgasse 74,93413,Cham,27,male,Germany,MRO,Master,2026,1,0,2.8,True,True
+22955886,Fadi,Khoury,fadi.khoury@stud.th-deg.de,+49 160 64129165,2001-09-07,Rörrichtgasse 1,93047,Regensburg,24,male,Syria,MDM,Master,2026,1,0,1.3,False,False
+16180285,Marcus,Ditschlerin,marcus.ditschlerin@stud.th-deg.de,0176/6090396,2003-02-18,Harloffgasse 75,93413,Cham,23,male,Germany,MDP,Bachelor,2023,7,180,2.2,False,False
+15854782,Urban,Margraf,urban.margraf@stud.th-deg.de,+49 157 96290800,2003-12-26,Hans-Hermann-Reising-Straße 53,94315,Straubing,23,male,Germany,MDP,Bachelor,2023,7,90,2.7,False,True
+15033408,Noor,Iqbal,noor.iqbal@stud.th-deg.de,+4915230395725,2000-03-19,Röhrdanzplatz 56,93413,Cham,25,female,Pakistan,MDP,Bachelor,2023,7,70,3.2,False,True
+20544995,Robert,Lišková,robert.liskova@stud.th-deg.de,+491726713607,1998-07-20,Helene-Mülichen-Allee 23,93413,Cham,27,male,Czech Republic,MSS,Master,2025,3,50,2.4,False,False
+23884147,Anish,Bhandari,anish.bhandari@stud.th-deg.de,0162 0798 502,1999-09-11,Kitzmannweg 7,93047,Regensburg,26,male,Nepal,MDM,Master,2026,2,20,2.5,False,True
+29854104,Natalie,Mies,natalie.mies@stud.th-deg.de,0151 5009 682,2003-11-02,Anita-Hellwig-Ring 19,93437,Furth im Wald,22,female,Germany,MDP,Bachelor,2025,4,90,1.9,False,False
+13552910,Emeka,Okafor,emeka.okafor@stud.th-deg.de,0170 3972 0088,1993-12-22,Heinrichgasse 35,93413,Cham,32,male,Nigeria,MDM,Master,2024,6,90,1.6,False,False
+18843693,Kilian,Austermühle,kilian.austermuehle@stud.th-deg.de,0172/19441660,2005-08-23,Hillerring 27,93413,Cham,20,male,Germany,MDP,Bachelor,2025,4,80,1.6,False,False
+11755074,Elhan,Bilgin,elhan.bilgin@stud.th-deg.de,0152/6714278,1996-07-13,Budigallee 16,93413,Cham,29,male,Türkiye,MDM,Master,2026,2,30,1.5,True,False
+10322953,Omar,El Amrani,omar.el-amrani@stud.th-deg.de,0176/5292979,1997-06-15,Charles-Scheibe-Gasse 2,93413,Cham,28,male,Morocco,MRO,Master,2026,1,0,2.4,False,True
+11086063,Falk,Kraus,falk.kraus@stud.th-deg.de,+49 160 1918619,1999-07-07,Domenico-Harloff-Platz 56,93426,Roding,26,male,Germany,MDM,Master,2025,3,55,2.0,False,False
+27357748,Arif,Uddin,arif.uddin@stud.th-deg.de,+49 152 11690660,1995-09-13,Steckelgasse 53,93413,Cham,30,male,Bangladesh,MDM,Master,2025,3,60,2.0,False,False
+10819521,Brian,Otieno,brian.otieno@stud.th-deg.de,0160/24472685,1993-08-07,Kaulweg 13,93426,Roding,32,male,Kenya,MDM,Master,2025,3,30,2.7,False,True
+29250821,Metin,Scheibe,metin.scheibe@stud.th-deg.de,+4915231534853,2005-08-12,Gaby-Reuter-Gasse 62,93047,Regensburg,20,male,Germany,MDP,Bachelor,2025,4,85,1.7,False,False
+20481079,Janusz,Adolph,janusz.adolph@stud.th-deg.de,0160/94778442,2006-06-04,Jäkelstr. 78,93449,Waldmünchen,19,male,Germany,MDP,Bachelor,2026,2,15,2.3,True,True
+25184051,Samuel,Shetty,samuel.shetty@stud.th-deg.de,0170 3451 683,2001-03-17,Wenzel-Bähr-Allee 79,93413,Cham,24,male,India,MDP,Bachelor,2022,10,210,1.7,False,False
+20343578,Hanne-Lore,Hertrampf,hanne-lore.hertrampf@stud.th-deg.de,+49 151 48972146,2002-01-07,Mangoldgasse 16,94315,Straubing,24,female,Germany,MSS,Master,2026,2,30,1.5,False,False
+23060737,Laban,Konda,laban.konda@stud.th-deg.de,0162 2302 697,1999-06-21,Meisterallee 34,93413,Cham,26,male,India,MDM,Master,2025,3,60,1.5,False,False
+10524802,João Pedro,Mendes,joao-pedro.mendes@stud.th-deg.de,+49 178 3837139,1999-05-15,Rita-Löwer-Allee 5,93413,Cham,26,male,Brazil,MSS,Master,2025,3,55,1.5,False,False
+13254339,Hamza,Mejri,hamza.mejri@stud.th-deg.de,0176/9443285,1999-08-26,Dajana-Hartmann-Gasse 1,93413,Cham,26,male,Tunisia,MRO,Master,2025,3,55,1.3,False,False
+24661768,Ira,Wilms,ira.wilms@stud.th-deg.de,+4916032080830,2004-11-07,Mangoldstr. 67,93413,Cham,21,female,Germany,MDP,Bachelor,2025,4,70,2.0,False,False
+27604791,Jie,Zhou,jie.zhou@stud.th-deg.de,0172/57125754,2001-09-08,Häringweg 77,93413,Cham,25,male,China,MDM,Master,2024,6,55,2.3,False,True
+18347145,Steve,Kitzmann,steve.kitzmann@stud.th-deg.de,0151 3419 8986,2003-10-07,Claus-Dieter-Renner-Platz 16,93047,Regensburg,22,male,Germany,MDP,Bachelor,2024,6,115,2.5,True,False
+11524982,Karim,Fathy,karim.fathy@stud.th-deg.de,0152 9391 2647,2001-07-18,Liebeltweg 37,93413,Cham,24,male,Egypt,MMC,Master,2026,1,0,1.5,False,False
+17176059,Nhiên,Nguyễn,nhien.nguyen@stud.th-deg.de,+491721555040,1993-12-03,Leyla-Löffler-Platz 2,93413,Cham,33,male,Vietnam,MDM,Master,2025,3,50,2.3,False,False
+11601598,Kwame,Osei,kwame.osei@stud.th-deg.de,0151 0631 3068,2002-12-20,Holstenallee 65,93413,Cham,23,male,Ghana,MRO,Master,2026,1,0,1.3,False,False
+24406480,Elias,Castellanos,elias.castellanos@stud.th-deg.de,0160 4958 710,1992-02-23,Reichmannstraße 44,93413,Cham,34,male,Mexico,MSS,Master,2026,2,25,1.8,False,False
+22483735,Cornelius,Austermühle,cornelius.austermuehle@stud.th-deg.de,0178/0913701,2001-08-19,Löfflerweg 24,94315,Straubing,24,male,Germany,MDP,Bachelor,2023,7,160,2.3,False,False
+19567823,Felix,Prokop,felix.prokop@stud.th-deg.de,+4915152639472,1995-07-04,Leander-Hörle-Platz 77,93437,Furth im Wald,30,male,Czech Republic,MSS,Master,2026,2,25,1.8,False,False
+17667977,Karl,Margraf,karl.margraf@stud.th-deg.de,0157/89766465,2002-12-14,Gaby-Reuter-Gasse 11,93047,Regensburg,23,male,Germany,MDP,Bachelor,2023,8,160,2.4,True,False
+25001922,Mehdi,Mohammadi,mehdi.mohammadi@stud.th-deg.de,+49 157 1701217,2002-08-15,Hans-Walter-Mies-Ring 22,93413,Cham,23,male,Iran,MRO,Master,2026,1,0,1.8,False,False
+22605282,Aldo,Jurado,aldo.jurado@stud.th-deg.de,+49 162 55347468,2002-01-11,Drewesallee 60,93437,Furth im Wald,23,male,Mexico,MDM,Master,2026,2,20,1.8,True,True
+24729249,Philipp,Karge,philipp.karge@stud.th-deg.de,0152/3176674,2003-03-14,Mühlestr. 33,93449,Waldmünchen,23,male,Germany,MDP,Bachelor,2024,6,75,2.6,False,True
+29511875,Fredo,Gude,fredo.gude@stud.th-deg.de,+4915798408573,2002-02-22,Hornichgasse 56,92421,Schwandorf,23,male,Germany,MDP,Bachelor,2023,8,205,1.6,False,False
+17370988,Beate,Bolzmann,beate.bolzmann@stud.th-deg.de,0176 5462 025,2003-03-24,Gudula-Jessel-Platz 19,93413,Cham,22,female,Germany,MDP,Bachelor,2023,7,170,3.0,False,False
+14416565,Elvira,Figueroa,elvira.figueroa@stud.th-deg.de,0162 6416 237,1999-02-09,Junkplatz 53,93413,Cham,27,female,Mexico,MRO,Master,2026,2,30,1.3,True,False
+10080332,Sumaiya,Miah,sumaiya.miah@stud.th-deg.de,0151 3670 771,1998-10-10,Roswitha-Klemt-Platz 45,93413,Cham,27,female,Bangladesh,MSS,Master,2025,4,75,2.3,False,False
+29717474,Ali,Jafari,ali.jafari@stud.th-deg.de,+49 172 37650619,1998-06-06,Gülay-Weihmann-Weg 4,93413,Cham,27,male,Iran,MDM,Master,2026,2,30,1.4,False,False
+29856335,Wassim,Gharbi,wassim.gharbi@stud.th-deg.de,+49 151 3392816,1997-09-12,Klotzweg 26,93413,Cham,28,male,Tunisia,MSS,Master,2025,3,15,2.1,False,True
+16615983,Adalbert,Trupp,adalbert.trupp@stud.th-deg.de,0157 3487 642,2001-12-16,Schwitalweg 24,92637,Weiden in der Oberpfalz,25,male,Germany,MSS,Master,2026,1,0,1.4,False,False
+14038844,Fredo,Staude,fredo.staude@stud.th-deg.de,0152 7553 9847,2004-08-20,Müllergasse 47,92421,Schwandorf,21,male,Germany,MDP,Bachelor,2026,2,20,2.3,False,True
+24292684,Kilian,Rose,kilian.rose@stud.th-deg.de,0152 8483 407,1995-06-08,Wesackstr. 35,93437,Furth im Wald,30,male,Germany,MRO,Master,2025,4,40,2.8,False,True
+18040044,Waldemar,Austermühle,waldemar.austermuehle@stud.th-deg.de,0151/6892547,1997-04-07,Albersallee 38,93413,Cham,28,male,Germany,MMC,Master,2025,3,45,1.9,False,False
+22750740,Youssef,Saad,youssef.saad@stud.th-deg.de,0151 5588 054,1999-10-01,Bohnbachstr. 14,93413,Cham,27,male,Egypt,MSS,Master,2026,1,0,2.4,False,False
+26169002,Josef,Trommler,josef.trommler@stud.th-deg.de,+4915119981406,1999-07-03,Wally-Birnbaum-Ring 74,93413,Cham,26,male,Germany,MDM,Master,2026,1,0,1.9,False,False
+10182594,Roya,Rahimi,roya.rahimi@stud.th-deg.de,+49 162 3143823,1994-10-02,Krebsallee 60,93047,Regensburg,31,female,Iran,MSS,Master,2025,3,35,2.1,True,True
+18974676,Segun,Balogun,segun.balogun@stud.th-deg.de,0178 9635 199,2000-01-06,Urszula-Killer-Platz 53,93413,Cham,26,male,Nigeria,MRO,Master,2026,2,20,2.7,False,False
+14812923,Cameron,Costa,cameron.costa@stud.th-deg.de,+491527600272,2001-02-20,Emmy-Hahn-Ring 22,93413,Cham,24,male,Philippines,MDP,Bachelor,2022,10,210,1.7,True,False
+18707157,Tharindu,Rajapaksa,tharindu.rajapaksa@stud.th-deg.de,+4915797101669,1999-02-22,Junkplatz 54,93437,Furth im Wald,26,male,Sri Lanka,MSS,Master,2026,1,0,1.3,True,False
+11121338,Tito,Porcel,tito.porcel@stud.th-deg.de,0157/7730083,2002-09-28,Dietzring 19,93413,Cham,23,male,Spain,MMC,Master,2026,1,0,1.6,True,False
+25811481,Ayesha,Qureshi,ayesha.qureshi@stud.th-deg.de,0176 4619 8337,2001-07-16,Kallertgasse 39,93413,Cham,24,female,Pakistan,MSS,Master,2025,3,20,2.1,False,True
+24939339,Falko,Kuhl,falko.kuhl@stud.th-deg.de,0172 2790 708,2001-04-13,Mohauptstraße 22,94315,Straubing,24,male,Germany,MDP,Bachelor,2022,10,140,1.9,False,True
+14190534,Sofia,Käster,sofia.kaester@stud.th-deg.de,0160/84399509,2003-04-26,Hamannstr. 24,93047,Regensburg,22,female,Germany,MDP,Bachelor,2023,7,85,3.1,True,True
+26769579,Lamia,Islam,lamia.islam@stud.th-deg.de,+491629723384,2000-08-05,Ullrichplatz 52,93413,Cham,25,female,Bangladesh,MMC,Master,2026,1,0,2.1,False,False
+13430018,Ibrahim,Eze,ibrahim.eze@stud.th-deg.de,0172 4846 145,1996-12-18,Ditschlerinallee 25,93413,Cham,29,male,Nigeria,MMC,Master,2026,2,20,2.6,False,False
+14287881,Dilshan,Dissanayake,dilshan.dissanayake@stud.th-deg.de,0176 8045 259,2001-12-23,Lars-Austermühle-Allee 58,93413,Cham,24,male,Sri Lanka,MMC,Master,2024,5,80,2.3,False,False
+24365929,Bruno,Urbina,bruno.urbina@stud.th-deg.de,+4916290789807,1997-06-15,Drewesallee 40,93413,Cham,28,male,Mexico,MSS,Master,2026,2,25,1.9,False,False
+18203851,Youssef,Ouali,youssef.ouali@stud.th-deg.de,+49 162 1281718,1999-09-08,Junkplatz 78,93413,Cham,26,male,Morocco,MSS,Master,2026,2,15,2.6,False,True
+16807707,Châu,Trần,chau.tran@stud.th-deg.de,0157 5745 647,1990-02-18,Säuberlichstraße 16,93437,Furth im Wald,36,male,Vietnam,MMC,Master,2024,6,45,2.2,False,True
+28660953,Samer,Hassan,samer.hassan@stud.th-deg.de,0152/1000162,1997-12-28,Ackermannstr. 75,93047,Regensburg,28,diverse,Syria,MMC,Master,2024,6,90,1.6,False,False
+23361602,Danny,Trubin,danny.trubin@stud.th-deg.de,+49 151 34697433,2003-01-07,Isabel-Rudolph-Weg 11,94315,Straubing,22,male,Germany,MDP,Bachelor,2024,6,150,2.0,False,False
+22567238,Farzana,Haque,farzana.haque@stud.th-deg.de,0160/23020429,2003-05-16,Fröhlichring 44,93426,Roding,23,female,Bangladesh,MSS,Master,2026,2,30,1.7,True,False
+17993790,Upkaar,Vora,upkaar.vora@stud.th-deg.de,+4916091251518,2000-09-02,Heringallee 30,93437,Furth im Wald,26,male,India,MMC,Master,2026,1,0,1.6,False,False
+27261245,Helmtrud,Klapp,helmtrud.klapp@stud.th-deg.de,0151 2559 1591,2002-12-07,Gert-Adler-Straße 60,92637,Weiden in der Oberpfalz,23,female,Germany,MDP,Bachelor,2023,7,170,2.4,False,False
+28505871,Lando,Mondadori,lando.mondadori@stud.th-deg.de,+491722950854,2001-03-22,Schomberplatz 11,93413,Cham,25,male,Italy,MMC,Master,2026,2,30,1.2,False,False
+28855349,Serge,Mbarga,serge.mbarga@stud.th-deg.de,+491575211305,1997-08-14,Marjan-Christoph-Ring 21,93413,Cham,29,male,Cameroon,MSS,Master,2026,1,0,2.1,False,True
+20895494,Jochem,Hande,jochem.hande@stud.th-deg.de,0157/0154473,2002-03-06,Kuschweg 19,93437,Furth im Wald,23,male,Germany,MDP,Bachelor,2023,7,180,2.5,False,False
+18060651,Usman,Raza,usman.raza@stud.th-deg.de,+491781218851,1998-01-10,Schmidtkeallee 73,93413,Cham,27,male,Pakistan,MSS,Master,2024,6,35,2.1,True,True
+29216992,Mim,Ahmed,mim.ahmed@stud.th-deg.de,+491786653223,2003-06-04,Beyerweg 43,93413,Cham,22,female,Bangladesh,MSS,Master,2026,1,0,2.4,False,False
+23550575,Harish,Shan,harish.shan@stud.th-deg.de,0176/0475877,1998-07-22,Langering 13,93413,Cham,27,male,India,MDM,Master,2025,3,55,2.0,False,False
+28737806,Saad,Malik,saad.malik@stud.th-deg.de,0151 7373 068,1994-04-27,Ziegertallee 63,93413,Cham,31,male,Pakistan,MSS,Master,2025,3,60,1.7,False,False
+22920031,Chinedu,Balogun,chinedu.balogun@stud.th-deg.de,0152 9307 206,1999-12-03,Charles-Scheibe-Gasse 23,93413,Cham,26,male,Nigeria,MDM,Master,2025,3,60,1.4,True,False
+22449995,Işıkay,Bilge,iskay.bilge@stud.th-deg.de,+491521103830,1998-08-07,Lars-Austermühle-Allee 18,93426,Roding,27,male,Türkiye,MMC,Master,2026,1,0,2.2,False,False
+11020162,Rachit,Randhawa,rachit.randhawa@stud.th-deg.de,+4917054503428,2000-06-24,Iris-Karz-Platz 40,93047,Regensburg,25,male,India,MDM,Master,2024,5,90,1.6,False,False
+28493318,Kwesi,Mensah,kwesi.mensah@stud.th-deg.de,0162/29775859,1999-06-25,Gerwin-Henck-Platz 63,93413,Cham,27,male,Ghana,MSS,Master,2026,2,15,2.5,False,True
+15931002,Hasan,Darwish,hasan.darwish@stud.th-deg.de,0162 9000 124,1997-06-22,Holstenplatz 67,93413,Cham,28,male,Syria,MMC,Master,2026,2,25,2.2,False,False
+25731981,Reinhard,Hande,reinhard.hande@stud.th-deg.de,0162/4052508,1998-02-21,Nuran-Ditschlerin-Straße 2,93413,Cham,27,male,Germany,MSS,Master,2026,2,15,2.0,True,True
+21345615,Arıkol,Bilgin,arkol.bilgin@stud.th-deg.de,0160/3974608,1989-08-25,Nuray-Misicher-Platz 71,93413,Cham,36,male,Türkiye,MMC,Master,2026,2,30,2.3,False,False
+26450961,Nazia,Akter,nazia.akter@stud.th-deg.de,0157 0497 0565,1993-10-11,Marie-Beckmann-Ring 79,93413,Cham,32,female,Bangladesh,MSS,Master,2026,2,25,2.1,True,False
+13290078,Ifeanyi,Adeyemi,ifeanyi.adeyemi@stud.th-deg.de,+491729894617,1996-06-26,Gereon-Fischer-Weg 26,93413,Cham,29,male,Nigeria,MDM,Master,2025,3,25,2.3,False,True
+24205015,Drago,Weinhold,drago.weinhold@stud.th-deg.de,0172/4295641,1993-06-25,Istvan-Weinhage-Weg 41,93413,Cham,32,male,Germany,MRO,Master,2024,6,65,1.4,True,True
+22936233,Sujan,Bhandari,sujan.bhandari@stud.th-deg.de,+49 170 6363784,1999-11-07,Lene-Preiß-Straße 30,93413,Cham,26,male,Nepal,MRO,Master,2026,1,0,1.5,False,False
+13373351,Adolf,Meyer,adolf.meyer@stud.th-deg.de,+49 172 73537763,2000-08-03,Henkallee 38,93426,Roding,25,male,Germany,MSS,Master,2026,1,0,1.0,False,False
+29742416,Ricardo,Matías,ricardo.matias@stud.th-deg.de,+49 170 9087597,2000-04-15,Karlheinz-Pieper-Allee 52,93413,Cham,25,male,Mexico,MSS,Master,2025,3,45,1.8,False,False
+13907960,Balendra,Muni,balendra.muni@stud.th-deg.de,+49 160 71190958,2001-01-22,Dussen vanplatz 52,93413,Cham,24,male,India,MDM,Master,2025,3,35,2.2,False,False
+18885440,Babatunde,Adebayo,babatunde.adebayo@stud.th-deg.de,0160/11609675,1992-10-24,Thorsten-Rogner-Gasse 38,93413,Cham,33,male,Nigeria,MMC,Master,2026,2,30,1.0,False,False
+22584135,Chen,Sun,chen.sun@stud.th-deg.de,0178/2612004,1990-08-04,Jovan-Freudenberger-Allee 38,93413,Cham,35,male,China,MDM,Master,2026,1,0,1.4,False,False
+10851255,Fahim,Sarkar,fahim.sarkar@stud.th-deg.de,0151/76059255,1998-08-11,Lars-Austermühle-Allee 39,93413,Cham,27,male,Bangladesh,MSS,Master,2025,3,30,2.3,False,True
+18287484,Eva,Mülichen,eva.muelichen@stud.th-deg.de,0178/0023857,2005-04-22,Ekaterina-Warmer-Gasse 33,94469,Deggendorf,20,female,Germany,MDP,Bachelor,2026,2,30,2.2,False,False
+25566126,Klaus-Dieter,Nette,klaus-dieter.nette@stud.th-deg.de,+49 178 6229023,2005-03-02,Kuschweg 10,93426,Roding,20,male,Germany,MDP,Bachelor,2025,3,60,2.0,False,False
+24092812,Metin,Gute,metin.gute@stud.th-deg.de,0172/4384769,2000-06-21,Isabel-Rudolph-Weg 30,94469,Deggendorf,25,male,Germany,MDM,Master,2026,1,0,1.6,False,False
+22352438,Hans-Günter,Kensy,hans-guenter.kensy@stud.th-deg.de,+49 178 01701732,2006-10-09,Leyla-Löffler-Platz 57,93047,Regensburg,19,male,Germany,MDP,Bachelor,2026,1,0,1.3,False,False
+24544995,Özkent,Yaman,oezkent.yaman@stud.th-deg.de,0157 4972 1991,2000-04-01,Mahmut-Dussen van-Allee 78,93413,Cham,25,male,Türkiye,MMC,Master,2024,6,90,2.0,False,False
+24377626,Saksham,Setty,saksham.setty@stud.th-deg.de,+4917292874388,1989-07-07,Gudula-Jessel-Platz 65,93413,Cham,37,male,India,MMC,Master,2024,5,90,1.7,False,False
+16466287,Ahmed,Malik,ahmed.malik@stud.th-deg.de,0162/8375522,2004-12-21,Margrafring 69,93413,Cham,21,male,Pakistan,MDP,Bachelor,2025,3,60,2.3,False,False
+14588274,Rahim,Hossain,rahim.hossain@stud.th-deg.de,+49 157 90911826,1998-03-25,Gülay-Weihmann-Weg 62,93413,Cham,27,male,Bangladesh,MMC,Master,2026,2,15,2.2,False,True
+26602138,Segun,Bello,segun.bello@stud.th-deg.de,+491515228101,2003-03-03,Kuschweg 40,93413,Cham,22,male,Nigeria,MDM,Master,2026,1,0,1.9,False,False
+15602022,Benjamin,Wiek,benjamin.wiek@stud.th-deg.de,+49 162 82745572,2004-03-13,Janet-Mies-Weg 54,94032,Passau,21,male,Germany,MDP,Bachelor,2025,4,60,2.4,True,True
+22125805,Diane,Mbarga,diane.mbarga@stud.th-deg.de,+49 172 51158636,1999-11-06,Frederik-Flantz-Platz 67,93413,Cham,26,female,Cameroon,MDM,Master,2025,4,85,1.2,False,False
+23415650,Konstantinos,Nikolaidis,konstantinos.nikolaidis@stud.th-deg.de,+49 162 61204293,2002-07-20,Täscheplatz 18,93413,Cham,23,male,Greece,MRO,Master,2026,2,30,1.5,True,False
+15665366,Zahra,Rezaei,zahra.rezaei@stud.th-deg.de,0160 6935 5007,1996-12-22,Charles-Scheibe-Gasse 12,93413,Cham,29,female,Iran,MMC,Master,2025,3,50,2.1,False,False
+14898239,Gabriel,Eberth,gabriel.eberth@stud.th-deg.de,+49 172 27271344,2005-12-27,Niemeierstr. 22,94469,Deggendorf,20,male,Germany,MDP,Bachelor,2026,2,30,2.1,False,False
+14427764,Sushma,Rai,sushma.rai@stud.th-deg.de,+491768277450,2003-06-10,Mangoldgasse 42,93437,Furth im Wald,22,female,Nepal,MSS,Master,2026,1,0,1.8,False,False
+26983007,Hermann Josef,Wiek,hermann-josef.wiek@stud.th-deg.de,0152/07340247,2005-01-09,Stiebitzallee 63,94315,Straubing,21,male,Germany,MDP,Bachelor,2025,4,85,1.7,True,False
+15566587,Adrian,Sadłocha,adrian.sadocha@stud.th-deg.de,0157 2552 2559,1999-04-09,Ralph-Bender-Straße 36,93413,Cham,26,male,Poland,MMC,Master,2025,3,25,2.7,False,True
+10285775,Radka,Vlčková,radka.vlckova@stud.th-deg.de,0162 8333 664,2001-07-22,Fernando-Sorgatz-Straße 78,93413,Cham,24,female,Czech Republic,MRO,Master,2026,2,15,2.2,False,True
+17520210,Hernando,Vanegas,hernando.vanegas@stud.th-deg.de,0172/8642768,1996-05-13,Hilda-Löchel-Ring 26,93413,Cham,29,male,Colombia,MRO,Master,2026,1,0,2.2,False,False
+21632316,Anas,El Amrani,anas.el-amrani@stud.th-deg.de,0176 0608 857,2000-01-01,Stefano-Eckbauer-Gasse 37,93413,Cham,25,male,Morocco,MDM,Master,2024,5,80,1.8,True,False
+13945463,Elfi,Hendriks,elfi.hendriks@stud.th-deg.de,0178 2672 848,2002-12-27,Heidrichplatz 73,93426,Roding,23,female,Germany,MMC,Master,2026,2,25,2.3,False,False
+22889711,Cedric,Njoya,cedric.njoya@stud.th-deg.de,0172/1762693,1993-04-03,Henkallee 14,93413,Cham,32,male,Cameroon,MDM,Master,2025,4,90,1.7,False,False
+19684867,Steve,Herrmann,steve.herrmann@stud.th-deg.de,+4915286174062,1991-08-26,Christiana-Hölzenbecher-Straße 66,94032,Passau,34,male,Germany,MDM,Master,2026,2,15,2.7,False,True
+21385065,Mwangi,Kiprop,mwangi.kiprop@stud.th-deg.de,+49 178 63004392,2000-12-05,Krokerweg 12,93413,Cham,25,male,Kenya,MMC,Master,2026,1,0,1.7,False,False
+12015137,Shahd,Qasem,shahd.qasem@stud.th-deg.de,+49 176 30058303,1999-07-16,Dowergring 72,93437,Furth im Wald,26,female,Jordan,MSS,Master,2025,3,25,2.9,True,True
+26670867,Uschi,Aumann,uschi.aumann@stud.th-deg.de,+491607041497,2003-09-09,Gerhild-Stroh-Gasse 26,92637,Weiden in der Oberpfalz,22,female,Germany,MDP,Bachelor,2025,3,50,1.9,False,False
+12821971,Frank-Peter,Riehl,frank-peter.riehl@stud.th-deg.de,0151 8670 7824,2005-01-20,Pärtzeltstraße 51,94315,Straubing,20,male,Germany,MDP,Bachelor,2025,4,50,2.8,False,True
+14803450,Maanav,Banik,maanav.banik@stud.th-deg.de,0151 3150 062,2001-09-12,Wilhelm-Staude-Gasse 57,93047,Regensburg,24,male,India,MSS,Master,2026,2,30,2.0,True,False
+14883585,Danilo,Hiller,danilo.hiller@stud.th-deg.de,+49 160 4104571,2005-11-11,Siegbert-Sontag-Weg 30,93047,Regensburg,20,male,Germany,MDP,Bachelor,2026,2,25,2.3,False,False
+19637446,Karl-Heinrich,Kraus,karl-heinrich.kraus@stud.th-deg.de,+49 170 20456163,2004-12-14,Gitte-Dobes-Ring 44,93413,Cham,21,male,Germany,MDP,Bachelor,2025,4,30,2.4,False,True
+17719364,Imane,Chraibi,imane.chraibi@stud.th-deg.de,+49 178 38729524,1996-02-28,Gertrud-Gröttner-Straße 60,93413,Cham,29,female,Morocco,MDM,Master,2026,1,0,1.7,False,False
+12287283,Sujan,Rai,sujan.rai@stud.th-deg.de,0176/4093635,1997-03-07,Mansgasse 70,93413,Cham,29,male,Nepal,MRO,Master,2026,2,25,1.7,False,False
+11473768,Amine,Gharbi,amine.gharbi@stud.th-deg.de,0157/5211422,1997-01-07,Metzweg 9,93413,Cham,28,male,Tunisia,MSS,Master,2025,3,35,2.3,False,True
+10840929,Berkal,Arslan,berkal.arslan@stud.th-deg.de,+4917274992188,1993-12-02,Brita-Wieloch-Straße 40,93413,Cham,32,male,Türkiye,MDM,Master,2024,5,35,2.0,False,True
+23747327,Shuvo,Rahman,shuvo.rahman@stud.th-deg.de,+49 162 77627885,2000-04-21,Alberto-Mielcarek-Weg 68,93413,Cham,25,male,Bangladesh,MRO,Master,2026,1,0,2.2,False,True
+25488262,Kala,Mangat,kala.mangat@stud.th-deg.de,0172/2014235,2006-07-19,Carlo-Kambs-Gasse 44,93413,Cham,19,female,India,MDP,Bachelor,2026,2,25,2.0,False,False
+26535730,Ruben,Villegas,ruben.villegas@stud.th-deg.de,+491608208073,2000-06-18,Lindnerstr. 3,93413,Cham,25,male,Spain,MMC,Master,2026,2,20,1.9,False,True
+12320756,Jun,Li,jun.li1@stud.th-deg.de,+49 152 4476962,1996-09-01,Ljiljana-Stiffel-Straße 10,93413,Cham,29,male,China,MMC,Master,2025,3,55,1.7,False,False
+28550545,Mercedes,Mülichen,mercedes.muelichen@stud.th-deg.de,+4915777247950,2003-11-23,Weitzelplatz 65,93444,Bad Kötzting,22,female,Germany,MDP,Bachelor,2023,7,150,2.0,False,False
+29931175,Fang,Zhang,fang.zhang@stud.th-deg.de,0178 3999 901,2000-04-23,Budigallee 34,93047,Regensburg,25,female,China,MDM,Master,2026,1,0,1.5,False,False
+23459607,Qais,Nasser,qais.nasser@stud.th-deg.de,0170 2269 811,2000-10-27,Heringallee 56,93413,Cham,26,male,Jordan,MMC,Master,2026,1,0,1.0,False,False
+24755196,Oni,Randhawa,oni.randhawa@stud.th-deg.de,0172/7568564,2001-04-27,Edgar-Textor-Ring 71,93413,Cham,24,female,India,MSS,Master,2026,1,0,1.4,False,False
+18694444,Steffen,Pärtzelt,steffen.paertzelt@stud.th-deg.de,0160/0764742,2004-03-08,Iris-Karz-Platz 7,93449,Waldmünchen,21,male,Germany,MDP,Bachelor,2026,2,15,2.6,False,True
+28256287,Beate,Wieloch,beate.wieloch@stud.th-deg.de,0160/77667480,2005-02-20,Emmy-Hahn-Ring 36,93413,Cham,20,female,Germany,MDP,Bachelor,2025,4,85,1.9,False,False
+22957972,Raharja,Rahimah,raharja.rahimah@stud.th-deg.de,0162/6075663,1999-05-12,Schmidtkeallee 12,93413,Cham,26,male,Indonesia,MRO,Master,2025,3,25,2.6,False,True
+22368556,Harm,Mitschke,harm.mitschke@stud.th-deg.de,0152/01709059,2007-07-17,Lidwina-Siering-Gasse 67,93047,Regensburg,19,male,Germany,MDP,Bachelor,2026,1,0,2.9,False,False
+29203052,Oskar,Fröhlich,oskar.froehlich@stud.th-deg.de,0170/71312269,2004-10-10,Hilda-Löchel-Ring 36,93437,Furth im Wald,22,male,Germany,MDP,Bachelor,2024,6,100,2.3,True,True
+20251817,Andre,Rust,andre.rust@stud.th-deg.de,+4915157346725,1998-11-19,Holstenplatz 70,93437,Furth im Wald,28,male,Germany,MMC,Master,2026,2,30,1.5,False,False
+23690308,Wei,Yang,wei.yang@stud.th-deg.de,0151/5995544,1999-07-27,Täscheplatz 24,93413,Cham,26,male,China,MSS,Master,2026,2,30,1.6,True,False
+16869440,Franck,Njoya,franck.njoya@stud.th-deg.de,0162 8197 5555,2002-05-19,Geiselstr. 12,93437,Furth im Wald,23,male,Cameroon,MSS,Master,2025,3,40,2.5,False,False
+14125662,Mario,Franz,mario.franz@stud.th-deg.de,+49 172 6538362,1997-03-26,Heßplatz 69,93413,Cham,28,male,Austria,MSS,Master,2024,6,75,1.9,False,False
+15493411,Emeka,Eze,emeka.eze@stud.th-deg.de,+49 170 21147728,2003-11-27,Ziegertallee 49,93413,Cham,22,male,Nigeria,MDP,Bachelor,2024,6,85,2.8,False,True
+27274812,Muharrem,Birnbaum,muharrem.birnbaum@stud.th-deg.de,+49 170 87373356,2003-05-04,Hans-Walter-Mies-Ring 16,93413,Cham,23,male,Germany,MDP,Bachelor,2026,2,25,2.8,False,False
+21710973,Sujan,Gurung,sujan.gurung@stud.th-deg.de,0178 2204 1988,2000-10-28,Dörrplatz 55,93413,Cham,25,male,Nepal,MDM,Master,2026,2,25,1.2,False,False
+11784017,Jing,Zhao,jing.zhao@stud.th-deg.de,0172/2519132,1996-08-23,Hartmannstraße 33,93413,Cham,29,female,China,MSS,Master,2025,3,50,1.4,False,False
+13518003,Kerstin,Sölzer,kerstin.soelzer@stud.th-deg.de,+4917232059092,1999-12-12,Nuray-Misicher-Platz 4,80331,München,26,female,Germany,MSS,Master,2026,2,30,1.6,False,False
+12037507,Ishaan,Bhatnagar,ishaan.bhatnagar@stud.th-deg.de,0151 3221 7049,2002-12-17,Clara-Bauer-Ring 21,93413,Cham,23,male,India,MDM,Master,2026,1,0,1.8,False,False
+18487665,Tymoteusz,Szczerbiak,tymoteusz.szczerbiak@stud.th-deg.de,+4917679033011,1995-09-18,Uli-Junken-Ring 60,93413,Cham,30,male,Poland,MDM,Master,2026,2,25,1.2,False,False
+16741288,Kwesi,Asante,kwesi.asante@stud.th-deg.de,0176/83481152,2004-08-23,Irmela-Textor-Straße 11,93413,Cham,21,male,Ghana,MDP,Bachelor,2025,4,30,2.2,False,True
+13853009,Wei,Sun,wei.sun1@stud.th-deg.de,+491701043069,1998-02-23,Mohauptstraße 27,93047,Regensburg,27,male,China,MMC,Master,2025,4,80,2.2,False,False
+23775128,Damini,Chaudhary,damini.chaudhary@stud.th-deg.de,+491524954969,2000-01-03,Langering 21,93413,Cham,26,female,India,MSS,Master,2025,3,60,1.6,False,False
+16713564,Mehdi,Ahmadi,mehdi.ahmadi@stud.th-deg.de,+4917830720845,1998-07-01,Steuerplatz 58,93413,Cham,27,male,Iran,MMC,Master,2026,1,0,1.5,False,False
+11131370,Alexandre,Herrmann,alexandre.herrmann@stud.th-deg.de,0157 5527 2681,1994-09-07,Vittorio-Thies-Ring 68,93449,Waldmünchen,31,male,Germany,MDM,Master,2026,2,25,1.8,False,False
+19641540,Bekir,Salz,bekir.salz@stud.th-deg.de,+49 172 0449812,1982-09-15,Gitte-Dobes-Ring 63,93449,Waldmünchen,43,male,Germany,MSS,Master,2024,6,85,1.9,True,False
+28633809,Elpidio,Ferrera,elpidio.ferrera@stud.th-deg.de,+49 178 8050501,2000-04-24,Försterplatz 57,93413,Cham,26,male,Spain,MDM,Master,2026,1,0,2.0,False,False
+11149893,Shaimaa,Hassan,shaimaa.hassan@stud.th-deg.de,0172 5123 9700,2001-07-19,Rabea-Henschel-Ring 8,93413,Cham,25,female,Egypt,MRO,Master,2025,3,55,1.5,False,False
+23053697,Lei,Li,lei.li@stud.th-deg.de,0152 9154 655,2001-11-04,Cord-Scheel-Allee 73,93413,Cham,24,male,China,MSS,Master,2026,2,25,2.1,False,False
+11475980,Bibek,Magar,bibek.magar@stud.th-deg.de,0178/1003810,2001-02-21,Müllergasse 13,93426,Roding,24,male,Nepal,MRO,Master,2026,1,0,1.4,False,False
+12888254,Gülel,Bilgin,guelel.bilgin@stud.th-deg.de,0170/02376854,1997-05-14,Ulla-Hentschel-Platz 33,93413,Cham,28,male,Türkiye,MSS,Master,2025,4,40,2.3,False,True
+16798112,Krystyna,Sztuba,krystyna.sztuba@stud.th-deg.de,0160/5227003,2003-12-11,Trommlerplatz 66,93413,Cham,22,female,Poland,MRO,Master,2026,2,30,1.8,True,False
+19548669,Shivansh,Baral,shivansh.baral@stud.th-deg.de,0176 2333 6773,2002-03-22,Imke-Schüler-Gasse 19,93413,Cham,23,male,India,MMC,Master,2026,2,30,1.4,False,False
+11088241,Houda,Fassi,houda.fassi@stud.th-deg.de,0151 9012 7203,1997-04-09,Mühlestr. 18,93413,Cham,28,female,Morocco,MSS,Master,2025,3,60,1.2,False,False
+24951105,Ayla,Jesus,ayla.jesus@stud.th-deg.de,+4916020176295,1996-06-18,Clara-Bauer-Ring 3,93413,Cham,30,female,Brazil,MSS,Master,2026,2,30,2.0,False,False
+15294535,Stefano,Ernst,stefano.ernst@stud.th-deg.de,0176 5546 300,2003-09-06,Björn-Pechel-Gasse 29,93413,Cham,22,male,Germany,MDP,Bachelor,2024,6,140,2.6,False,False
+16947274,Jing,Zhang,jing.zhang@stud.th-deg.de,+491785161483,1999-04-11,Röhrdanzplatz 40,93413,Cham,26,female,China,MMC,Master,2026,2,30,1.9,False,False
+12825113,Imran,Shah,imran.shah@stud.th-deg.de,0151/1249230,1996-10-16,Dobesallee 37,93413,Cham,29,male,Pakistan,MRO,Master,2026,2,25,1.2,False,False
+29626832,Dino,Respighi,dino.respighi@stud.th-deg.de,+491624242705,1995-03-18,Schwitalstr. 4,93413,Cham,30,male,Italy,MSS,Master,2026,1,0,1.6,True,False
+23602941,Mesut,Kallert,mesut.kallert@stud.th-deg.de,+49 151 72465783,2001-05-26,Karen-Johann-Gasse 17,94315,Straubing,24,male,Germany,MDP,Bachelor,2024,5,115,2.2,False,False
+16681294,Antonín,Novotný,antonin.novotny@stud.th-deg.de,+4916072905462,1995-07-09,Fernando-Sorgatz-Straße 1,93413,Cham,30,male,Czech Republic,MMC,Master,2026,1,0,1.6,False,False
+23174294,Raimund,Ruppersberger,raimund.ruppersberger@stud.th-deg.de,0151 4533 4304,2004-01-26,Corinna-Müller-Weg 18,92421,Schwandorf,21,male,Germany,MDP,Bachelor,2024,5,100,2.1,False,False
+10150164,Michail,Pohl,michail.pohl@stud.th-deg.de,+49 172 5447694,2003-10-23,Mangoldstr. 48,93444,Bad Kötzting,22,male,Germany,MDP,Bachelor,2024,6,120,2.4,False,False
+20075479,Ifeanyi,Eze,ifeanyi.eze@stud.th-deg.de,0170/0866696,1999-09-11,Dogan-Hornig-Platz 1,93413,Cham,26,male,Nigeria,MRO,Master,2025,3,30,2.5,True,True
+12873474,Ralf-Dieter,Albers,ralf-dieter.albers@stud.th-deg.de,0172/70428555,2002-11-04,Maurizio-Langern-Allee 14,94469,Deggendorf,23,male,Germany,MMC,Master,2025,3,45,2.3,False,False
+26038618,Herve,Kamga,herve.kamga@stud.th-deg.de,0172 9726 438,1997-04-08,Kläre-Wernecke-Platz 43,93047,Regensburg,28,male,Cameroon,MMC,Master,2026,1,0,1.5,False,False
+10427220,Yurdanur,Fırat,yurdanur.frat@stud.th-deg.de,+49 176 87619632,2001-05-19,Gloria-Röhrdanz-Ring 45,93437,Furth im Wald,24,male,Türkiye,MSS,Master,2026,1,0,1.7,False,False
+28230034,Ingolf,Becker,ingolf.becker@stud.th-deg.de,0157/8468940,2002-11-23,Friedericke-Fischer-Ring 71,94315,Straubing,23,male,Germany,MDP,Bachelor,2023,7,150,2.4,False,False
+17706168,Leena,Malhotra,leena.malhotra@stud.th-deg.de,+49 178 1761051,1999-01-18,Eileen-Schuster-Platz 46,93413,Cham,26,female,India,MMC,Master,2026,2,30,1.9,False,False
+22599618,Yan,Liu,yan.liu@stud.th-deg.de,+491578486351,2000-06-21,Fechnerring 74,93413,Cham,25,female,China,MDM,Master,2026,1,0,2.1,False,False
+20626640,Isuru,Herath,isuru.herath@stud.th-deg.de,+49 157 62416061,1999-06-03,Heßplatz 58,93413,Cham,26,male,Sri Lanka,MSS,Master,2024,5,80,1.8,False,False
+17385985,Reginald,Wähner,reginald.waehner@stud.th-deg.de,+49 152 8997277,1998-06-15,Ziegertallee 44,92224,Amberg,28,male,Germany,MRO,Master,2025,3,50,2.6,False,False
+27496234,Wei,Wu,wei.wu@stud.th-deg.de,0176/35829392,2000-06-25,Kevin-Trapp-Ring 31,93413,Cham,25,male,China,MSS,Master,2026,2,25,2.4,False,False
+11388984,Ming,Sun,ming.sun@stud.th-deg.de,0162 4269 526,2000-09-11,Mohauptstraße 9,93413,Cham,25,male,China,MSS,Master,2026,1,0,2.1,False,False
+18481007,Imtiaz,Haque,imtiaz.haque@stud.th-deg.de,0178/5481683,1997-03-26,Gierschnerweg 56,93413,Cham,28,male,Bangladesh,MDM,Master,2025,3,45,1.6,False,False
+23724109,Serhii,Kovalenko,serhii.kovalenko@stud.th-deg.de,+491579325470,1995-11-04,Dogan-Hornig-Platz 75,93413,Cham,30,male,Ukraine,MRO,Master,2026,1,0,1.8,False,True
+25435649,Luke,More,luke.more@stud.th-deg.de,+4917244380526,1994-11-28,Edgar-Textor-Ring 29,93413,Cham,31,male,India,MDM,Master,2025,4,85,1.6,False,False
+25007905,Laksh,Loke,laksh.loke@stud.th-deg.de,+491723041653,2002-03-22,Röhrdanzplatz 29,93437,Furth im Wald,24,male,India,MRO,Master,2026,1,0,1.8,False,False
+19765175,Chukwuemeka,Okafor,chukwuemeka.okafor@stud.th-deg.de,+49 172 32578709,2001-12-18,Bartholomäus-Speer-Platz 8,93413,Cham,24,male,Nigeria,MDM,Master,2026,2,15,2.5,False,True
+10079947,Bradley,Hill,bradley.hill@stud.th-deg.de,+49 151 41224760,1994-04-18,Domenico-Harloff-Platz 48,93413,Cham,32,male,Philippines,MRO,Master,2026,2,25,2.2,False,False
+18963010,Manuela,Matthäi,manuela.matthaei@stud.th-deg.de,0170/03143197,2002-01-27,Holstenplatz 25,93413,Cham,23,female,Germany,MDP,Bachelor,2023,7,160,1.8,False,False
+14088106,Shane,Daniels,shane.daniels@stud.th-deg.de,0172 9435 568,1997-05-11,Kuschweg 1,93437,Furth im Wald,28,male,Philippines,MDM,Master,2026,2,25,2.6,False,False
+17878370,Andrés,Valencia,andres.valencia@stud.th-deg.de,0172/2456185,2003-10-05,Mangoldgasse 1,93413,Cham,22,male,Colombia,MMC,Master,2026,1,0,1.5,False,False
+19707668,Hürdoğan,Sezer,huerdogan.sezer@stud.th-deg.de,0172 4425 2642,2003-11-26,Försterplatz 27,93413,Cham,22,male,Türkiye,MSS,Master,2026,1,0,1.1,True,False
+12027996,Faris,Abu-Zaid,faris.abu-zaid@stud.th-deg.de,+49 178 34615086,2000-08-03,Müllergasse 37,93413,Cham,26,male,Jordan,MDM,Master,2026,1,0,2.5,False,False
+25247109,Kwesi,Mensah,kwesi.mensah1@stud.th-deg.de,0162 9121 3872,2001-10-19,Nina-Kühnert-Gasse 37,93413,Cham,25,male,Ghana,MRO,Master,2026,2,25,1.5,False,False
+19090969,Mahmud,Sarkar,mahmud.sarkar@stud.th-deg.de,+4917044957937,1997-04-08,Romana-Döring-Allee 59,93413,Cham,28,male,Bangladesh,MRO,Master,2026,1,0,1.2,False,False
+10889858,Ahmad,Hassan,ahmad.hassan@stud.th-deg.de,0152/1677370,2001-11-27,Eckbauerstr. 42,93413,Cham,24,male,Syria,MMC,Master,2026,2,30,1.9,False,False
+29390534,Yazan,Qasem,yazan.qasem@stud.th-deg.de,0162/95693153,1996-08-28,Irmhild-Jacob-Weg 62,93413,Cham,29,male,Jordan,MDM,Master,2024,6,70,2.1,False,False
+25750691,Ruwan,Silva,ruwan.silva@stud.th-deg.de,+49 176 35417359,1996-02-14,Ljiljana-Stiffel-Straße 24,93413,Cham,29,male,Sri Lanka,MDM,Master,2025,3,40,2.1,True,True
+15127994,Nugraha,Astuti,nugraha.astuti@stud.th-deg.de,+491604393614,2001-02-15,Wesackstr. 19,93413,Cham,24,male,Indonesia,MMC,Master,2026,2,20,2.2,False,True
+23705391,Kevin,Thanel,kevin.thanel@stud.th-deg.de,+491729849139,2002-04-13,Leonore-Fröhlich-Ring 43,94469,Deggendorf,23,male,Germany,MDP,Bachelor,2022,10,205,1.9,False,False
+19629204,Ottomar,Bolnbach,ottomar.bolnbach@stud.th-deg.de,+49 176 2609989,2003-01-12,Tatjana-Eimer-Ring 9,93047,Regensburg,22,male,Germany,MDP,Bachelor,2024,6,150,1.0,False,False
+16070236,Haya,Khalil,haya.khalil@stud.th-deg.de,0176/1279626,1997-04-27,Riehlstraße 61,93413,Cham,29,female,Jordan,MDM,Master,2026,2,25,1.7,True,False
+15917913,Elladio,Natta,elladio.natta@stud.th-deg.de,0162/1384034,1996-12-09,Dowergring 15,93413,Cham,29,male,Italy,MSS,Master,2025,4,80,1.4,False,False
+14426654,Tao,Sun,tao.sun1@stud.th-deg.de,+491701405436,1997-03-27,Jennifer-Kade-Straße 73,93413,Cham,28,male,China,MRO,Master,2026,1,0,1.6,False,False
+28099461,Suhani,Banik,suhani.banik@stud.th-deg.de,+49 157 55421008,1999-08-19,Ramona-Lehmann-Gasse 78,93437,Furth im Wald,26,female,India,MSS,Master,2025,3,55,1.2,False,False
+10415959,Bilal,Raza,bilal.raza@stud.th-deg.de,+49 176 24333364,1999-12-27,Iris-Karz-Platz 43,93426,Roding,27,male,Pakistan,MRO,Master,2026,1,0,1.3,True,False
+14802221,Gianpietro,Bombieri,gianpietro.bombieri@stud.th-deg.de,+4916090591023,1999-04-18,Ackermannstr. 25,93413,Cham,26,male,Italy,MMC,Master,2025,3,60,1.4,False,False
+12229084,Tahir,Şensoy,tahir.sensoy@stud.th-deg.de,+49 157 2390461,1991-09-23,Hornichgasse 27,93413,Cham,34,male,Türkiye,MDM,Master,2025,3,55,2.2,False,False
+17573659,Zeki,Liebelt,zeki.liebelt@stud.th-deg.de,0178 2301 054,2003-06-14,Gülay-Weihmann-Weg 34,94469,Deggendorf,22,male,Germany,MDP,Bachelor,2025,4,85,2.1,False,False
+12331772,Faras,Malhotra,faras.malhotra@stud.th-deg.de,0178 0075 222,1997-04-13,Liebeltweg 38,93047,Regensburg,29,male,India,MSS,Master,2026,1,0,1.7,False,False
+22645458,Catharina,Böhm,catharina.boehm@stud.th-deg.de,0172/70572509,2000-12-08,Mangoldgasse 6,93413,Cham,25,female,Austria,MDM,Master,2026,2,15,2.5,True,True
+11835943,Salma,Abdelrahman,salma.abdelrahman@stud.th-deg.de,0170 6492 8780,1994-08-06,Lene-Preiß-Straße 16,93413,Cham,32,female,Egypt,MRO,Master,2026,2,30,2.0,False,False
+11613396,Gunnar,Mühle,gunnar.muehle@stud.th-deg.de,0170/66284955,2000-06-02,Ekaterina-Warmer-Gasse 63,94315,Straubing,25,male,Germany,MDM,Master,2025,3,40,1.7,False,True
+12679280,Julio,Guevara,julio.guevara@stud.th-deg.de,+49 176 55007346,2003-10-11,Roswitha-Klemt-Platz 5,93413,Cham,22,male,Colombia,MDP,Bachelor,2023,7,165,2.4,False,False
+12989513,Caroline,Weinhage,caroline.weinhage@stud.th-deg.de,0157 7515 172,2001-11-28,Magda-Textor-Weg 36,92421,Schwandorf,24,female,Germany,MMC,Master,2026,2,10,2.5,False,True
+16278136,Niko,Röhricht,niko.roehricht@stud.th-deg.de,+4917666513997,2003-10-27,Wilmsallee 70,93047,Regensburg,23,male,Germany,MDP,Bachelor,2023,7,170,2.7,False,False
+22890166,Antonius,Preiß,antonius.preiss@stud.th-deg.de,0176 7719 434,2004-11-20,Hofmannweg 7,93426,Roding,21,male,Germany,MDP,Bachelor,2025,4,75,1.7,False,False
+13876526,Evangelos,Papadakis,evangelos.papadakis@stud.th-deg.de,0157 9427 2522,1999-04-11,Rita-Löwer-Allee 74,93413,Cham,26,male,Greece,MDM,Master,2026,2,30,1.6,False,False
+14177338,Hany,Shawky,hany.shawky@stud.th-deg.de,+4916066003807,1999-05-15,Dörrplatz 38,93413,Cham,26,male,Egypt,MDM,Master,2025,4,50,2.3,False,True
+18146122,Philipp,Hermann,philipp.hermann@stud.th-deg.de,0157/1087609,1996-03-22,Hartmannplatz 34,93444,Bad Kötzting,29,male,Germany,MDM,Master,2025,3,25,1.9,False,True
+20233503,Ojas,Som,ojas.som@stud.th-deg.de,+49 176 1801105,1997-09-01,Heringallee 57,93437,Furth im Wald,28,male,India,MRO,Master,2026,2,30,1.9,False,False
+25759318,Mirko,Zänker,mirko.zaenker@stud.th-deg.de,0178/18026201,2001-10-26,Sigfried-Gnatz-Ring 62,93449,Waldmünchen,24,male,Germany,MDM,Master,2026,2,25,1.9,False,False
+16005299,Ahmed,Ali,ahmed.ali@stud.th-deg.de,0152/2888028,2000-08-25,Karen-Johann-Gasse 38,93047,Regensburg,25,male,Egypt,MDM,Master,2025,3,55,2.0,False,False
+20219021,Eva-Maria,Holsten,eva-maria.holsten@stud.th-deg.de,+491518841027,2003-08-28,Kevin-Trapp-Ring 7,93413,Cham,22,female,Germany,MDP,Bachelor,2024,6,130,2.9,False,False
+12379264,Faruk,Henk,faruk.henk@stud.th-deg.de,+49 157 89759684,2004-10-03,Dajana-Hartmann-Gasse 77,93444,Bad Kötzting,21,male,Germany,MDP,Bachelor,2025,4,70,2.1,False,False
+24180455,Ibrahim,Bello,ibrahim.bello@stud.th-deg.de,+49 170 3663253,1998-03-27,Stephanie-Hellwig-Platz 1,93426,Roding,28,male,Nigeria,MSS,Master,2026,1,0,1.6,False,False
+14014852,Tamer,Kamel,tamer.kamel@stud.th-deg.de,0152/43106938,2002-05-18,Gloria-Röhrdanz-Ring 69,93437,Furth im Wald,23,male,Egypt,MRO,Master,2026,1,0,1.5,False,False
+16575858,Benjamin,Salz,benjamin.salz@stud.th-deg.de,+4915713782962,2005-09-16,Gaby-Reuter-Gasse 35,93413,Cham,20,male,Germany,MDP,Bachelor,2026,2,30,2.0,False,False
+29742758,Akosua,Agyeman,akosua.agyeman@stud.th-deg.de,0176/1270230,2001-01-06,Joseph-Rädel-Weg 41,93413,Cham,25,female,Ghana,MSS,Master,2026,2,25,1.8,False,False
+10751688,Theres,auch Schlauchin,theres.auch-schlauchin@stud.th-deg.de,0176/8987429,1995-11-14,Wesackstr. 61,93413,Cham,30,female,Germany,MDM,Master,2026,2,25,1.8,False,False
+26827173,Gunther,Thanel,gunther.thanel@stud.th-deg.de,+49 162 2375314,2002-03-11,Bolanderplatz 75,94315,Straubing,23,male,Germany,MDP,Bachelor,2024,6,150,2.0,False,False
+26508673,Athanasios,Papadakis,athanasios.papadakis@stud.th-deg.de,0160/9116394,2003-10-28,Sigrid-Rosenow-Allee 12,93413,Cham,22,male,Greece,MMC,Master,2026,1,0,1.5,False,False
+28045211,Johann,Rössler,johann.roessler@stud.th-deg.de,0176/85828830,2000-08-10,Ullrichplatz 65,93047,Regensburg,25,male,Austria,MRO,Master,2025,3,55,1.8,False,False
+26942096,Farhan,Bains,farhan.bains@stud.th-deg.de,0151 9568 991,2000-11-07,Frederik-Flantz-Platz 53,93413,Cham,25,male,India,MDM,Master,2026,2,30,1.7,False,False
+13297998,Hans-Georg,Gehringer,hans-georg.gehringer@stud.th-deg.de,0172/2531844,2001-10-27,Gloria-Röhrdanz-Ring 30,94469,Deggendorf,24,male,Germany,MDP,Bachelor,2022,10,120,2.3,False,True
+16733212,Prakash,Karki,prakash.karki@stud.th-deg.de,0172 8288 071,1999-07-06,Röhrichtgasse 34,93426,Roding,27,male,Nepal,MRO,Master,2024,6,50,2.1,True,True
+26948700,Alexandar,Gratzer,alexandar.gratzer@stud.th-deg.de,+49 178 5740050,2002-10-26,Meisterallee 61,93413,Cham,23,male,Austria,MMC,Master,2026,1,0,1.5,False,False
+19749619,Danny,Staude,danny.staude@stud.th-deg.de,0178/41752725,1989-05-27,Röhrichtgasse 12,94032,Passau,36,male,Germany,MRO,Master,2025,3,30,2.4,False,True
+14485745,Vũ,Phạm,vu.pham@stud.th-deg.de,0157/72134540,1999-08-09,Huhnallee 40,93413,Cham,26,male,Vietnam,MMC,Master,2025,3,20,3.0,False,True
+10966811,Arif,Akter,arif.akter@stud.th-deg.de,0160/5809650,1997-11-20,Heidrichplatz 58,93413,Cham,28,male,Bangladesh,MSS,Master,2025,3,50,2.2,False,False
+15119245,Isuru,Rajapaksa,isuru.rajapaksa@stud.th-deg.de,0172 8883 6051,1997-02-23,Dussen vanplatz 43,93437,Furth im Wald,28,male,Sri Lanka,MMC,Master,2026,2,30,1.6,False,False
+22867156,Altoğan,Demirel,altogan.demirel@stud.th-deg.de,0172 8097 400,2003-05-16,Janet-Mies-Weg 36,93413,Cham,23,male,Türkiye,MMC,Master,2026,2,30,1.7,False,False
+20072153,Mohammad,Majali,mohammad.majali@stud.th-deg.de,+49 170 26633475,1999-01-20,Kevin-Trapp-Ring 42,93413,Cham,26,male,Jordan,MRO,Master,2025,4,90,1.0,False,False
+20784651,George,Hölzenbecher,george.hoelzenbecher@stud.th-deg.de,+491786025850,2002-07-04,Ditschlerinallee 41,93413,Cham,23,male,Germany,MDP,Bachelor,2024,6,55,3.0,False,True
+25707832,Ron,Gute,ron.gute@stud.th-deg.de,0157/1642615,2006-10-15,Ingried-Jockel-Straße 64,94315,Straubing,19,male,Germany,MDP,Bachelor,2026,1,0,2.8,False,False
+28422584,Sven,Weller,sven.weller@stud.th-deg.de,0176/50255579,2000-01-15,Meisterallee 65,93449,Waldmünchen,25,male,Germany,MMC,Master,2026,1,0,1.7,True,False
+20422716,Lidija,Wesack,lidija.wesack@stud.th-deg.de,+491522555531,2002-07-16,Xenia-Kostolzin-Gasse 73,92224,Amberg,23,female,Germany,MDM,Master,2026,1,0,1.6,False,False
+24433456,Olena,Boiko,olena.boiko@stud.th-deg.de,0160/9037483,2001-05-27,Ladeckplatz 6,93413,Cham,24,female,Ukraine,MDM,Master,2026,2,25,1.7,True,True
+26914710,Imran,Iqbal,imran.iqbal@stud.th-deg.de,0160/4973447,2001-10-24,Dowergring 26,93413,Cham,24,male,Pakistan,MRO,Master,2026,1,0,2.1,False,False
+23225991,Amine,Gharbi,amine.gharbi1@stud.th-deg.de,+49 162 3589026,2001-03-17,Claus-Dieter-Renner-Platz 70,93413,Cham,24,male,Tunisia,MMC,Master,2026,1,0,2.0,True,False
+14255587,Bibek,Shrestha,bibek.shrestha@stud.th-deg.de,0170/1557894,2002-02-12,Clara-Scheibe-Gasse 51,93413,Cham,24,male,Nepal,MMC,Master,2026,2,15,2.3,True,True
+16952434,Trung,Phạm,trung.pham@stud.th-deg.de,0176 6232 1347,2003-02-12,Elisabeth-Roskoth-Ring 30,93413,Cham,22,male,Vietnam,MDP,Bachelor,2023,7,160,2.4,False,False
+29428454,Timothy,Samra,timothy.samra@stud.th-deg.de,+49 152 1443346,2001-05-01,Stiebitzallee 50,93413,Cham,24,male,India,MSS,Master,2026,2,15,2.0,False,True
+10352764,Ming,Wu,ming.wu1@stud.th-deg.de,+491781155042,2000-06-16,Istvan-Weinhage-Weg 37,93413,Cham,25,male,China,MRO,Master,2025,3,55,1.9,False,False
+29684617,Anish,Bhandari,anish.bhandari1@stud.th-deg.de,+49 157 59516483,1996-12-08,Wilmsenweg 71,93047,Regensburg,29,male,Nepal,MDM,Master,2025,3,55,2.1,False,False
+17786931,Ethan,Dhillon,ethan.dhillon@stud.th-deg.de,+49 152 26107350,1994-06-25,Kitzmannweg 45,93413,Cham,31,male,India,MSS,Master,2025,3,60,1.0,False,False
+21159269,Ayoub,Berrada,ayoub.berrada@stud.th-deg.de,0151 2324 908,2000-03-22,Willibald-Schmidt-Gasse 36,93413,Cham,26,male,Morocco,MMC,Master,2026,2,30,1.1,False,False
+10843837,Yurii,Shevchenko,yurii.shevchenko@stud.th-deg.de,0170/79904559,2001-09-26,Boucseinweg 50,93413,Cham,24,male,Ukraine,MRO,Master,2025,3,55,2.0,False,False
+19349585,Brian,Mwangi,brian.mwangi@stud.th-deg.de,0160 7760 9712,2000-01-28,Natascha-Dörschner-Platz 16,93413,Cham,25,male,Kenya,MSS,Master,2025,3,40,2.4,False,False
+20018497,Bodo,Jessel,bodo.jessel@stud.th-deg.de,0157/52621932,2003-05-12,Björn-Pechel-Gasse 61,93413,Cham,22,male,Germany,MDP,Bachelor,2023,8,130,2.6,False,False
+18036545,Biruk,Alemu,biruk.alemu@stud.th-deg.de,+49 172 0854456,1993-08-12,Ute-Ullmann-Allee 17,93413,Cham,32,male,Ethiopia,MMC,Master,2026,2,25,1.8,True,False
+29638541,Alexandre,Barth,alexandre.barth@stud.th-deg.de,+49 157 19415637,2006-04-18,Stefanie-Hettner-Allee 2,93413,Cham,19,male,Germany,MDP,Bachelor,2026,2,25,1.9,False,False
+21151318,Danny,Gröttner,danny.groettner@stud.th-deg.de,+49 152 56895599,2002-08-13,Ute-Ullmann-Allee 5,93426,Roding,24,male,Germany,MDP,Bachelor,2024,5,120,1.5,True,False
+15983133,Adalbert,Metz,adalbert.metz@stud.th-deg.de,0162/09716436,2003-06-08,Meisterallee 6,94469,Deggendorf,22,male,Germany,MDP,Bachelor,2023,7,95,2.2,False,True
+12648620,Indrajit,Bath,indrajit.bath@stud.th-deg.de,+49 178 1837704,1991-12-20,Fernando-Sorgatz-Straße 8,93413,Cham,34,male,India,MSS,Master,2025,3,55,1.3,False,False
+18343882,Vasatika,Bandi,vasatika.bandi@stud.th-deg.de,0170/53901398,1996-04-13,Louise-Rosemann-Gasse 5,93413,Cham,29,female,India,MSS,Master,2026,2,10,3.1,True,True
+11402147,Aayush,Andra,aayush.andra@stud.th-deg.de,0178 5186 1837,2001-11-27,Segebahnstr. 24,93413,Cham,24,male,India,MMC,Master,2026,1,0,1.2,True,False
+27598485,Sakib,Ahmed,sakib.ahmed@stud.th-deg.de,0151 4819 197,1998-08-07,Kläre-Wernecke-Platz 76,93413,Cham,28,male,Bangladesh,MMC,Master,2026,2,10,2.6,False,True
+16248748,Mohammad,Al-Masri,mohammad.al-masri@stud.th-deg.de,0178/6013223,1992-09-13,Metzweg 9,93413,Cham,34,male,Jordan,MRO,Master,2025,3,50,2.1,True,False
+11370875,Kriemhild,Bloch,kriemhild.bloch@stud.th-deg.de,+49 152 88181177,2000-03-15,Heßplatz 54,94032,Passau,25,female,Germany,MDM,Master,2025,4,90,1.5,False,False
+26949575,Felicitas,Hahn,felicitas.hahn@stud.th-deg.de,0160 7560 956,2002-01-26,Cord-Scheel-Allee 69,93437,Furth im Wald,23,female,Germany,MSS,Master,2026,2,25,2.1,False,False
+17240442,Rojina,Poudel,rojina.poudel@stud.th-deg.de,0157 2253 8630,2001-09-17,Hornichgasse 64,93413,Cham,24,female,Nepal,MMC,Master,2026,2,25,2.6,False,False
+24825585,Bo,Zhou,bo.zhou1@stud.th-deg.de,0152 2611 099,1998-06-02,Davidsallee 29,93413,Cham,27,male,China,MRO,Master,2026,1,0,1.4,False,False
+15466139,Pierre,Eckbauer,pierre.eckbauer@stud.th-deg.de,+49 162 5526067,2004-04-10,Heusergasse 5,94315,Straubing,21,male,Germany,MDP,Bachelor,2025,3,35,2.8,True,True
+11975963,George,Wiek,george.wiek@stud.th-deg.de,0172 9800 1576,1999-11-25,Krebsallee 30,94469,Deggendorf,26,male,Germany,MMC,Master,2025,3,50,1.5,False,False
+19221203,Enzo Gabriel,Fonseca,enzo-gabriel.fonseca@stud.th-deg.de,+491523330282,1997-04-08,Raymond-Rust-Platz 48,93413,Cham,28,male,Brazil,MRO,Master,2026,1,0,2.5,False,True
+13543234,Héctor,Yáñez,hector.yanez@stud.th-deg.de,0151/13975667,2001-06-10,Kallertgasse 60,93413,Cham,24,male,Spain,MSS,Master,2025,3,55,1.3,False,False
+12301079,Rakib,Hossain,rakib.hossain@stud.th-deg.de,+491629521678,2000-09-05,Liebeltweg 12,93413,Cham,25,male,Bangladesh,MDM,Master,2026,1,0,2.1,False,False
+29404828,Bilel,Trabelsi,bilel.trabelsi@stud.th-deg.de,0178/90346229,2000-12-21,Ekaterina-Warmer-Gasse 24,93413,Cham,25,male,Tunisia,MSS,Master,2026,2,25,1.8,False,False
+23853374,Hui,Chen,hui.chen@stud.th-deg.de,0170 5469 286,1993-11-04,Säuberlichstraße 48,93413,Cham,33,female,China,MDM,Master,2026,2,20,2.3,False,True
+11005292,Saksham,Kaur,saksham.kaur@stud.th-deg.de,+491786361703,1996-08-11,Bolanderplatz 57,93413,Cham,29,male,India,MMC,Master,2025,3,60,1.5,False,False
+18898392,Ron,Hölzenbecher,ron.hoelzenbecher@stud.th-deg.de,0170 3017 204,2001-02-20,Aumannallee 25,93449,Waldmünchen,24,male,Germany,MDP,Bachelor,2023,7,160,2.1,True,False
+17060630,Azaan,Mandal,azaan.mandal@stud.th-deg.de,0178 2115 278,2000-02-26,Stefano-Eckbauer-Gasse 65,93413,Cham,25,male,India,MMC,Master,2026,2,25,1.8,False,False
+26724147,Marlis,Junck,marlis.junck@stud.th-deg.de,+49 157 99987939,2004-09-07,Mälzerstr. 64,93437,Furth im Wald,21,female,Germany,MDP,Bachelor,2024,5,120,1.4,False,False
+25836683,Abena,Owusu,abena.owusu@stud.th-deg.de,+49 176 2619708,1989-07-10,Ulla-Hentschel-Platz 29,93413,Cham,36,female,Ghana,MRO,Master,2024,6,80,2.0,False,False
+23801704,Phillip,Hopkins,phillip.hopkins@stud.th-deg.de,+49 176 66887162,1998-02-04,Segebahnstr. 43,93413,Cham,27,male,Philippines,MMC,Master,2026,2,30,1.7,False,False
+24531904,Melanie,Kensy,melanie.kensy@stud.th-deg.de,+49 152 9000158,2000-09-13,Rohlederweg 38,93437,Furth im Wald,25,female,Germany,MSS,Master,2026,1,0,2.4,False,False
+22871862,Temitope,Okonkwo,temitope.okonkwo@stud.th-deg.de,+4917604861148,2000-12-28,Wendestraße 53,93413,Cham,25,female,Nigeria,MDM,Master,2024,6,50,2.1,False,True
+13442000,Nadia,Benali,nadia.benali@stud.th-deg.de,0162/54625659,2003-01-09,Dogan-Hornig-Platz 26,93413,Cham,23,female,Morocco,MDM,Master,2026,1,0,2.0,False,True
+29361416,Lan,Zhao,lan.zhao@stud.th-deg.de,+49 172 53598342,2002-10-08,Ljiljana-Stiffel-Straße 27,93413,Cham,23,female,China,MMC,Master,2026,2,30,1.8,False,False
+21818951,Rahim,Islam,rahim.islam@stud.th-deg.de,0157/3037885,1995-05-12,Rolf-Noack-Gasse 34,93413,Cham,30,male,Bangladesh,MSS,Master,2026,2,30,1.3,True,False
+21883738,Milena,Ježek,milena.jezek@stud.th-deg.de,0178 0966 0448,2000-05-26,Ingried-Jockel-Straße 18,93413,Cham,25,female,Czech Republic,MRO,Master,2024,5,85,2.0,False,False
+18857523,Ryszard,Godzisz,ryszard.godzisz@stud.th-deg.de,0160/07024104,2001-09-16,Heusergasse 46,93413,Cham,24,male,Poland,MDM,Master,2026,1,0,1.5,True,False
+11431654,Hari,Suryatmi,hari.suryatmi@stud.th-deg.de,0157 6955 809,2003-03-18,Bogdan-Hendriks-Weg 76,93413,Cham,23,male,Indonesia,MDM,Master,2025,3,60,2.2,False,False
+19730666,Isaac,Pandey,isaac.pandey@stud.th-deg.de,0160 9974 1181,2002-02-22,Häringweg 28,93413,Cham,23,male,India,MRO,Master,2026,2,30,1.5,False,False
+11779019,Ibrahim,Balogun,ibrahim.balogun1@stud.th-deg.de,0160 3758 1778,1997-12-21,Mangoldgasse 69,93413,Cham,28,male,Nigeria,MDM,Master,2026,1,0,1.8,False,False
+10462685,Carin,Aumann,carin.aumann@stud.th-deg.de,+49 157 91627481,2003-05-17,Hörlestraße 37,93437,Furth im Wald,22,female,Germany,MDP,Bachelor,2024,5,50,2.6,False,True
+27130182,Ming,Zhang,ming.zhang@stud.th-deg.de,0178 0849 475,1999-03-16,Roskothstr. 14,93413,Cham,26,male,China,MSS,Master,2025,3,35,2.4,False,True
+12908132,Berta,Metz,berta.metz@stud.th-deg.de,0162/7503484,2005-09-15,Bogdan-Hendriks-Weg 40,93413,Cham,21,female,Germany,MDP,Bachelor,2024,6,55,2.5,False,True
+11545754,Klaus-Werner,Warmer,klaus-werner.warmer@stud.th-deg.de,+49 151 2489269,2002-03-06,Steuerplatz 40,93413,Cham,23,male,Germany,MDM,Master,2025,3,50,2.6,False,False
+24995322,Utkarsh,Bawa,utkarsh.bawa@stud.th-deg.de,+49 160 04131782,2000-10-12,Ramona-Lehmann-Gasse 2,93047,Regensburg,25,male,India,MRO,Master,2025,3,60,1.2,False,False
+24346217,Rahim,Uddin,rahim.uddin@stud.th-deg.de,0162/4545516,2001-01-24,Eckbauerstr. 38,93413,Cham,25,male,Bangladesh,MSS,Master,2026,2,30,1.0,False,False
+16890886,Jing,Huang,jing.huang@stud.th-deg.de,0152/2375950,1998-07-02,Steckelgasse 13,93047,Regensburg,28,female,China,MMC,Master,2026,1,0,1.7,True,False
+17016456,Kurt,Staude,kurt.staude@stud.th-deg.de,+49 151 9919988,2003-05-24,Neureuthergasse 63,92637,Weiden in der Oberpfalz,23,male,Germany,MDP,Bachelor,2023,7,80,2.9,False,True
+11960702,Yang,Liu,yang.liu@stud.th-deg.de,+49 152 12992552,1997-12-16,Wilhelm-Staude-Gasse 43,93413,Cham,28,male,China,MRO,Master,2026,1,0,1.4,False,False
+18055832,Mirco,Hauffer,mirco.hauffer@stud.th-deg.de,0160/88066085,2004-07-10,Sigfried-Gnatz-Ring 25,93426,Roding,21,male,Germany,MDP,Bachelor,2025,3,60,1.7,True,False
+27155765,Roland,Aumann,roland.aumann@stud.th-deg.de,0170/2376610,2003-12-04,Säuberlichstraße 1,94315,Straubing,22,male,Germany,MDP,Bachelor,2024,6,145,2.2,False,False
+11418016,Ekkehard,Schottin,ekkehard.schottin@stud.th-deg.de,0178/4925023,2002-03-22,Gottlieb-Misicher-Straße 46,94032,Passau,23,male,Germany,MDP,Bachelor,2023,7,140,1.9,False,False
+25695990,Natalia,Stumpf,natalia.stumpf@stud.th-deg.de,0157/2176651,2003-06-01,Karen-Johann-Gasse 56,93413,Cham,22,female,Germany,MDP,Bachelor,2025,3,60,2.0,False,False
+17865687,Imtiaz,Akter,imtiaz.akter@stud.th-deg.de,0172/7353912,1997-10-16,Irmela-Textor-Straße 34,93413,Cham,28,male,Bangladesh,MSS,Master,2024,6,85,1.3,False,False
+17547869,Leila,Rahimi,leila.rahimi@stud.th-deg.de,0151/05314305,1999-02-05,Budigallee 72,93413,Cham,26,female,Iran,MSS,Master,2025,3,60,2.3,False,False
+18991837,Danilo,Weinhage,danilo.weinhage@stud.th-deg.de,+4917077667657,1987-12-26,Sigfried-Gnatz-Ring 16,92421,Schwandorf,38,male,Germany,MMC,Master,2025,3,30,2.1,False,True
+24476218,Francesca,Mühle,francesca.muehle@stud.th-deg.de,0162 4038 085,2005-10-06,Nadin-Wieloch-Weg 60,80331,München,20,female,Germany,MDP,Bachelor,2026,1,0,2.2,False,False
+12851546,Ekkehart,Kuhl,ekkehart.kuhl@stud.th-deg.de,0162 1525 7926,2001-09-23,Rolf-Noack-Gasse 40,93444,Bad Kötzting,24,male,Germany,MDP,Bachelor,2024,5,120,2.3,False,False
+12723196,Enrique,Rentería,enrique.renteria@stud.th-deg.de,0162 8107 406,2001-03-17,Steckelgasse 25,93413,Cham,24,male,Mexico,MMC,Master,2026,1,0,1.0,True,False
+21128390,Josef,Schmidtke,josef.schmidtke@stud.th-deg.de,0178/54469601,2004-10-02,Henkallee 23,93444,Bad Kötzting,21,male,Germany,MDP,Bachelor,2024,6,130,2.7,False,False
+22776113,Jun,Sun,jun.sun@stud.th-deg.de,+491604520266,1996-11-21,Sigrid-Rosenow-Allee 36,93413,Cham,29,male,China,MDM,Master,2026,1,0,1.9,False,True
+29026820,Bertram,Roskoth,bertram.roskoth@stud.th-deg.de,0151/1551406,2003-04-25,Binnerstr. 7,92637,Weiden in der Oberpfalz,22,male,Germany,MDP,Bachelor,2023,7,170,1.6,True,False
+15727061,Anish,Shrestha,anish.shrestha@stud.th-deg.de,+491517885588,1999-08-07,Scheibeweg 52,93413,Cham,26,male,Nepal,MMC,Master,2026,1,0,1.0,False,False
+10627988,Karlfried,Schmidtke,karlfried.schmidtke@stud.th-deg.de,0160 0138 458,1994-01-28,Stephanie-Hellwig-Platz 33,93413,Cham,31,male,Germany,MMC,Master,2026,2,30,1.0,True,False
+10791562,Mohammed,Hentschel,mohammed.hentschel@stud.th-deg.de,0160 3384 2867,1992-05-23,Gerwin-Henck-Platz 54,93047,Regensburg,33,male,Germany,MMC,Master,2026,1,0,1.7,False,False
+22523361,Augustin,Ullrich,augustin.ullrich@stud.th-deg.de,0176/11570519,2000-02-21,Niemeiergasse 41,92637,Weiden in der Oberpfalz,25,male,Germany,MDP,Bachelor,2023,8,95,2.2,False,True
+12814992,Jolanda,Becker,jolanda.becker@stud.th-deg.de,0178 7314 458,2005-07-10,Ekaterina-Warmer-Gasse 78,93413,Cham,20,diverse,Germany,MDP,Bachelor,2025,3,60,2.0,False,False
+12861322,Alex,Kammerer,alex.kammerer@stud.th-deg.de,0170/8472391,2001-07-04,Mangoldgasse 7,93413,Cham,25,male,Austria,MRO,Master,2025,3,25,1.9,False,True
+10740854,Juergen,Bähr,juergen.baehr@stud.th-deg.de,0157/6746027,2006-07-13,Krokerweg 39,93444,Bad Kötzting,19,male,Germany,MDP,Bachelor,2026,1,0,1.7,False,False
+24329172,Lei,Chen,lei.chen@stud.th-deg.de,0151/43435119,2000-09-23,Roswitha-Klemt-Platz 43,93426,Roding,25,male,China,MSS,Master,2026,2,25,2.1,False,False
+25289729,Kamidin,Salahudin,kamidin.salahudin@stud.th-deg.de,0160/76798271,1999-12-17,Xenia-Kostolzin-Gasse 20,93413,Cham,26,male,Indonesia,MSS,Master,2025,3,60,2.1,False,False
+10447883,Lei,Chen,lei.chen1@stud.th-deg.de,0151 7319 925,1999-03-19,Janet-Mies-Weg 54,93047,Regensburg,26,male,China,MMC,Master,2025,4,85,2.1,False,False
+27349638,Henrique,Sampaio,henrique.sampaio@stud.th-deg.de,+4917649714850,2002-03-22,Mälzerstr. 29,93413,Cham,23,male,Brazil,MMC,Master,2026,1,0,2.0,False,False
+13501991,Lahiru,Silva,lahiru.silva@stud.th-deg.de,+49 162 8857279,1988-03-10,Senta-Kreusel-Weg 61,93413,Cham,37,male,Sri Lanka,MDM,Master,2026,2,30,1.6,False,False
+11537371,Waluyo,Hutasoit,waluyo.hutasoit@stud.th-deg.de,+491784046818,2000-12-02,Brita-Wieloch-Straße 73,93426,Roding,26,male,Indonesia,MDM,Master,2026,2,25,1.5,False,False
+23542281,Zayyan,Pillay,zayyan.pillay@stud.th-deg.de,+4915190074243,1993-02-25,Conradiallee 68,93437,Furth im Wald,32,male,India,MMC,Master,2026,2,15,2.0,False,True
+24189137,Elhan,Dumanlı,elhan.dumanl@stud.th-deg.de,0157 8889 072,2000-01-18,Försterplatz 50,93413,Cham,25,male,Türkiye,MMC,Master,2026,2,20,2.4,False,True
+14242874,Temitope,Ogunleye,temitope.ogunleye@stud.th-deg.de,0162 5205 8790,2005-02-16,Hahnweg 57,93413,Cham,20,female,Nigeria,MDP,Bachelor,2026,1,0,3.0,False,True
+12563321,Anton,Reising,anton.reising@stud.th-deg.de,+4917036257844,1997-10-17,Silvio-Drewes-Weg 69,93437,Furth im Wald,28,male,Germany,MSS,Master,2025,3,60,1.0,False,False
+23467871,Collins,Chege,collins.chege@stud.th-deg.de,+49 162 2775112,1996-07-24,Senta-Kreusel-Weg 78,93413,Cham,29,male,Kenya,MDM,Master,2026,1,0,1.3,False,False
+21878635,Leonhard,Schramm,leonhard.schramm@stud.th-deg.de,+491623928168,2001-12-22,Beyerweg 58,93413,Cham,24,male,Austria,MDP,Bachelor,2023,8,160,2.6,False,False
+29915465,Julio,Guitart,julio.guitart@stud.th-deg.de,+491703483891,1999-03-19,Sigrid-Rosenow-Allee 73,93413,Cham,26,male,Spain,MMC,Master,2025,3,60,2.1,False,False
+12404869,Lan,Chen,lan.chen@stud.th-deg.de,0170/33517602,1996-05-22,Iris-Karz-Platz 77,93413,Cham,29,female,China,MRO,Master,2025,3,25,2.6,False,True
+23454299,Mato,Möchlichen,mato.moechlichen@stud.th-deg.de,0172/8551682,2005-07-09,Conradiallee 14,93449,Waldmünchen,21,male,Germany,MDP,Bachelor,2025,3,30,2.6,False,True
+13521478,Charles,Rege,charles.rege@stud.th-deg.de,0151/0790757,1998-01-20,Försterplatz 40,93413,Cham,27,male,India,MSS,Master,2025,3,55,1.0,True,False
+25046305,Ottokar,Misicher,ottokar.misicher@stud.th-deg.de,0178/1270174,1998-12-28,Hans-Walter-Mies-Ring 29,93426,Roding,27,male,Germany,MDM,Master,2024,5,55,2.2,False,True
+17190223,Gunther,Wagner,gunther.wagner@stud.th-deg.de,0160 5148 129,2004-10-07,Kuschweg 76,93413,Cham,22,male,Germany,MDP,Bachelor,2025,4,60,2.7,True,False
+20558764,Larissa,Trommler,larissa.trommler@stud.th-deg.de,+4916010899058,2005-02-16,Waltrud-Wirth-Ring 59,93413,Cham,20,female,Germany,MDP,Bachelor,2026,2,25,1.6,False,False
+26063380,Emanuel,Mendes,emanuel.mendes@stud.th-deg.de,0160/1132905,2007-11-20,Drewesallee 70,93413,Cham,19,male,Brazil,MDP,Bachelor,2026,2,10,3.4,False,True
+18812059,Mahmud,Ahmed,mahmud.ahmed@stud.th-deg.de,0151 9111 080,1996-06-15,Hornichgasse 28,93413,Cham,29,male,Bangladesh,MRO,Master,2026,2,30,2.3,False,False
+16925006,Heidi,Sager,heidi.sager@stud.th-deg.de,0176 1311 9361,2003-05-28,Säuberlichstraße 67,93413,Cham,22,female,Germany,MDP,Bachelor,2025,4,90,1.4,False,False
+25972803,Sigmund,Finke,sigmund.finke@stud.th-deg.de,0160 9264 7346,2004-12-12,Susan-Weller-Platz 7,93047,Regensburg,21,male,Germany,MDP,Bachelor,2024,6,130,2.1,False,False
+26633580,Faruk,Bärer,faruk.baerer@stud.th-deg.de,0172/3110327,2004-07-07,Kuschweg 75,93437,Furth im Wald,21,male,Germany,MDP,Bachelor,2025,3,60,1.8,False,False
+16495162,Sedat,Eberhardt,sedat.eberhardt@stud.th-deg.de,0176/74938193,2003-03-04,Martha-Koch II-Weg 19,94315,Straubing,22,male,Germany,MDP,Bachelor,2023,7,145,2.2,False,False
+29093723,Wei,Xu,wei.xu1@stud.th-deg.de,0160 3611 907,2003-10-24,Ralph-Bender-Straße 42,93047,Regensburg,23,male,China,MSS,Master,2026,2,25,2.1,False,False
+20067137,Melanie,Patberg,melanie.patberg@stud.th-deg.de,+491573783107,2004-09-20,Geiselstr. 57,93426,Roding,22,female,Germany,MDP,Bachelor,2026,1,0,2.1,True,False
+23859758,Evangelos,Römer,evangelos.roemer@stud.th-deg.de,+4915122823199,2001-03-17,Engin-Klotz-Ring 59,93413,Cham,25,male,Germany,MSS,Master,2024,5,35,2.2,False,True
+11693022,Sherif,Shawky,sherif.shawky@stud.th-deg.de,0157 9620 780,2001-09-13,Heinrichgasse 17,93437,Furth im Wald,24,male,Egypt,MSS,Master,2026,2,25,2.8,False,False
+19037919,Victoria,Siering,victoria.siering@stud.th-deg.de,0162/3339917,2002-08-12,Heringallee 44,93413,Cham,23,female,Germany,MDM,Master,2026,2,30,1.8,False,False
+11950355,Anatoli,Carsten,anatoli.carsten@stud.th-deg.de,0157 7319 944,2004-04-27,Rabea-Henschel-Ring 42,93426,Roding,21,male,Germany,MDP,Bachelor,2025,4,85,1.6,False,False
+13333065,Jörn,Hendriks,joern.hendriks@stud.th-deg.de,0152/2310983,1998-06-20,Cengiz-Beckmann-Ring 62,94469,Deggendorf,27,male,Germany,MRO,Master,2026,1,0,1.6,False,False
+27506030,Bo,Sun,bo.sun@stud.th-deg.de,+49 152 81230367,1997-11-28,Nadin-Wieloch-Weg 26,93413,Cham,28,male,China,MSS,Master,2026,2,30,1.5,False,False
+22150734,Mareike,Hornich,mareike.hornich@stud.th-deg.de,+49 160 85728462,2002-03-23,Ulla-Hentschel-Platz 61,94469,Deggendorf,23,female,Germany,MDP,Bachelor,2025,4,80,2.5,False,False
+17973254,Amir,Ahmadi,amir.ahmadi@stud.th-deg.de,+49 162 58734071,2000-09-22,Bolanderplatz 49,93413,Cham,25,male,Iran,MDM,Master,2026,2,25,2.2,True,False
+22939752,Álvaro,Ramírez,alvaro.ramirez@stud.th-deg.de,0162/31186491,2001-10-16,Irmhild-Jacob-Weg 60,93413,Cham,24,male,Colombia,MRO,Master,2026,1,0,2.0,False,True
+29375909,Oussama,Mejri,oussama.mejri@stud.th-deg.de,+49 160 9981733,1994-12-07,Karen-Johann-Gasse 70,93413,Cham,31,male,Tunisia,MMC,Master,2026,2,30,1.1,False,False
+10987301,Jacob,Pachler,jacob.pachler@stud.th-deg.de,0170/25662085,2000-04-19,Urszula-Killer-Platz 34,93413,Cham,25,male,Austria,MRO,Master,2026,2,30,1.9,True,False
+12521141,Flora,Pärtzelt,flora.paertzelt@stud.th-deg.de,+49 162 2683015,1999-04-21,Weinholdstr. 35,94469,Deggendorf,26,female,Germany,MSS,Master,2026,2,30,1.0,False,False
+20067536,Nabin,Adhikari,nabin.adhikari@stud.th-deg.de,0176 4246 775,2003-12-15,Charles-Scheibe-Gasse 63,93413,Cham,23,male,Nepal,MSS,Master,2026,1,0,1.6,False,False
+20601451,Amine,Gharbi,amine.gharbi2@stud.th-deg.de,0157 7870 2439,2001-06-01,Herrmannallee 62,93413,Cham,24,male,Tunisia,MRO,Master,2026,2,30,1.2,True,False
+10794144,Yan,Yang,yan.yang@stud.th-deg.de,+4915231997382,2003-07-27,Lidwina-Siering-Gasse 70,93413,Cham,22,female,China,MMC,Master,2026,1,0,1.2,False,False
+16473198,Maryam,Hosseini,maryam.hosseini@stud.th-deg.de,+49 176 3628627,1999-07-24,Thorsten-Rogner-Gasse 44,93413,Cham,26,female,Iran,MDM,Master,2026,2,30,2.5,False,False
+17899904,Kian,Rezaei,kian.rezaei@stud.th-deg.de,0160 0716 089,1994-07-10,Claus-Dieter-Renner-Platz 51,93413,Cham,31,male,Iran,MMC,Master,2026,1,0,1.8,True,False
+11378889,Gagan,Barad,gagan.barad@stud.th-deg.de,0162/50994517,2001-08-14,Clara-Scheibe-Gasse 5,93413,Cham,24,male,India,MDM,Master,2026,2,25,2.2,False,False
+28079952,Parisa,Kazemi,parisa.kazemi@stud.th-deg.de,+491570705801,2000-06-04,Lene-Preiß-Straße 36,93413,Cham,26,female,Iran,MSS,Master,2025,3,50,1.0,True,False
+27292953,Marika,Bien,marika.bien@stud.th-deg.de,+491762655250,2002-05-27,Binnerstr. 20,93413,Cham,23,female,Germany,MDP,Bachelor,2024,6,105,2.7,False,True
+27200566,Miguel,Olivares,miguel.olivares@stud.th-deg.de,+491623341613,2000-05-07,Weinholdstr. 68,93413,Cham,25,male,Mexico,MMC,Master,2025,3,55,1.9,False,False
+15825598,Krish,Puri,krish.puri@stud.th-deg.de,+49 170 67053001,1998-08-11,Ottoallee 10,93047,Regensburg,27,male,India,MMC,Master,2025,3,55,2.1,True,False
+27229605,Mato,Stumpf,mato.stumpf@stud.th-deg.de,+491608590083,2002-10-12,Metzweg 62,93413,Cham,23,male,Germany,MDP,Bachelor,2022,9,185,2.8,False,False
+26546853,Marie-Luise,Bruder,marie-luise.bruder@stud.th-deg.de,+491524510219,2005-07-08,Dusan-Sorgatz-Straße 67,93047,Regensburg,21,female,Germany,MDP,Bachelor,2025,3,60,2.4,False,False
+25679482,Chukwuemeka,Bello,chukwuemeka.bello@stud.th-deg.de,0151/3068696,1993-09-18,Cengiz-Beckmann-Ring 38,93047,Regensburg,33,male,Nigeria,MMC,Master,2026,2,30,2.0,False,False
+15956530,Evangelos,Mans,evangelos.mans@stud.th-deg.de,+49 178 77077458,2002-05-28,Gertrud-Gröttner-Straße 53,94032,Passau,23,male,Germany,MDP,Bachelor,2024,6,150,1.7,True,False
+15800450,Ronald,Weiß,ronald.weiss@stud.th-deg.de,+49 162 22033906,2005-10-24,Trommlerplatz 46,94315,Straubing,21,male,Germany,MDP,Bachelor,2024,5,105,1.7,True,False
+24200191,Viktoriia,Kravchenko,viktoriia.kravchenko@stud.th-deg.de,+491764971226,2000-05-15,Gereon-Fischer-Weg 55,93413,Cham,25,female,Ukraine,MDM,Master,2025,3,50,1.7,False,False
+27630950,Adelia,Peinado,adelia.peinado@stud.th-deg.de,+49 170 7705762,2001-06-04,Kuhlplatz 55,93413,Cham,24,female,Ecuador,MDM,Master,2026,1,0,1.6,False,False
+15795309,Radka,Čech,radka.cech@stud.th-deg.de,0157 9680 715,2001-01-25,Roskothstr. 20,93413,Cham,25,female,Czech Republic,MDM,Master,2026,1,0,1.5,False,False
+20229211,Marcus,Gieß,marcus.giess@stud.th-deg.de,0176 4577 5770,1994-04-08,Ullrichplatz 55,93413,Cham,31,male,Germany,MMC,Master,2026,1,0,2.3,False,False
+10059550,Tania,Islam,tania.islam@stud.th-deg.de,0178/8523413,1994-09-26,Clara-Scheibe-Gasse 72,93413,Cham,32,female,Bangladesh,MRO,Master,2026,2,15,3.0,False,True
+22422381,Monika,Rosemann,monika.rosemann@stud.th-deg.de,+49 178 37389468,1987-02-12,Frederik-Flantz-Platz 25,92224,Amberg,38,female,Germany,MSS,Master,2026,2,30,1.7,False,False
+11207243,Vinko,Mies,vinko.mies@stud.th-deg.de,0157/17238576,2004-03-15,Karen-Johann-Gasse 25,94032,Passau,21,male,Germany,MDP,Bachelor,2026,2,25,2.4,True,False
+24555340,Pascal,Steinberg,pascal.steinberg@stud.th-deg.de,+49 162 90576474,2003-10-13,Björn-Pechel-Gasse 24,93437,Furth im Wald,22,male,Germany,MDP,Bachelor,2024,6,145,1.1,False,False
+14609079,Lipika,Bhavsar,lipika.bhavsar@stud.th-deg.de,+49 157 7937938,1998-11-13,Steckelgasse 73,93413,Cham,28,diverse,India,MDM,Master,2025,3,45,2.2,False,False
+12923943,Albrecht,Naser,albrecht.naser@stud.th-deg.de,+49 172 7083259,2002-05-05,Strohstr. 71,94315,Straubing,23,male,Germany,MDP,Bachelor,2022,9,170,2.6,False,False
+18550053,Aribert,Süßebier,aribert.suessebier@stud.th-deg.de,0157 0959 4834,1994-05-16,Ullrichplatz 28,93413,Cham,32,male,Germany,MSS,Master,2026,1,0,2.5,False,False
+28130944,Hasan,Al-Ahmad,hasan.al-ahmad@stud.th-deg.de,0162 5817 806,2000-07-12,Weitzelplatz 75,93413,Cham,25,male,Syria,MRO,Master,2025,3,35,2.4,False,True
+28863164,Luigi,Kabus,luigi.kabus@stud.th-deg.de,0170/2214871,2004-10-24,Wenzel-Bähr-Allee 61,93413,Cham,21,male,Germany,MDP,Bachelor,2024,5,100,2.5,False,False
+28004425,Stanislav,Finke,stanislav.finke@stud.th-deg.de,+49 151 6371172,2004-06-14,Gierschnerweg 32,93444,Bad Kötzting,21,male,Germany,MDP,Bachelor,2026,2,15,2.3,True,True
+19586941,Tao,Sun,tao.sun2@stud.th-deg.de,0176/95467638,1999-03-28,Rustplatz 66,93413,Cham,26,male,China,MRO,Master,2024,5,25,2.4,False,True
+24830537,Hao,Zhou,hao.zhou@stud.th-deg.de,0176/48678211,2001-06-09,Gloria-Röhrdanz-Ring 73,93413,Cham,24,male,China,MSS,Master,2026,2,25,2.1,False,False
+11198738,Birthe,Roht,birthe.roht@stud.th-deg.de,0176/00624005,2001-04-10,Hahnweg 69,93437,Furth im Wald,24,female,Germany,MDP,Bachelor,2025,4,90,1.4,True,False
+20745294,Arnošt,Petrová,arnost.petrova@stud.th-deg.de,+49 176 6842802,1995-09-02,Steuerplatz 38,93413,Cham,30,male,Czech Republic,MRO,Master,2024,6,45,1.9,False,True
+29052429,Georgios,Pappas,georgios.pappas@stud.th-deg.de,+491703623419,2000-02-21,Försterplatz 18,93437,Furth im Wald,25,male,Greece,MRO,Master,2025,3,30,2.1,False,True
+22356457,Mei,Xu,mei.xu@stud.th-deg.de,0172 4318 466,1999-08-03,Eigenwilligweg 14,93413,Cham,26,female,China,MSS,Master,2026,2,15,1.9,False,True
+29905235,Juergen,Winkler,juergen.winkler@stud.th-deg.de,+49 160 85502089,2002-02-08,Ditschlerinallee 66,93413,Cham,24,male,Germany,MSS,Master,2024,5,75,2.1,False,False
+15781388,Turabi,Mansız,turabi.mansz@stud.th-deg.de,+49 157 8405168,2001-12-26,Mangoldstr. 58,93426,Roding,24,male,Türkiye,MMC,Master,2026,1,0,1.5,False,False
+26389621,Fabienne,Klingelhöfer,fabienne.klingelhoefer@stud.th-deg.de,0178 0218 7353,2003-08-18,Strohstr. 56,94315,Straubing,23,female,Germany,MDP,Bachelor,2023,7,180,2.2,False,False
+15364417,Daksh,Konda,daksh.konda@stud.th-deg.de,0170 7991 426,2003-02-16,Stephanie-Hellwig-Platz 4,93047,Regensburg,22,male,India,MSS,Master,2026,1,0,1.8,False,False
+15383750,Uche,Bello,uche.bello1@stud.th-deg.de,0160 5553 761,2001-12-23,Fernando-Sorgatz-Straße 77,93413,Cham,25,male,Nigeria,MMC,Master,2025,3,55,2.0,False,False
+10293008,Siegmar,Stey,siegmar.stey@stud.th-deg.de,+49 170 3845638,2002-07-22,Rädelring 9,93413,Cham,23,male,Germany,MDM,Master,2026,2,15,2.3,False,True
+24609925,Nusrat,Islam,nusrat.islam@stud.th-deg.de,0162/27066721,2000-08-25,Clara-Bauer-Ring 46,93437,Furth im Wald,25,female,Bangladesh,MDM,Master,2025,3,45,2.3,False,False
+27202440,Marcus,Trubin,marcus.trubin@stud.th-deg.de,0178 2427 5406,2002-01-19,Emmy-Hahn-Ring 75,93413,Cham,23,male,Germany,MDP,Bachelor,2026,2,25,2.0,True,False
+20362938,Skander,Mejri,skander.mejri@stud.th-deg.de,0151 7747 762,1994-03-13,Rolf-Noack-Gasse 20,93413,Cham,31,male,Tunisia,MSS,Master,2026,1,0,2.2,False,False
+26889455,Erna,Reichmann,erna.reichmann@stud.th-deg.de,+49 176 6855140,2004-10-04,Gerhardt-Köster-Platz 41,93047,Regensburg,21,female,Germany,MDP,Bachelor,2024,6,65,2.8,False,True
+28291695,Segun,Okonkwo,segun.okonkwo@stud.th-deg.de,+491623346484,1998-06-11,Gereon-Fischer-Weg 67,93413,Cham,27,male,Nigeria,MRO,Master,2025,3,45,3.0,False,False
+11437741,Hưng,Bùi,hung.bui@stud.th-deg.de,0178/7487338,2001-08-20,Anita-Hellwig-Ring 22,93413,Cham,25,male,Vietnam,MMC,Master,2025,4,35,2.4,False,True
+11275436,Ruwan,Jayasinghe,ruwan.jayasinghe@stud.th-deg.de,+49 172 12928385,2003-12-08,Stiebitzallee 9,93413,Cham,22,male,Sri Lanka,MSS,Master,2026,1,0,2.6,False,True
+25215768,Lei,Xu,lei.xu@stud.th-deg.de,+4915722168988,1993-06-19,Hellmuth-Etzold-Allee 38,93413,Cham,32,male,China,MSS,Master,2025,3,50,2.4,False,False
+23358360,Ignazio,Zeffirelli,ignazio.zeffirelli@stud.th-deg.de,0170 6100 3465,2000-05-04,Hans-Hermann-Reising-Straße 63,93413,Cham,26,male,Italy,MMC,Master,2026,2,30,1.8,False,False
+19021144,Doğanşah,Gülen,dogansah.guelen@stud.th-deg.de,+4917222993556,1997-10-02,Clara-Scheibe-Gasse 46,93413,Cham,28,male,Türkiye,MDM,Master,2025,3,55,2.0,True,False
+19692123,Josué,Garcia,josue.garcia@stud.th-deg.de,0151/27579788,1991-01-11,Rita-Löwer-Allee 35,93413,Cham,34,male,Brazil,MDM,Master,2025,3,30,2.5,False,True
+15379122,Karan,Prabhakar,karan.prabhakar@stud.th-deg.de,+491603683546,2001-06-07,Rudolf-Neureuther-Straße 51,93413,Cham,25,male,India,MSS,Master,2025,3,55,1.5,False,False
+10109243,Hanedan,Sezer,hanedan.sezer@stud.th-deg.de,+491602441982,2001-11-25,Susan-Weller-Platz 5,93413,Cham,24,male,Türkiye,MDM,Master,2025,3,35,1.9,False,False
+21321911,Nayeem,Haque,nayeem.haque@stud.th-deg.de,+49 157 1642296,2002-03-11,Susan-Weller-Platz 28,93413,Cham,24,male,Bangladesh,MRO,Master,2025,3,50,1.8,False,False
+26597437,Tanvir,Akter,tanvir.akter@stud.th-deg.de,0152/2702068,2003-04-12,Burghard-Kusch-Allee 70,93437,Furth im Wald,23,male,Bangladesh,MMC,Master,2026,2,30,1.5,False,False
+25583884,Mykola,Lysenko,mykola.lysenko@stud.th-deg.de,0178 7386 0082,1995-06-12,Davidsallee 31,93413,Cham,30,male,Ukraine,MSS,Master,2026,1,0,1.8,False,False
+15736914,Ioannis,Papadopoulos,ioannis.papadopoulos@stud.th-deg.de,0172/06935271,2005-01-09,Mangoldstr. 77,93413,Cham,20,male,Greece,MDP,Bachelor,2025,3,55,1.7,False,False
+28342478,Samesh,Singh,samesh.singh@stud.th-deg.de,0160/49920457,1998-01-26,Hörlestraße 44,93413,Cham,27,male,India,MDM,Master,2025,3,50,1.7,True,False
+28025767,Arcan,Demirel,arcan.demirel@stud.th-deg.de,+49 170 7334043,1997-04-21,Wähnerplatz 74,93413,Cham,29,male,Türkiye,MSS,Master,2025,3,60,2.5,False,False
+24443401,Erik,Pöll,erik.poell@stud.th-deg.de,+49 157 8288482,1995-11-05,Schmiedtallee 50,93426,Roding,31,male,Austria,MMC,Master,2024,5,55,1.6,False,True
+25661524,Ana,Seifert,ana.seifert@stud.th-deg.de,0178 6901 9140,2003-03-07,Krokerweg 34,93413,Cham,22,female,Germany,MDP,Bachelor,2024,5,55,2.5,True,True
+12926402,Ronald,Mohaupt,ronald.mohaupt@stud.th-deg.de,0152/8288553,1991-09-03,Rabea-Henschel-Ring 73,93047,Regensburg,34,male,Germany,MRO,Master,2026,1,0,2.4,False,False
+15183067,Alessia,Pizzamano,alessia.pizzamano@stud.th-deg.de,0176/16140588,2002-06-08,Binnerstr. 22,93047,Regensburg,23,female,Italy,MMC,Master,2026,2,10,3.1,True,True
+26359248,Vinícius,Martins,vinicius.martins@stud.th-deg.de,0170 0761 6358,2001-10-19,Kevin-Trapp-Ring 31,93413,Cham,24,male,Brazil,MDM,Master,2026,2,15,2.2,False,True
+12768486,Matthias,Spieß,matthias.spiess@stud.th-deg.de,+491785012923,2003-04-27,Strohring 58,93413,Cham,23,male,Germany,MDP,Bachelor,2023,7,155,1.3,False,False
+14475084,Babatunde,Nwosu,babatunde.nwosu@stud.th-deg.de,+49 157 11016065,2001-11-14,Drewesallee 70,93413,Cham,24,male,Nigeria,MRO,Master,2026,1,0,2.9,False,True
+23725233,Wolfram,Holzapfel,wolfram.holzapfel@stud.th-deg.de,+49 151 1594630,2000-05-03,Röhrdanzplatz 16,94032,Passau,25,male,Germany,MDP,Bachelor,2022,10,210,1.4,False,False
+22739014,Ahmet,Margraf,ahmet.margraf@stud.th-deg.de,0162/29636668,2002-10-02,Heusergasse 79,94315,Straubing,24,male,Germany,MDP,Bachelor,2022,10,205,2.2,False,False
+19491309,Damyanti,Mittal,damyanti.mittal@stud.th-deg.de,+49 151 9245585,1997-10-12,Kornelia-Steinberg-Ring 35,93413,Cham,28,female,India,MRO,Master,2025,4,75,1.5,False,False
+29576739,Omar,Shah,omar.shah@stud.th-deg.de,+4915776720957,1996-06-08,Riehlstraße 27,93413,Cham,29,male,Pakistan,MRO,Master,2026,2,25,1.2,False,False
+11783313,Hasan,Haddad,hasan.haddad@stud.th-deg.de,+4915236318301,2002-09-17,Gerwin-Henck-Platz 11,93413,Cham,23,male,Syria,MDP,Bachelor,2023,8,130,2.3,False,True
+28582421,Yang,Liu,yang.liu1@stud.th-deg.de,+4917676900695,2001-02-04,Boucseinweg 3,93413,Cham,24,male,China,MSS,Master,2024,5,90,1.2,True,False
+22290581,Arnfried,Briemer,arnfried.briemer@stud.th-deg.de,0160/58642301,2000-06-07,Detlev-Hendriks-Allee 45,93047,Regensburg,25,male,Germany,MDM,Master,2025,3,55,1.8,False,False
+22478795,Annette,Gnatz,annette.gnatz@stud.th-deg.de,+49 151 0160310,1999-05-16,Stephanie-Hellwig-Platz 48,92637,Weiden in der Oberpfalz,26,female,Germany,MRO,Master,2026,1,0,2.3,False,True
+25017242,Maurice,Mülichen,maurice.muelichen@stud.th-deg.de,0152 6194 487,1996-12-08,Junckenstr. 8,93437,Furth im Wald,29,male,Germany,MMC,Master,2026,1,0,2.1,False,False
+16690097,Steffi,Sauer,steffi.sauer@stud.th-deg.de,0178 7975 6697,1997-12-11,Lidwina-Siering-Gasse 72,93413,Cham,28,female,Germany,MSS,Master,2026,1,0,1.2,False,False
+23457231,Custodio,Manzano,custodio.manzano@stud.th-deg.de,+4915144910798,2000-10-07,Casparplatz 43,93413,Cham,25,male,Spain,MDM,Master,2026,1,0,1.7,False,False
+22261797,Hemal,Kohli,hemal.kohli@stud.th-deg.de,+49 176 93705294,2000-12-02,Anita-Hellwig-Ring 5,93413,Cham,25,female,India,MDM,Master,2025,3,55,1.5,False,False
+21954452,Aahana,Seth,aahana.seth@stud.th-deg.de,+491701465060,2001-12-10,Irmela-Textor-Straße 67,93047,Regensburg,25,female,India,MDM,Master,2026,1,0,1.4,False,False
+23200398,Mina,Rahimi,mina.rahimi@stud.th-deg.de,0151 5876 190,2003-10-10,Wilmsallee 16,93437,Furth im Wald,22,female,Iran,MSS,Master,2026,1,0,1.4,False,False
+14483555,Maxim,Bauer,maxim.bauer@stud.th-deg.de,+49 172 77958110,2001-08-26,Dussen vanplatz 54,93413,Cham,24,male,Germany,MDP,Bachelor,2023,7,95,2.3,False,True
+27118716,Ekkehard,Bolander,ekkehard.bolander@stud.th-deg.de,+49 152 44635078,1995-03-25,Martha-Koch II-Weg 54,93413,Cham,31,male,Germany,MRO,Master,2025,3,40,2.3,False,True
+10121110,Darijan,Samosir,darijan.samosir@stud.th-deg.de,0151/6787572,2000-10-13,Stefanie-Hettner-Allee 65,93413,Cham,25,male,Indonesia,MRO,Master,2026,1,0,1.7,False,False
+16710157,Mertel,Sezgin,mertel.sezgin@stud.th-deg.de,+49 152 09461380,1999-03-09,Domenico-Harloff-Platz 64,93413,Cham,26,male,Türkiye,MDM,Master,2026,1,0,1.3,False,False
+26756390,Tassilo,Albers,tassilo.albers@stud.th-deg.de,+49 170 40182593,2005-03-12,Kuschweg 78,93413,Cham,21,male,Germany,MDP,Bachelor,2025,4,70,2.8,False,False
+22485240,Arif,Lübs,arif.luebs@stud.th-deg.de,0176/69763078,2004-11-18,Junckenstr. 7,92421,Schwandorf,21,male,Germany,MDP,Bachelor,2025,4,70,2.3,False,False
+24535624,Francisco,Vieira,francisco.vieira@stud.th-deg.de,+4917021691074,1999-02-11,Gert-Adler-Straße 29,93413,Cham,26,male,Brazil,MDM,Master,2025,3,45,1.6,False,True
+21670042,Christina,Holzapfel,christina.holzapfel@stud.th-deg.de,+49 162 09346877,2005-02-22,Rafael-Adler-Straße 29,93449,Waldmünchen,20,female,Germany,MDP,Bachelor,2025,3,50,3.1,False,False
+14752412,Youssef,Chraibi,youssef.chraibi@stud.th-deg.de,+49 151 96933176,1998-07-27,Rohlederweg 30,93413,Cham,27,male,Morocco,MRO,Master,2026,1,0,2.0,True,False
+13372127,Sushma,Magar,sushma.magar@stud.th-deg.de,+49 178 7274206,1996-08-12,Eileen-Schuster-Platz 19,93413,Cham,29,female,Nepal,MMC,Master,2026,2,30,1.5,False,False
+19509748,Niko,Binner,niko.binner@stud.th-deg.de,0162/84786280,1999-01-04,Mielcarekring 19,94315,Straubing,26,male,Germany,MDM,Master,2026,2,25,2.1,False,False
+15028026,Kwame,Asante,kwame.asante@stud.th-deg.de,0176 3447 9731,2000-05-04,Wesackstr. 77,93413,Cham,25,male,Ghana,MRO,Master,2026,2,25,1.8,False,False
+14619304,Fang,Huang,fang.huang@stud.th-deg.de,+4917630276431,2001-03-25,Marjan-Christoph-Ring 72,93413,Cham,25,female,China,MMC,Master,2024,5,75,2.1,False,False
+16396042,Pooja,Magar,pooja.magar@stud.th-deg.de,0160 4563 9479,2002-04-12,Jennifer-Kade-Straße 54,93413,Cham,23,female,Nepal,MMC,Master,2025,3,60,2.1,False,False
+20409524,José,da Rosa,jose.da-rosa@stud.th-deg.de,+49 157 77909112,1998-03-10,Müllergasse 44,93413,Cham,27,male,Brazil,MSS,Master,2025,3,60,2.0,True,False
+26418536,Parisa,Rezaei,parisa.rezaei@stud.th-deg.de,+49 151 4331934,1999-09-18,Kornelia-Steinberg-Ring 38,93413,Cham,26,female,Iran,MSS,Master,2026,1,0,1.2,False,False
+28003434,Vito,Seip,vito.seip@stud.th-deg.de,+49 152 9155030,1999-06-27,Hans-Walter-Mies-Ring 54,92224,Amberg,27,male,Germany,MMC,Master,2026,2,25,2.1,False,False
+16313494,Folake,Okafor,folake.okafor1@stud.th-deg.de,+4917242698162,2001-12-12,Försterplatz 69,93047,Regensburg,24,female,Nigeria,MSS,Master,2025,3,40,2.3,False,True
+13974481,Sakib,Haque,sakib.haque1@stud.th-deg.de,+49 162 56919414,2001-01-09,Gereon-Fischer-Weg 34,93413,Cham,24,male,Bangladesh,MRO,Master,2026,2,15,2.5,False,True
+28877976,Tanay,Dada,tanay.dada@stud.th-deg.de,+491623468305,1999-10-25,Kamil-Bien-Gasse 43,93413,Cham,26,male,India,MSS,Master,2026,2,15,2.3,True,True
+20568453,Jakob,Margraf,jakob.margraf@stud.th-deg.de,0160 9432 716,2005-11-03,Roggeallee 73,92224,Amberg,20,male,Germany,MDP,Bachelor,2026,2,30,2.1,False,False
+11375349,Alfredo,Barese,alfredo.barese@stud.th-deg.de,0160/8498749,1987-06-24,Daniela-Löchel-Gasse 72,93413,Cham,38,male,Italy,MMC,Master,2026,1,0,2.0,True,True
+17476478,Jairaj,Choudhary,jairaj.choudhary@stud.th-deg.de,+491609282728,2001-09-15,Daniela-Löchel-Gasse 19,93413,Cham,25,male,India,MMC,Master,2025,3,50,2.3,False,False
+17155373,Mechtild,Atzler,mechtild.atzler@stud.th-deg.de,0172 5850 4061,2000-06-01,Weinholdstr. 19,92421,Schwandorf,25,female,Germany,MDP,Bachelor,2024,6,130,2.3,False,False
+27402811,Andrei,Rosemann,andrei.rosemann@stud.th-deg.de,0176/35537142,2003-08-07,Lidwina-Siering-Gasse 17,93437,Furth im Wald,22,male,Germany,MDP,Bachelor,2024,6,120,2.0,False,False
+12030825,Ishanvi,Loke,ishanvi.loke@stud.th-deg.de,+49 170 32083733,1994-11-20,Dorina-Junitz-Straße 3,93413,Cham,31,female,India,MDM,Master,2024,5,40,2.4,False,True
+14528607,Ioannis,Papadopoulos,ioannis.papadopoulos1@stud.th-deg.de,+49 176 2757192,2001-07-22,Budigallee 55,93413,Cham,24,male,Greece,MMC,Master,2026,1,0,1.4,False,False
+26626000,Tunde,Okonkwo,tunde.okonkwo@stud.th-deg.de,+49 151 4066700,1998-07-06,Herrmannallee 34,93413,Cham,27,male,Nigeria,MRO,Master,2026,1,0,2.1,True,True
+21238638,Winfried,Wagner,winfried.wagner@stud.th-deg.de,+4916023555678,2002-12-19,Beyerweg 3,93437,Furth im Wald,23,male,Germany,MDP,Bachelor,2025,3,55,1.9,False,False
+21167255,Evangelos,Kensy,evangelos.kensy@stud.th-deg.de,0160 2356 090,2001-06-28,Wähnerplatz 17,93047,Regensburg,24,male,Germany,MDP,Bachelor,2022,10,95,2.5,False,True
+16248033,Oliwier,Młotek,oliwier.motek@stud.th-deg.de,+491622507678,1998-03-20,Fernando-Sorgatz-Straße 43,93413,Cham,27,male,Poland,MDM,Master,2025,3,55,1.7,False,False
+11269273,Ertün,İnönü,ertuen.inoenue@stud.th-deg.de,+49 152 51982874,1996-09-20,Dajana-Hartmann-Gasse 67,93413,Cham,29,male,Türkiye,MRO,Master,2025,3,55,1.5,False,False
+13610509,Adil,Idrissi,adil.idrissi@stud.th-deg.de,+49 172 10223996,1997-09-06,Dusan-Sorgatz-Straße 53,93413,Cham,28,male,Morocco,MMC,Master,2024,5,85,1.1,False,False
+23373955,Manuel,Wesack,manuel.wesack@stud.th-deg.de,0152 7286 491,2003-03-18,Zoran-Hartmann-Ring 43,94469,Deggendorf,22,male,Germany,MDP,Bachelor,2024,5,110,1.8,False,False
+13039528,Friedrich-Wilhelm,Kaul,friedrich-wilhelm.kaul@stud.th-deg.de,0157/9611381,2000-09-20,Schusterallee 15,92421,Schwandorf,25,male,Germany,MDP,Bachelor,2025,3,60,1.5,True,False
+16652497,Yaw,Amoah,yaw.amoah@stud.th-deg.de,0151/5132001,1999-01-04,Hornichgasse 23,93047,Regensburg,26,male,Ghana,MSS,Master,2026,1,0,1.0,False,False
+26463127,Panini,Biswas,panini.biswas@stud.th-deg.de,0151 0213 7401,1998-04-09,Istvan-Weinhage-Weg 62,93413,Cham,28,female,India,MSS,Master,2026,2,15,2.1,True,True
+16480530,Esi,Appiah,esi.appiah@stud.th-deg.de,+49 157 37261992,2000-11-25,Holstenallee 62,93437,Furth im Wald,26,female,Ghana,MMC,Master,2026,1,0,1.4,False,False
+14625425,Yücelen,Tevetoğlu,yuecelen.tevetoglu@stud.th-deg.de,+4915100029156,2005-08-28,Mohauptstraße 69,93413,Cham,21,male,Türkiye,MDP,Bachelor,2025,3,50,2.5,False,False
+15311992,Maryanto,Permadi,maryanto.permadi@stud.th-deg.de,+4917268347804,2000-08-05,Schleichring 42,93413,Cham,26,male,Indonesia,MSS,Master,2026,2,15,2.8,False,True
+27733891,Vicente,Correia,vicente.correia@stud.th-deg.de,+491525093744,2001-08-21,Huhnallee 22,93437,Furth im Wald,24,male,Brazil,MRO,Master,2026,1,0,1.6,False,False
+17049886,Mehdi,Bennani,mehdi.bennani@stud.th-deg.de,0176 4769 3115,1994-02-15,Gertrud-Gröttner-Straße 40,93413,Cham,31,male,Morocco,MDM,Master,2026,2,25,2.3,False,False
+26657655,Omkaar,Babu,omkaar.babu@stud.th-deg.de,+49 176 19622140,2000-12-17,Joseph-Rädel-Weg 71,93413,Cham,25,male,India,MSS,Master,2026,2,25,1.9,True,False
+18807049,Elfie,Briemer,elfie.briemer@stud.th-deg.de,0172/5353050,2003-04-15,Röhrichtgasse 15,93437,Furth im Wald,23,female,Germany,MDP,Bachelor,2024,6,55,3.2,False,True
+12788591,Athanasios,Vlachos,athanasios.vlachos@stud.th-deg.de,+49 178 59272025,1999-10-25,Claas-Bonbach-Platz 67,93413,Cham,26,male,Greece,MMC,Master,2026,1,0,1.8,False,False
+27447833,Wei,Liu,wei.liu@stud.th-deg.de,0157/2712137,1999-12-13,Schomberplatz 79,93413,Cham,26,male,China,MMC,Master,2026,1,0,1.1,False,False
+22612934,Matthias,Drewes,matthias.drewes@stud.th-deg.de,+491526448827,1997-03-17,Ingried-Jockel-Straße 65,93413,Cham,28,male,Germany,MDM,Master,2026,2,30,1.4,True,False
+28056120,Yazan,Qasem,yazan.qasem1@stud.th-deg.de,0178 7140 664,1997-08-19,Jennifer-Kade-Straße 53,93413,Cham,28,male,Jordan,MRO,Master,2026,1,0,2.3,False,False
+14778608,Wei,Liu,wei.liu1@stud.th-deg.de,+4915791263002,1999-01-16,Roggeallee 33,93047,Regensburg,26,male,China,MRO,Master,2024,6,45,2.4,False,True
